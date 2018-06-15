@@ -2,6 +2,7 @@
 from bs4 import BeautifulSoup
 import requests
 import datetime
+import csv
 
 print("Getting data from bombayhighcourt.nic.in...")
 
@@ -21,19 +22,37 @@ bombayhc_content = BeautifulSoup(bombayhc_page.content, 'html.parser')
 # Finding the judgements table
 data_table = bombayhc_content.find_all('table')[4].find_all('td', {'align': ['center']})
 
+# Write to
+outputFile = open("../outputs/judgement_data.csv", "w")
+
+with outputFile:
+    csvWriter = csv.writer(outputFile)
+    # csvWriter.writerow(["Judge Name", "Petitioner", "Respondent", "Bench", "Judgement Date", "Case No", "PDF Link"])
+    csvWriter.writerow(["Link", "Case No"])
+
+# Check record existance
+record_exist = 0
 
 with open("../outputs/table_data.txt", "w") as text_file:
     for data_table_text in data_table:
-        # Writing text into file for later use
+
+        outputFile = open("../outputs/judgement_data.csv", "a")
+
         data_table_text = data_table_text.find('a')
         if data_table_text:
-            print("Case No:")
-            print(data_table_text.get_text(), file=text_file)
             if data_table_text.get("href"):
-                print("Judgement PDF")
-                print(data_table_text.get("href"))
+                pdf_link = "http://www.bombayhighcourt.nic.in/" + str(data_table_text.get("href"))
+                case_id = data_table_text.get_text().strip()
+                record_exist = 1
 
+        if record_exist == 0:
+            continue
+
+        with outputFile:
+            csvWriter = csv.writer(outputFile)
+            csvWriter.writerow([pdf_link, case_id])
+
+        record_exist = 0
+
+# End of script
 print("HTML data from 01-01-2005 to {} stored in ../outputs/table_data.txt".format(today_date))
-
-# for data_table_text in data_table:
-    # data_table_text = data_table_text.get_text()
