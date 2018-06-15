@@ -1,0 +1,58 @@
+.ddsmoothmenu-v ul{
+margin: 0;
+padding: 0;
+width: 180px; /* Main Menu Item widths */
+list-style-type: none;
+font: bold 14px Arial;
+line-height: 20px;
+/*border-bottom: 1px solid #ccc;*/
+}
+ 
+.ddsmoothmenu-v ul li{
+/*position: relative;*/
+position: relative;
+}
+
+/* Top level menu links style */
+.ddsmoothmenu-v ul li a{
+display: block;
+overflow: auto; /*force hasLayout in IE7 */
+color: white;
+text-decoration: none;
+padding: 6px;
+
+}
+
+.ddsmoothmenu-v ul li a:link, .ddsmoothmenu-v ul li a:visited, .ddsmoothmenu-v ul li a:active{
+/*background-image: url('../../img/btnbck_hover.png');*/
+background-image: url('../../img/btnbck1.png');
+background-repeat: no-repeat;
+/*color: #0B0367;*/
+color: white;
+}
+
+.ddsmoothmenu-v ul li a:hover{
+/*background: black; /*background of menu items during onmouseover (hover state)*/
+/*background-image: url(../../img/menubg5.gif);*/
+/*width: 150px;*/
+background-image: url('../../img/btnbck_hover21.png');
+background-repeat: no-repeat;
+color:#2a665f;/* #07024F;*/
+text-decoration: underline;
+}
+
+/*Sub level menu items */
+.ddsmoothmenu-v ul li ul{
+position: absolute;
+width: 166px; /*Sub Menu Items width */
+/*background-color: #0B0367;*/
+top: 0;
+font-weight: normal;
+visibility: hidden;
+}
+
+ 
+/* Holly Hack for IE \*/
+* html .ddsmoothmenu-v ul li { float: left; height: 5%; }
+* html .ddsmoothmenu-v ul li a { height: 1%; }
+/* End */
