@@ -13,7 +13,7 @@ today_date = today_date.strftime("%d-%m-%Y")
 
 # Filling form for to and from dates
 bombayhc_URL = "http://www.bombayhighcourt.nic.in/ordqryrepact_action.php"
-payload = {'pageno': '1', 'frmaction': '', 'm_sideflg': 'OS', 'actcode': '0', 'frmdate': '01-01-2005', 'todate': today_date, 'submit1': 'Submit'}
+payload = {'pageno': '1', 'frmaction': '', 'm_sideflg': 'AR', 'actcode': '0', 'frmdate': '01-01-2005', 'todate': today_date, 'submit1': 'Submit'}
 
 bombayhc_page = requests.post(bombayhc_URL, payload)
 
@@ -49,10 +49,10 @@ with open("../outputs/table_data.txt", "w") as text_file:
             justice_text = data_table_text.get_text().strip()
             justice_cleantext = justice_text.replace(respondents_and_petitioners, '')
 
-        if "BOMBAY" in data_table_text.get_text():
+        if "AURANGABAD" in data_table_text.get_text():
             bench_date = data_table_text.get_text().strip()
-            date = bench_date[:bench_date.find("BOMBAY")]
-            bench = bench_date[bench_date.find("BOMBAY"):]
+            date = bench_date[:bench_date.find("AURANGABAD")]
+            bench = bench_date[bench_date.find("AURANGABAD"):]
 
         data_table_links = data_table_text.find('a')
         if data_table_links:
