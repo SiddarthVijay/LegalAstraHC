@@ -1,2167 +1,480 @@
-<td align="center" colspan="5"><hr/></td>
-<td align="center" colspan="5"> </td>
-<td align="center" width="25%"><b>CORAM</b></td>
-<td align="center" width="35%"><b>PARTY</b></td>
-<td align="center" width="15%"><b>JUDGEMENT DATE &amp; BENCH</b></td>
-<td align="center" width="15%"><b>CASE NO.(Pg.)/<br/>Upload Date</b></td>
-<td align="center">
- JUSTICE R.D. DHANUKA<td align="justified">BARINDRA OVERSEAS PRIVATE LTD, THROUGH DIRECTOR MR. DHANESH VIPIN PARIKH AND ANR<b> Vs </b>SHILPA SHARES AND SECURITIES AND ORS</td>
-</td>
-<td align="center">
-13/06/2018<br/>BOMBAY(Civil)</td>
-<td align="center">
-<a href="generatenewauth.php?auth=cGF0aD0uL2RhdGEvanVkZ2VtZW50cy8yMDE4LyZmbmFtZT1DV1AyOTc1OTEzLnBkZiZzbWZsYWc9TiZyanVkZGF0ZT0mdXBsb2FkZHQ9MTMvMDYvMjAxOCZzcGFzc3BocmFzZT0xNTA2MTgxMzA2Mjg=" style="text-decoration:none;color:red" target="_blank">
-WP/572/2014</a>
-(42)<br>13/06/2018</br></td>
-<td align="center">
- JUSTICE R.D. DHANUKA<td align="justified">SUNIL SITARAM MAHAJAN<b> Vs </b>SURYAKANT PANDURANG BADAVE AND ORS.</td>
-</td>
-<td align="center">
-13/06/2018<br/>BOMBAY(Civil)</td>
-<td align="center">
-<a href="generatenewauth.php?auth=cGF0aD0uL2RhdGEvanVkZ2VtZW50cy8yMDE4LyZmbmFtZT1DV1A3NDc3MTcucGRmJnNtZmxhZz1OJnJqdWRkYXRlPSZ1cGxvYWRkdD0xMy8wNi8yMDE4JnNwYXNzcGhyYXNlPTE1MDYxODEzMDYyOA==" style="text-decoration:none;color:red" target="_blank">
-WP/6778/2017</a>
-(38)<br>13/06/2018</br></td>
-<td align="center">
-A. N. MARE, REGISTRAR (JUDICAL I)<td align="justified">SHRI. SHAILESH RAMNIKLAL SHAH<b> Vs </b>SHRI. RAMBHAU ZIPARU KHADE AND ORS</td>
-</td>
-<td align="center">
-12/06/2018<br/>BOMBAY(Civil)</td>
-<td align="center">
-<a href="generatenewauth.php?auth=cGF0aD0uL2RhdGEvanVkZ2VtZW50cy8yMDE4LyZmbmFtZT1DV1AzMzE0MTMucGRmJnNtZmxhZz1OJnJqdWRkYXRlPSZ1cGxvYWRkdD0xNC8wNi8yMDE4JnNwYXNzcGhyYXNlPTE1MDYxODEzMDYyOA==" style="text-decoration:none;color:red" target="_blank">
-WP/2068/2013</a>
-(1)<br>14/06/2018</br></td>
-<td align="center">
-A. N. MARE, REGISTRAR (JUDICAL I)<td align="justified">SHRI. SHAILESH RAMNIKLAL SHAH<b> Vs </b>SHRI. AMBAJI RAGHUNATH KHADE AND ORS</td>
-</td>
-<td align="center">
-12/06/2018<br/>BOMBAY(Civil)</td>
-<td align="center">
-<a href="generatenewauth.php?auth=cGF0aD0uL2RhdGEvanVkZ2VtZW50cy8yMDE4LyZmbmFtZT1DV1AzMzExMTMucGRmJnNtZmxhZz1OJnJqdWRkYXRlPSZ1cGxvYWRkdD0xNC8wNi8yMDE4JnNwYXNzcGhyYXNlPTE1MDYxODEzMDYyOA==" style="text-decoration:none;color:red" target="_blank">
-WP/2177/2013</a>
-(1)<br>14/06/2018</br></td>
-<td align="center">
-A. N. MARE, REGISTRAR (JUDICAL I)<td align="justified">SHRI. SHAILESH RAMNIKLAL SHAH<b> Vs </b>SHRI. NATHU CHINDHU KHADE AND ORS</td>
-</td>
-<td align="center">
-12/06/2018<br/>BOMBAY(Civil)</td>
-<td align="center">
-<a href="generatenewauth.php?auth=cGF0aD0uL2RhdGEvanVkZ2VtZW50cy8yMDE4LyZmbmFtZT1DV1AzMzIxMTMucGRmJnNtZmxhZz1OJnJqdWRkYXRlPSZ1cGxvYWRkdD0xNC8wNi8yMDE4JnNwYXNzcGhyYXNlPTE1MDYxODEzMDYyOA==" style="text-decoration:none;color:red" target="_blank">
-WP/2175/2013</a>
-(1)<br>14/06/2018</br></td>
-<td align="center">
-A. N. MARE, REGISTRAR (JUDICAL I)<td align="justified">SHRI. SHAILESH RAMNIKLAL SHAH<b> Vs </b>SHRI. MARUTI UDRAYA KHADE AND ORS</td>
-</td>
-<td align="center">
-12/06/2018<br/>BOMBAY(Civil)</td>
-<td align="center">
-<a href="generatenewauth.php?auth=cGF0aD0uL2RhdGEvanVkZ2VtZW50cy8yMDE4LyZmbmFtZT1DV1AzMzA2MTMucGRmJnNtZmxhZz1OJnJqdWRkYXRlPSZ1cGxvYWRkdD0xNC8wNi8yMDE4JnNwYXNzcGhyYXNlPTE1MDYxODEzMDYyOA==" style="text-decoration:none;color:red" target="_blank">
-WP/2173/2013</a>
-(1)<br>14/06/2018</br></td>
-<td align="center">
-A. N. MARE, REGISTRAR (JUDICAL I)<td align="justified">SHRI. SHAILESH RAMNIKLAL SHAH<b> Vs </b>SHRI. BHANUDAS SHANKAR KHADE AND ORS</td>
-</td>
-<td align="center">
-12/06/2018<br/>BOMBAY(Civil)</td>
-<td align="center">
-<a href="generatenewauth.php?auth=cGF0aD0uL2RhdGEvanVkZ2VtZW50cy8yMDE4LyZmbmFtZT1DV1AzMzA3MTMucGRmJnNtZmxhZz1OJnJqdWRkYXRlPSZ1cGxvYWRkdD0xNC8wNi8yMDE4JnNwYXNzcGhyYXNlPTE1MDYxODEzMDYyOA==" style="text-decoration:none;color:red" target="_blank">
-WP/2172/2013</a>
-(1)<br>14/06/2018</br></td>
-<td align="center">
-A. N. MARE, REGISTRAR (JUDICAL I)<td align="justified">SHRI. SHAILESH RAMNIKLAL SHAH<b> Vs </b>SHRI. ANANT NAMDEO KHADE AND ORS</td>
-</td>
-<td align="center">
-12/06/2018<br/>BOMBAY(Civil)</td>
-<td align="center">
-<a href="generatenewauth.php?auth=cGF0aD0uL2RhdGEvanVkZ2VtZW50cy8yMDE4LyZmbmFtZT1DV1AzMzE1MTMucGRmJnNtZmxhZz1OJnJqdWRkYXRlPSZ1cGxvYWRkdD0xNC8wNi8yMDE4JnNwYXNzcGhyYXNlPTE1MDYxODEzMDYyOA==" style="text-decoration:none;color:red" target="_blank">
-WP/2067/2013</a>
-(1)<br>14/06/2018</br></td>
-<td align="center">
-A. N. MARE, REGISTRAR (JUDICAL I)<td align="justified">SHRI. SHAILESH RAMNIKLAL SHAH<b> Vs </b>SHRI. MAHADU HARI KHADE AND ORS</td>
-</td>
-<td align="center">
-12/06/2018<br/>BOMBAY(Civil)</td>
-<td align="center">
-<a href="generatenewauth.php?auth=cGF0aD0uL2RhdGEvanVkZ2VtZW50cy8yMDE4LyZmbmFtZT1DV1AzMzEyMTMucGRmJnNtZmxhZz1OJnJqdWRkYXRlPSZ1cGxvYWRkdD0xNC8wNi8yMDE4JnNwYXNzcGhyYXNlPTE1MDYxODEzMDYyOA==" style="text-decoration:none;color:red" target="_blank">
-WP/2063/2013</a>
-(1)<br>14/06/2018</br></td>
-<td align="center">
-A. N. MARE, REGISTRAR (JUDICAL I)<td align="justified">SHRI. SHAILESH RAMNIKLAL SHAH<b> Vs </b>SHRI. BANDHU PARSHURAM KHADE</td>
-</td>
-<td align="center">
-12/06/2018<br/>BOMBAY(Civil)</td>
-<td align="center">
-<a href="generatenewauth.php?auth=cGF0aD0uL2RhdGEvanVkZ2VtZW50cy8yMDE4LyZmbmFtZT1DV1AzMzE5MTMucGRmJnNtZmxhZz1OJnJqdWRkYXRlPSZ1cGxvYWRkdD0xNC8wNi8yMDE4JnNwYXNzcGhyYXNlPTE1MDYxODEzMDYyOA==" style="text-decoration:none;color:red" target="_blank">
-WP/2070/2013</a>
-(1)<br>14/06/2018</br></td>
-<td align="center">
-A. N. MARE, REGISTRAR (JUDICAL I)<td align="justified">SHRI. SAMBHAJI MARUTI GILBILE<b> Vs </b>STATE OF MAHARASHTRA AND ORS</td>
-</td>
-<td align="center">
-12/06/2018<br/>BOMBAY(Civil)</td>
-<td align="center">
-<a href="generatenewauth.php?auth=cGF0aD0uL2RhdGEvanVkZ2VtZW50cy8yMDE4LyZmbmFtZT1DV1AyMTgyNzExLnBkZiZzbWZsYWc9TiZyanVkZGF0ZT0mdXBsb2FkZHQ9MTQvMDYvMjAxOCZzcGFzc3BocmFzZT0xNTA2MTgxMzA2Mjg=" style="text-decoration:none;color:red" target="_blank">
-WP/2078/2013</a>
-(1)<br>14/06/2018</br></td>
-<td align="center">
- JUSTICE DR. SHALINI PHANSALKAR-JOSHI<td align="justified">SHRI PARASHARAM SAKHARAM DHUMAL AND ANR<b> Vs </b>SHRI SHAMRAO MAHADEO DHUMAL (DECD) THR HEIRS</td>
-</td>
-<td align="center">
-08/06/2018<br/>BOMBAY(Civil)</td>
-<td align="center">
-<a href="generatenewauth.php?auth=cGF0aD0uL2RhdGEvanVkZ2VtZW50cy8yMDE4LyZmbmFtZT1DU0E4MDAzNzkzLnBkZiZzbWZsYWc9TiZyanVkZGF0ZT0mdXBsb2FkZHQ9MTQvMDYvMjAxOCZzcGFzc3BocmFzZT0xNTA2MTgxMzA2Mjg=" style="text-decoration:none;color:red" target="_blank">
-SA/37/1993</a>
-(22)<br>14/06/2018</br></td>
-<td align="center">
- JUSTICE R.D. DHANUKA<td align="justified">RAJENDRA BABAN DESHMUKH AND ANR.<b> Vs </b>RECOVERY OFFICER, ABHYUDAYA CO-OP BANK LTD. AND ORS.</td>
-</td>
-<td align="center">
-07/06/2018<br/>BOMBAY(Civil)</td>
-<td align="center">
-<a href="generatenewauth.php?auth=cGF0aD0uL2RhdGEvanVkZ2VtZW50cy8yMDE4LyZmbmFtZT1DV1A5MzA4MTgucGRmJnNtZmxhZz1OJnJqdWRkYXRlPSZ1cGxvYWRkdD0xMi8wNi8yMDE4JnNwYXNzcGhyYXNlPTE1MDYxODEzMDYyOA==" style="text-decoration:none;color:red" target="_blank">
-WP/5117/2018</a>
-(8)<br>12/06/2018</br></td>
-<td align="center">
- JUSTICE S.C. GUPTE<td align="justified">M/S. PRABHA ENGINEERING PVT. LTD.<b> Vs </b>SARVA MAZDOOR SANGH AND ORS.</td>
-</td>
-<td align="center">
-06/06/2018<br/>BOMBAY(Civil)</td>
-<td align="center">
-<a href="generatenewauth.php?auth=cGF0aD0uL2RhdGEvanVkZ2VtZW50cy8yMDE4LyZmbmFtZT1DV1AxNzI3MTE2LnBkZiZzbWZsYWc9TiZyanVkZGF0ZT0mdXBsb2FkZHQ9MTIvMDYvMjAxOCZzcGFzc3BocmFzZT0xNTA2MTgxMzA2Mjg=" style="text-decoration:none;color:red" target="_blank">
-WP/3376/2017</a>
-(13)<br>12/06/2018</br></td>
-<td align="center">
-HON'BLE THE ACTING CHIEF JUSTICE<br/> JUSTICE M.S. SONAK<td align="justified">SHRI. VIKAS DHANAJI SAWANT<b> Vs </b>THE STATE OF MAHARASHTRA, THROUGH THE SECRETARY, FINANCE DEPT. AND ORS.</td>
-</td>
-<td align="center">
-05/06/2018<br/>BOMBAY(Civil)</td>
-<td align="center">
-<a href="generatenewauth.php?auth=cGF0aD0uL2RhdGEvanVkZ2VtZW50cy8yMDE4LyZmbmFtZT1DV1AyNjQ0MDE0LnBkZiZzbWZsYWc9TiZyanVkZGF0ZT0mdXBsb2FkZHQ9MDgvMDYvMjAxOCZzcGFzc3BocmFzZT0xNTA2MTgxMzA2Mjg=" style="text-decoration:none;color:red" target="_blank">
-WP/2170/2015</a>
-(20)<br>08/06/2018</br></td>
-<td align="center">
- JUSTICE B. H. DANGRE<td align="justified">MR. BHUSHAN DATTATRAYA KEDAR<b> Vs </b>MRS. DIPTI BHUSHAN KEDAR</td>
-</td>
-<td align="center">
-04/05/2018<br/>BOMBAY(Civil)</td>
-<td align="center">
-<a href="generatenewauth.php?auth=cGF0aD0uL2RhdGEvanVkZ2VtZW50cy8yMDE4LyZmbmFtZT1DV1A2MDczMTcucGRmJnNtZmxhZz1OJnJqdWRkYXRlPSZ1cGxvYWRkdD0wNS8wNS8yMDE4JnNwYXNzcGhyYXNlPTE1MDYxODEzMDYyOA==" style="text-decoration:none;color:red" target="_blank">
-WP/4011/2017</a>
-(28)<br>05/05/2018</br></td>
-<td align="center">
- JUSTICE R.D. DHANUKA<td align="justified">TAMJODEVI MADARSHA BHANDARI<b> Vs </b>TAHSILDAR, SOUTH SOLAPUR AND ORS.</td>
-</td>
-<td align="center">
-04/05/2018<br/>BOMBAY(Civil)</td>
-<td align="center">
-<a href="generatenewauth.php?auth=cGF0aD0uL2RhdGEvanVkZ2VtZW50cy8yMDE4LyZmbmFtZT1DV1AxMzM1MjE4LnBkZiZzbWZsYWc9TiZyanVkZGF0ZT0mdXBsb2FkZHQ9MDUvMDUvMjAxOCZzcGFzc3BocmFzZT0xNTA2MTgxMzA2Mjg=" style="text-decoration:none;color:red" target="_blank">
-WP/5503/2018</a>
-(5)<br>05/05/2018</br></td>
-<td align="center">
- JUSTICE B. H. DANGRE<td align="justified">MR. PRAKASH KUMAR SINGHEE,<b> Vs </b>MS. AMRAPALI SINGHEE,</td>
-</td>
-<td align="center">
-04/05/2018<br/>BOMBAY(Civil)</td>
-<td align="center">
-<a href="generatenewauth.php?auth=cGF0aD0uL2RhdGEvanVkZ2VtZW50cy8yMDE4LyZmbmFtZT1DV1A4MzM4MTgucGRmJnNtZmxhZz1OJnJqdWRkYXRlPSZ1cGxvYWRkdD0wNy8wNS8yMDE4JnNwYXNzcGhyYXNlPTE1MDYxODEzMDYyOA==" style="text-decoration:none;color:red" target="_blank">
-WP/3553/2018</a>
-(19)<br>07/05/2018</br></td>
-<td align="center">
- JUSTICE DR. SHALINI PHANSALKAR-JOSHI<td align="justified">SULOCHANA DATTATRAYA BAVLEKAR<b> Vs </b>THE CHIEF OFFICER, MAHABALESHWAR CIRIRSTHAN NAGAR PARISHAD,  AND ORS.</td>
-</td>
-<td align="center">
-04/05/2018<br/>BOMBAY(Civil)</td>
-<td align="center">
-<a href="generatenewauth.php?auth=cGF0aD0uL2RhdGEvanVkZ2VtZW50cy8yMDE4LyZmbmFtZT1DV1A4MjY1MTgucGRmJnNtZmxhZz1OJnJqdWRkYXRlPSZ1cGxvYWRkdD0wOC8wNS8yMDE4JnNwYXNzcGhyYXNlPTE1MDYxODEzMDYyOA==" style="text-decoration:none;color:red" target="_blank">
-WP/5396/2018</a>
-(15)<br>08/05/2018</br></td>
-<td align="center">
- JUSTICE B. H. DANGRE<td align="justified">MR. ALI ABBAS DARUWALA<b> Vs </b>MRS. SHEHNAZ DARUWALA</td>
-</td>
-<td align="center">
-04/05/2018<br/>BOMBAY(Civil)</td>
-<td align="center">
-<a href="generatenewauth.php?auth=cGF0aD0uL2RhdGEvanVkZ2VtZW50cy8yMDE4LyZmbmFtZT1DV1AxMDYxOC5wZGYmc21mbGFnPU4mcmp1ZGRhdGU9JnVwbG9hZGR0PTE0LzA1LzIwMTgmc3Bhc3NwaHJhc2U9MTUwNjE4MTMwNjI4" style="text-decoration:none;color:red" target="_blank">
-WP/114/2018</a>
-(19)<br>14/05/2018</br></td>
-<td align="center">
- JUSTICE R.D. DHANUKA<td align="justified">SHRI. KHANDU BHARAT AAIWALE<b> Vs </b>THE DIVISIONAL JOINT REGISTRAR, CO-OPERATIVE SOCIETIES, KOLHAPUR DIVISION AND ORS.</td>
-</td>
-<td align="center">
-03/05/2018<br/>BOMBAY(Civil)</td>
-<td align="center">
-<a href="generatenewauth.php?auth=cGF0aD0uL2RhdGEvanVkZ2VtZW50cy8yMDE4LyZmbmFtZT1DV1AxMTc2MzE2LnBkZiZzbWZsYWc9TiZyanVkZGF0ZT0mdXBsb2FkZHQ9MDMvMDUvMjAxOCZzcGFzc3BocmFzZT0xNTA2MTgxMzA2Mjg=" style="text-decoration:none;color:red" target="_blank">
-WP/11259/2016</a>
-(19)<br>03/05/2018</br></td>
-<td align="center">
- JUSTICE A. K. MENON<td align="justified">VISHWAS ANANTA MHATRE AND ORS.<b> Vs </b>BHIWANDI NIZAMPURA CITY MUNICIPAL CORPORATION AND ANR.</td>
-</td>
-<td align="center">
-03/05/2018<br/>BOMBAY(Civil)</td>
-<td align="center">
-<a href="generatenewauth.php?auth=cGF0aD0uL2RhdGEvanVkZ2VtZW50cy8yMDE4LyZmbmFtZT1DV1AxMzc1MTgucGRmJnNtZmxhZz1OJnJqdWRkYXRlPSZ1cGxvYWRkdD0wNy8wNS8yMDE4JnNwYXNzcGhyYXNlPTE1MDYxODEzMDYyOA==" style="text-decoration:none;color:red" target="_blank">
-WPST/1375/2018</a>
-(38)<br>07/05/2018</br></td>
-<td align="center">
- JUSTICE A. K. MENON<td align="justified">SIDDHARTH SONAWANE AND ORS.<b> Vs </b>BHIWANDI NIZAMPURA MUNICIPAL CORPROATION KAAF AND ANR.</td>
-</td>
-<td align="center">
-03/05/2018<br/>BOMBAY(Civil)</td>
-<td align="center">
-<a href="generatenewauth.php?auth=cGF0aD0uL2RhdGEvanVkZ2VtZW50cy8yMDE4LyZmbmFtZT1DV1AxNjIxMTgucGRmJnNtZmxhZz1OJnJqdWRkYXRlPSZ1cGxvYWRkdD0wNy8wNS8yMDE4JnNwYXNzcGhyYXNlPTE1MDYxODEzMDYyOA==" style="text-decoration:none;color:red" target="_blank">
-WP/768/2018</a>
-(38)<br>07/05/2018</br></td>
-<td align="center">
- JUSTICE A. K. MENON<td align="justified">BHAU RAMCHANDRA PONDEKAR AND ORS.<b> Vs </b>BHIWANDI NIZAMPURA MUNICIPAL CORPROATION KAAF AND ANR.</td>
-</td>
-<td align="center">
-03/05/2018<br/>BOMBAY(Civil)</td>
-<td align="center">
-<a href="generatenewauth.php?auth=cGF0aD0uL2RhdGEvanVkZ2VtZW50cy8yMDE4LyZmbmFtZT1DV1AxNjE2MTgucGRmJnNtZmxhZz1OJnJqdWRkYXRlPSZ1cGxvYWRkdD0wNy8wNS8yMDE4JnNwYXNzcGhyYXNlPTE1MDYxODEzMDYyOA==" style="text-decoration:none;color:red" target="_blank">
-WP/767/2018</a>
-(38)<br>07/05/2018</br></td>
-<td align="center">
- JUSTICE R.D. DHANUKA<td align="justified">PALUS SAHAKARI BANK LTD. AND ANR<b> Vs </b>SHRI SUDHIR SHAMRAO SALUNKHE AND ORS</td>
-</td>
-<td align="center">
-03/05/2018<br/>BOMBAY(Civil)</td>
-<td align="center">
-<a href="generatenewauth.php?auth=cGF0aD0uL2RhdGEvanVkZ2VtZW50cy8yMDE4LyZmbmFtZT1DV1AyNDkzMTYucGRmJnNtZmxhZz1OJnJqdWRkYXRlPSZ1cGxvYWRkdD0wMy8wNS8yMDE4JnNwYXNzcGhyYXNlPTE1MDYxODEzMDYyOA==" style="text-decoration:none;color:red" target="_blank">
-WP/1718/2016</a>
-(19)<br>03/05/2018</br></td>
-<td align="center">
- JUSTICE R.M. SAVANT<br/> JUSTICE  S. V. KOTWAL<td align="justified">MR. GIRISH CHANDRAKANT GOSAVI<b> Vs </b>THE CHIEF SECRETARY AND ORS.</td>
-</td>
-<td align="center">
-03/05/2018<br/>BOMBAY(Civil)</td>
-<td align="center">
-<a href="generatenewauth.php?auth=cGF0aD0uL2RhdGEvanVkZ2VtZW50cy8yMDE4LyZmbmFtZT1DV1A0ODg5MTQucGRmJnNtZmxhZz1OJnJqdWRkYXRlPSZ1cGxvYWRkdD0wNC8wNS8yMDE4JnNwYXNzcGhyYXNlPTE1MDYxODEzMDYyOA==" style="text-decoration:none;color:red" target="_blank">
-WP/2470/2014</a>
-(55)<br>04/05/2018</br></td>
-<td align="center">
- JUSTICE R.D. DHANUKA<td align="justified">PALUS SAHAKARI BANK LTD. AND ANR<b> Vs </b>SHRI. SHAMRAO ANANDRAO SALUNKHE AND ORS</td>
-</td>
-<td align="center">
-03/05/2018<br/>BOMBAY(Civil)</td>
-<td align="center">
-<a href="generatenewauth.php?auth=cGF0aD0uL2RhdGEvanVkZ2VtZW50cy8yMDE4LyZmbmFtZT1DV1AyNDkyMTYucGRmJnNtZmxhZz1OJnJqdWRkYXRlPSZ1cGxvYWRkdD0wMy8wNS8yMDE4JnNwYXNzcGhyYXNlPTE1MDYxODEzMDYyOA==" style="text-decoration:none;color:red" target="_blank">
-WP/1719/2016</a>
-(19)<br>03/05/2018</br></td>
-<td align="center">
- JUSTICE R.D. DHANUKA<td align="justified">SHRI. KHANDU BHARAT AAIWALE<b> Vs </b>THE DIVISIONAL JOINT REGISTRAR, CO-OPERATIVE SOCIETIES, KOLHAPUR DIVISION AND ORS.</td>
-</td>
-<td align="center">
-03/05/2018<br/>BOMBAY(Civil)</td>
-<td align="center">
-<a href="generatenewauth.php?auth=cGF0aD0uL2RhdGEvanVkZ2VtZW50cy8yMDE4LyZmbmFtZT1DV1AxMTc2NDE2LnBkZiZzbWZsYWc9TiZyanVkZGF0ZT0mdXBsb2FkZHQ9MDMvMDUvMjAxOCZzcGFzc3BocmFzZT0xNTA2MTgxMzA2Mjg=" style="text-decoration:none;color:red" target="_blank">
-WP/11258/2016</a>
-(19)<br>03/05/2018</br></td>
-<td align="center">
- JUSTICE R.D. DHANUKA<td align="justified">SHRI. KHANDU BHARAT AAIWALE<b> Vs </b>THE DIVISIONAL JOINT REGISTRAR, CO.OP. SOCIETIES AND ORS</td>
-</td>
-<td align="center">
-03/05/2018<br/>BOMBAY(Civil)</td>
-<td align="center">
-<a href="generatenewauth.php?auth=cGF0aD0uL2RhdGEvanVkZ2VtZW50cy8yMDE4LyZmbmFtZT1DV1AxMTU2NzE2LnBkZiZzbWZsYWc9TiZyanVkZGF0ZT0mdXBsb2FkZHQ9MDMvMDUvMjAxOCZzcGFzc3BocmFzZT0xNTA2MTgxMzA2Mjg=" style="text-decoration:none;color:red" target="_blank">
-WP/11260/2016</a>
-(19)<br>03/05/2018</br></td>
-<td align="center">
- JUSTICE A. K. MENON<td align="justified">SANJAY JAGANNATH TAYADE AND ORS.<b> Vs </b>BHIWANDI NIZAMPURA MUNICIPAL CORPROATION KAAF AND ANR.</td>
-</td>
-<td align="center">
-03/05/2018<br/>BOMBAY(Civil)</td>
-<td align="center">
-<a href="generatenewauth.php?auth=cGF0aD0uL2RhdGEvanVkZ2VtZW50cy8yMDE4LyZmbmFtZT1DV1AxNjEwMTgucGRmJnNtZmxhZz1OJnJqdWRkYXRlPSZ1cGxvYWRkdD0wNy8wNS8yMDE4JnNwYXNzcGhyYXNlPTE1MDYxODEzMDYyOA==" style="text-decoration:none;color:red" target="_blank">
-WPST/1610/2018</a>
-(38)<br>07/05/2018</br></td>
-<td align="center">
- JUSTICE R.D. DHANUKA<td align="justified">PALUS SAHAKARI BANK LTD. AND ANR<b> Vs </b>SHRI SUNIL SHAMRAO SALUNKHE AND ORS</td>
-</td>
-<td align="center">
-03/05/2018<br/>BOMBAY(Civil)</td>
-<td align="center">
-<a href="generatenewauth.php?auth=cGF0aD0uL2RhdGEvanVkZ2VtZW50cy8yMDE4LyZmbmFtZT1DV1AyNDk1MTYucGRmJnNtZmxhZz1OJnJqdWRkYXRlPSZ1cGxvYWRkdD0wMy8wNS8yMDE4JnNwYXNzcGhyYXNlPTE1MDYxODEzMDYyOA==" style="text-decoration:none;color:red" target="_blank">
-WP/1714/2016</a>
-(19)<br>03/05/2018</br></td>
-<td align="center">
- JUSTICE A. K. MENON<td align="justified">SUNIL SHANKAR JADHAV AND ORS.<b> Vs </b>BHIWANDI NIZAMPUR MUNICIPAL CORPORATION AND ANR.</td>
-</td>
-<td align="center">
-03/05/2018<br/>BOMBAY(Civil)</td>
-<td align="center">
-<a href="generatenewauth.php?auth=cGF0aD0uL2RhdGEvanVkZ2VtZW50cy8yMDE4LyZmbmFtZT1DV1AxNzAxMTgucGRmJnNtZmxhZz1OJnJqdWRkYXRlPSZ1cGxvYWRkdD0wNy8wNS8yMDE4JnNwYXNzcGhyYXNlPTE1MDYxODEzMDYyOA==" style="text-decoration:none;color:red" target="_blank">
-WPST/1701/2018</a>
-(38)<br>07/05/2018</br></td>
-<td align="center">
- JUSTICE A. K. MENON<td align="justified">BHARAT JIJABA SHINDE<b> Vs </b>BHARATIYA KAMGAR SENA</td>
-</td>
-<td align="center">
-03/05/2018<br/>BOMBAY(Civil)</td>
-<td align="center">
-<a href="generatenewauth.php?auth=cGF0aD0uL2RhdGEvanVkZ2VtZW50cy8yMDE4LyZmbmFtZT1DV1AyMzM3NzE3LnBkZiZzbWZsYWc9TiZyanVkZGF0ZT0mdXBsb2FkZHQ9MTYvMDUvMjAxOCZzcGFzc3BocmFzZT0xNTA2MTgxMzA2Mjg=" style="text-decoration:none;color:red" target="_blank">
-WP/12240/2017</a>
-(14)<br>16/05/2018</br></td>
-<td align="center">
- JUSTICE A. K. MENON<td align="justified">RANJIT GURUNATH CHATTRE AND ORS.<b> Vs </b>BHIWANDI NIZAMPURA CITY, MUNICIPAL CORPORATION AND ANR.</td>
-</td>
-<td align="center">
-03/05/2018<br/>BOMBAY(Civil)</td>
-<td align="center">
-<a href="generatenewauth.php?auth=cGF0aD0uL2RhdGEvanVkZ2VtZW50cy8yMDE4LyZmbmFtZT1DV1AxMjgyMTgucGRmJnNtZmxhZz1OJnJqdWRkYXRlPSZ1cGxvYWRkdD0wNy8wNS8yMDE4JnNwYXNzcGhyYXNlPTE1MDYxODEzMDYyOA==" style="text-decoration:none;color:red" target="_blank">
-WP/568/2018</a>
-(38)<br>07/05/2018</br></td>
-<td align="center">
- JUSTICE A. K. MENON<td align="justified">KRUSHNAMAI SHIKSHAN PRASARAK MANDAL, DHAMNER<b> Vs </b>THE STATE OF MAHARASHTRA THROUGH THE SECRETARY AND ANR.</td>
-</td>
-<td align="center">
-03/05/2018<br/>BOMBAY(Civil)</td>
-<td align="center">
-<a href="generatenewauth.php?auth=cGF0aD0uL2RhdGEvanVkZ2VtZW50cy8yMDE4LyZmbmFtZT1DV1AxMzc3MTcucGRmJnNtZmxhZz1OJnJqdWRkYXRlPSZ1cGxvYWRkdD0wOC8wNS8yMDE4JnNwYXNzcGhyYXNlPTE1MDYxODEzMDYyOA==" style="text-decoration:none;color:red" target="_blank">
-WP/818/2017</a>
-(24)<br>08/05/2018</br></td>
-<td align="center">
- JUSTICE DR. SHALINI PHANSALKAR-JOSHI<td align="justified">THE BOARD OF TRUSTEES OF THE PORT OF MUMBAI<b> Vs </b>NEW INDIA ASSURANCE COMPANY LIMITED</td>
-</td>
-<td align="center">
-03/05/2018<br/>BOMBAY(Civil)</td>
-<td align="center">
-<a href="generatenewauth.php?auth=cGF0aD0uL2RhdGEvanVkZ2VtZW50cy8yMDE4LyZmbmFtZT1DV1AxMTQ4NTE1LnBkZiZzbWZsYWc9TiZyanVkZGF0ZT0mdXBsb2FkZHQ9MDgvMDUvMjAxOCZzcGFzc3BocmFzZT0xNTA2MTgxMzA2Mjg=" style="text-decoration:none;color:red" target="_blank">
-WP/5678/2015</a>
-(29)<br>08/05/2018</br></td>
-<td align="center">
- JUSTICE A. K. MENON<td align="justified">SHRI. AJAY GOPAL PARMAR AND ANR<b> Vs </b>BHIWANDI NIZAMPUR MUNICIPAL CORPORATION  AND ANR..</td>
-</td>
-<td align="center">
-03/05/2018<br/>BOMBAY(Civil)</td>
-<td align="center">
-<a href="generatenewauth.php?auth=cGF0aD0uL2RhdGEvanVkZ2VtZW50cy8yMDE4LyZmbmFtZT1DV1AzNjE3NTE3LnBkZiZzbWZsYWc9TiZyanVkZGF0ZT0mdXBsb2FkZHQ9MDcvMDUvMjAxOCZzcGFzc3BocmFzZT0xNTA2MTgxMzA2Mjg=" style="text-decoration:none;color:red" target="_blank">
-WP/1435/2018</a>
-(38)<br>07/05/2018</br></td>
-<td align="center">
- JUSTICE NARESH H. PATIL<br/> JUSTICE G. S. KULKARNI<td align="justified">SACHIN BHAURAO CHAVAN<b> Vs </b>THE STATE OF MAHARASHTRA AND ANR</td>
-</td>
-<td align="center">
-03/05/2018<br/>BOMBAY(Civil)</td>
-<td align="center">
-<a href="generatenewauth.php?auth=cGF0aD0uL2RhdGEvanVkZ2VtZW50cy8yMDE4LyZmbmFtZT1DWEZFUjgwMDQ2MTgucGRmJnNtZmxhZz1OJnJqdWRkYXRlPSZ1cGxvYWRkdD0wMy8wNS8yMDE4JnNwYXNzcGhyYXNlPTE1MDYxODEzMDYyOA==" style="text-decoration:none;color:red" target="_blank">
-PIL/72/2018</a>
-(39)<br>03/05/2018</br></td>
-<td align="center">
- JUSTICE A. K. MENON<td align="justified">MURLIDHAR TATYA PATIL<b> Vs </b>BHIWANDI NIZAMPURA MUNICIPAL CORP. KAAF ALI, AND ANR.</td>
-</td>
-<td align="center">
-03/05/2018<br/>BOMBAY(Civil)</td>
-<td align="center">
-<a href="generatenewauth.php?auth=cGF0aD0uL2RhdGEvanVkZ2VtZW50cy8yMDE4LyZmbmFtZT1DV1AyNDQwMTgucGRmJnNtZmxhZz1OJnJqdWRkYXRlPSZ1cGxvYWRkdD0wNy8wNS8yMDE4JnNwYXNzcGhyYXNlPTE1MDYxODEzMDYyOA==" style="text-decoration:none;color:red" target="_blank">
-WP/1057/2018</a>
-(38)<br>07/05/2018</br></td>
-<td align="center">
- JUSTICE K.K. TATED<br/> JUSTICE B.P. COLABAWALLA<td align="justified">MR. SAMIT SUBHASH AGARWAL<b> Vs </b>MS. KAMLESH LALTAPRASAD GUPTA</td>
-</td>
-<td align="center">
-27/04/2018<br/>BOMBAY(Civil)</td>
-<td align="center">
-<a href="generatenewauth.php?auth=cGF0aD0uL2RhdGEvanVkZ2VtZW50cy8yMDE4LyZmbmFtZT1DQ0FNMzIyODExMi5wZGYmc21mbGFnPU4mcmp1ZGRhdGU9JnVwbG9hZGR0PTI4LzA0LzIwMTgmc3Bhc3NwaHJhc2U9MTUwNjE4MTMwNjI4" style="text-decoration:none;color:red" target="_blank">
-CAM/325/2012</a>
-(1)<br>28/04/2018</br></td>
-<td align="center">
- JUSTICE K.K. TATED<br/> JUSTICE B.P. COLABAWALLA<td align="justified">MR. SAMIT SUBHASH AGARWAL<b> Vs </b>MS. KAMLESH LALTAPRASAD GUPTA</td>
-</td>
-<td align="center">
-27/04/2018<br/>BOMBAY(Civil)</td>
-<td align="center">
-<a href="generatenewauth.php?auth=cGF0aD0uL2RhdGEvanVkZ2VtZW50cy8yMDE4LyZmbmFtZT1DRkNBMzIyODAxMi5wZGYmc21mbGFnPU4mcmp1ZGRhdGU9JnVwbG9hZGR0PTI4LzA0LzIwMTgmc3Bhc3NwaHJhc2U9MTUwNjE4MTMwNjI4" style="text-decoration:none;color:red" target="_blank">
-FCA/154/2012</a>
-(19)<br>28/04/2018</br></td>
-<td align="center">
- JUSTICE MRIDULA BHATKAR<td align="justified">SUPRIYA SUBHASH BHATMARE<b> Vs </b>SHIVANAND BABASO SWAMI</td>
-</td>
-<td align="center">
-27/04/2018<br/>BOMBAY(Civil)</td>
-<td align="center">
-<a href="generatenewauth.php?auth=cGF0aD0uL2RhdGEvanVkZ2VtZW50cy8yMDE4LyZmbmFtZT1DU0EyMjEwMzE1LnBkZiZzbWZsYWc9TiZyanVkZGF0ZT0mdXBsb2FkZHQ9MjcvMDQvMjAxOCZzcGFzc3BocmFzZT0xNTA2MTgxMzA2Mjg=" style="text-decoration:none;color:red" target="_blank">
-SA/851/2015</a>
-(12)<br>27/04/2018</br></td>
-<td align="center">
- JUSTICE A.A. SAYED<br/> JUSTICE R.V. GHUGE<td align="justified">MRS. JAYA SURESH GANGAR AND ORS.<b> Vs </b>THE STATE OF MAHARASHTRA THROUGH CHIEF SECRETARY AND ORS.</td>
-</td>
-<td align="center">
-27/04/2018<br/>BOMBAY(Civil)</td>
-<td align="center">
-<a href="generatenewauth.php?auth=cGF0aD0uL2RhdGEvY2l2aWwvMjAxOC8mZm5hbWU9V1AxMjM5NjE4MjcwNDE4LnBkZiZzbWZsYWc9TiZyanVkZGF0ZT0mdXBsb2FkZHQ9MDkvMDUvMjAxOCZzcGFzc3BocmFzZT0xNTA2MTgxMzA2Mjg=" style="text-decoration:none;color:purple" target="_blank">
-WP/5047/2018</a>
-(14)<br>09/05/2018</br></td>
-<td align="center">
- JUSTICE DR. SHALINI PHANSALKAR-JOSHI<td align="justified">THE MUNICIPAL CORPORATION OF GREATER MUMBAI<b> Vs </b>SUHAS SHRIDHAR RANE AND ORS.</td>
-</td>
-<td align="center">
-27/04/2018<br/>BOMBAY(Civil)</td>
-<td align="center">
-<a href="generatenewauth.php?auth=cGF0aD0uL2RhdGEvanVkZ2VtZW50cy8yMDE4LyZmbmFtZT1DV1AxMjE0MjA5LnBkZiZzbWZsYWc9TiZyanVkZGF0ZT0mdXBsb2FkZHQ9MjcvMDQvMjAxOCZzcGFzc3BocmFzZT0xNTA2MTgxMzA2Mjg=" style="text-decoration:none;color:red" target="_blank">
-WP/4905/2009</a>
-(22)<br>27/04/2018</br></td>
-<td align="center">
- JUSTICE R.D. DHANUKA<td align="justified">ANIL MANILAL SANGHVI<b> Vs </b>DEVIKA DHANANJAY GOKHALE, AND ORS</td>
-</td>
-<td align="center">
-26/04/2018<br/>BOMBAY(Civil)</td>
-<td align="center">
-<a href="generatenewauth.php?auth=cGF0aD0uL2RhdGEvanVkZ2VtZW50cy8yMDE4LyZmbmFtZT1DV1A3MjQ1MTEucGRmJnNtZmxhZz1OJnJqdWRkYXRlPSZ1cGxvYWRkdD0yNi8wNC8yMDE4JnNwYXNzcGhyYXNlPTE1MDYxODEzMDYyOA==" style="text-decoration:none;color:red" target="_blank">
-WP/2888/2011</a>
-(25)<br>26/04/2018</br></td>
-<td align="center">
- JUSTICE DR. SHALINI PHANSALKAR-JOSHI<td align="justified">MRS. MADARIKAUR @ AMARKAUAR DADASINGH JUNNI<b> Vs </b>MOHAMMAD HANIF ABDUL WAHID SHAIKH AND ORS.</td>
-</td>
-<td align="center">
-25/04/2018<br/>BOMBAY(Civil)</td>
-<td align="center">
-<a href="generatenewauth.php?auth=cGF0aD0uL2RhdGEvanVkZ2VtZW50cy8yMDE4LyZmbmFtZT1DV1AyNTY4MDE3LnBkZiZzbWZsYWc9TiZyanVkZGF0ZT0mdXBsb2FkZHQ9MDQvMDUvMjAxOCZzcGFzc3BocmFzZT0xNTA2MTgxMzA2Mjg=" style="text-decoration:none;color:red" target="_blank">
-WP/10221/2017</a>
-(13)<br>04/05/2018</br></td>
-<td align="center">
- JUSTICE R.D. DHANUKA<td align="justified">SHRI. ANIL GANPAT TUPTE<b> Vs </b>STATE OF MAHARASHTRA AND ORS.</td>
-</td>
-<td align="center">
-25/04/2018<br/>BOMBAY(Civil)</td>
-<td align="center">
-<a href="generatenewauth.php?auth=cGF0aD0uL2RhdGEvanVkZ2VtZW50cy8yMDE4LyZmbmFtZT1DV1AxMjE5MjE4LnBkZiZzbWZsYWc9TiZyanVkZGF0ZT0mdXBsb2FkZHQ9MDIvMDUvMjAxOCZzcGFzc3BocmFzZT0xNTA2MTgxMzA2Mjg=" style="text-decoration:none;color:red" target="_blank">
-WP/4910/2018</a>
-(6)<br>02/05/2018</br></td>
-<td align="center">
- JUSTICE DR. SHALINI PHANSALKAR-JOSHI<td align="justified">MOHAMMAD ARIF MOHAMMAD HANIF SHAIKH<b> Vs </b>MOHAMMAD HANIF ABDUL WAHID SHAIKH AND ORS.</td>
-</td>
-<td align="center">
-25/04/2018<br/>BOMBAY(Civil)</td>
-<td align="center">
-<a href="generatenewauth.php?auth=cGF0aD0uL2RhdGEvanVkZ2VtZW50cy8yMDE4LyZmbmFtZT1DV1AyNDAyMzE3LnBkZiZzbWZsYWc9TiZyanVkZGF0ZT0mdXBsb2FkZHQ9MDQvMDUvMjAxOCZzcGFzc3BocmFzZT0xNTA2MTgxMzA2Mjg=" style="text-decoration:none;color:red" target="_blank">
-WP/10774/2017</a>
-(13)<br>04/05/2018</br></td>
-<td align="center">
-HON'BLE THE ACTING CHIEF JUSTICE<br/> JUSTICE M.S. SONAK<td align="justified">SMT. LEELABAI YASHWANT GHODKE AND ANR.<b> Vs </b>THE UNION OF INDIA THROUGH THE GENERAL MANAGER AND ORS.</td>
-</td>
-<td align="center">
-25/04/2018<br/>BOMBAY(Civil)</td>
-<td align="center">
-<a href="generatenewauth.php?auth=cGF0aD0uL2RhdGEvanVkZ2VtZW50cy8yMDE4LyZmbmFtZT1DV1A4NDE4LnBkZiZzbWZsYWc9TiZyanVkZGF0ZT0mdXBsb2FkZHQ9MDUvMDYvMjAxOCZzcGFzc3BocmFzZT0xNTA2MTgxMzA2Mjg=" style="text-decoration:none;color:red" target="_blank">
-WP/347/2018</a>
-(25)<br>05/06/2018</br></td>
-<td align="center">
- JUSTICE R.D. DHANUKA<td align="justified">MOHAN MENGHRAJ SHROFF<b> Vs </b>DEPUTY REGISTRAR, CO-OPERATIVE SOCIETIES D WARD MUMBAI AND ORS.</td>
-</td>
-<td align="center">
-24/04/2018<br/>BOMBAY(Civil)</td>
-<td align="center">
-<a href="generatenewauth.php?auth=cGF0aD0uL2RhdGEvanVkZ2VtZW50cy8yMDE4LyZmbmFtZT1DV1AzMDQ3OTE3LnBkZiZzbWZsYWc9TiZyanVkZGF0ZT0mdXBsb2FkZHQ9MDIvMDUvMjAxOCZzcGFzc3BocmFzZT0xNTA2MTgxMzA2Mjg=" style="text-decoration:none;color:red" target="_blank">
-WP/13084/2017</a>
-(8)<br>02/05/2018</br></td>
-<td align="center">
- JUSTICE DR. SHALINI PHANSALKAR-JOSHI<td align="justified">UNION OF INDIA<b> Vs </b>SHRI LAXMAN YADNESHWAR SATHE</td>
-</td>
-<td align="center">
-24/04/2018<br/>BOMBAY(Civil)</td>
-<td align="center">
-<a href="generatenewauth.php?auth=cGF0aD0uL2RhdGEvanVkZ2VtZW50cy8yMDE4LyZmbmFtZT1DV1A1MjE3LnBkZiZzbWZsYWc9TiZyanVkZGF0ZT0mdXBsb2FkZHQ9MjQvMDQvMjAxOCZzcGFzc3BocmFzZT0xNTA2MTgxMzA2Mjg=" style="text-decoration:none;color:red" target="_blank">
-WP/956/2017</a>
-(19)<br>24/04/2018</br></td>
-<td align="center">
- JUSTICE R.D. DHANUKA<td align="justified">MOHAN MENGHRAJ SHROFF<b> Vs </b>DEPUTY REGISTRAR, CO-OPERATIVE SOCIETIES D WARD MUMBAI AND ORS.</td>
-</td>
-<td align="center">
-24/04/2018<br/>BOMBAY(Civil)</td>
-<td align="center">
-<a href="generatenewauth.php?auth=cGF0aD0uL2RhdGEvanVkZ2VtZW50cy8yMDE4LyZmbmFtZT1DQ0FXMzA1MjMxNy5wZGYmc21mbGFnPU4mcmp1ZGRhdGU9JnVwbG9hZGR0PTAyLzA1LzIwMTgmc3Bhc3NwaHJhc2U9MTUwNjE4MTMwNjI4" style="text-decoration:none;color:red" target="_blank">
-CAW/59/2018</a>
-(8)<br>02/05/2018</br></td>
-<td align="center">
- JUSTICE  A.S. OKA<br/> JUSTICE  R. I. CHAGLA<td align="justified">ROHIT MANOHAR JOSHI<b> Vs </b>TREE AUTHORITY, THANE AND ORS.</td>
-</td>
-<td align="center">
-23/04/2018<br/>BOMBAY(Civil)</td>
-<td align="center">
-<a href="generatenewauth.php?auth=cGF0aD0uL2RhdGEvY2l2aWwvMjAxOC8mZm5hbWU9UElMMzI0OTQxNzIzMDQxOC5wZGYmc21mbGFnPU4mcmp1ZGRhdGU9JnVwbG9hZGR0PTI1LzA1LzIwMTgmc3Bhc3NwaHJhc2U9MTUwNjE4MTMwNjI4" style="text-decoration:none;color:purple" target="_blank">
-PIL/119/2017</a>
-(73)<br>25/05/2018</br></td>
-<td align="center">
- JUSTICE K.K. TATED<br/> JUSTICE B.P. COLABAWALLA<td align="justified">SIR MOHAMMAD YUSUF TRUST<b> Vs </b>URMISH MANHARLAL UDANI</td>
-</td>
-<td align="center">
-20/04/2018<br/>BOMBAY(Civil)</td>
-<td align="center">
-<a href="generatenewauth.php?auth=cGF0aD0uL2RhdGEvanVkZ2VtZW50cy8yMDE4LyZmbmFtZT1DQ0FXMTU4NDcxNS5wZGYmc21mbGFnPU4mcmp1ZGRhdGU9JnVwbG9hZGR0PTI4LzA0LzIwMTgmc3Bhc3NwaHJhc2U9MTUwNjE4MTMwNjI4" style="text-decoration:none;color:red" target="_blank">
-CAW/1232/2016</a>
-(1)<br>28/04/2018</br></td>
-<td align="center">
- JUSTICE DR. SHALINI PHANSALKAR-JOSHI<td align="justified">BIPIN JAYSUKHLAL MEHTA AND ORS.<b> Vs </b>JAYANTIBHAI TALAKCHAND SHAH AND ANR.</td>
-</td>
-<td align="center">
-20/04/2018<br/>BOMBAY(Civil)</td>
-<td align="center">
-<a href="generatenewauth.php?auth=cGF0aD0uL2RhdGEvanVkZ2VtZW50cy8yMDE4LyZmbmFtZT1DV1A3NTIwMTgucGRmJnNtZmxhZz1OJnJqdWRkYXRlPSZ1cGxvYWRkdD0wMy8wNS8yMDE4JnNwYXNzcGhyYXNlPTE1MDYxODEzMDYyOA==" style="text-decoration:none;color:red" target="_blank">
-WPST/7520/2018</a>
-(29)<br>03/05/2018</br></td>
-<td align="center">
- JUSTICE  B.R. GAVAI<br/> JUSTICE B. H. DANGRE<td align="justified">VEDANTAA INSTITUTE OF ACADEMIC EXCELLENCE PVT. LTD. AND ANR.<b> Vs </b>UNION OF INDIA GOVT. OF INDIA AND ANR.</td>
-</td>
-<td align="center">
-20/04/2018<br/>BOMBAY(Civil)</td>
-<td align="center">
-<a href="generatenewauth.php?auth=cGF0aD0uL2RhdGEvanVkZ2VtZW50cy8yMDE4LyZmbmFtZT1DV1AxMDY4MzE4LnBkZiZzbWZsYWc9TiZyanVkZGF0ZT0mdXBsb2FkZHQ9MjMvMDQvMjAxOCZzcGFzc3BocmFzZT0xNTA2MTgxMzA2Mjg=" style="text-decoration:none;color:red" target="_blank">
-WP/4319/2018</a>
-(20)<br>23/04/2018</br></td>
-<td align="center">
- JUSTICE B. H. DANGRE<td align="justified">SWATI VEDANT JATIA<b> Vs </b>VEDANT JATIA</td>
-</td>
-<td align="center">
-20/04/2018<br/>BOMBAY(Civil)</td>
-<td align="center">
-<a href="generatenewauth.php?auth=cGF0aD0uL2RhdGEvanVkZ2VtZW50cy8yMDE4LyZmbmFtZT1DV1AzMTI3MDE3LnBkZiZzbWZsYWc9TiZyanVkZGF0ZT0mdXBsb2FkZHQ9MDIvMDUvMjAxOCZzcGFzc3BocmFzZT0xNTA2MTgxMzA2Mjg=" style="text-decoration:none;color:red" target="_blank">
-WP/13144/2017</a>
-(14)<br>02/05/2018</br></td>
-<td align="center">
- JUSTICE DR. SHALINI PHANSALKAR-JOSHI<td align="justified">BIPIN JAYSUKHLAL MEHTA AND ORS.<b> Vs </b>JAYANTIBHAI TALAKCHAND SHAH AND ANR.</td>
-</td>
-<td align="center">
-20/04/2018<br/>BOMBAY(Civil)</td>
-<td align="center">
-<a href="generatenewauth.php?auth=cGF0aD0uL2RhdGEvanVkZ2VtZW50cy8yMDE4LyZmbmFtZT1DV1AzNDA1MTgucGRmJnNtZmxhZz1OJnJqdWRkYXRlPSZ1cGxvYWRkdD0wMy8wNS8yMDE4JnNwYXNzcGhyYXNlPTE1MDYxODEzMDYyOA==" style="text-decoration:none;color:red" target="_blank">
-WP/3588/2018</a>
-(29)<br>03/05/2018</br></td>
-<td align="center">
- JUSTICE  B.R. GAVAI<br/> JUSTICE B. H. DANGRE<td align="justified">MR. DONALD DANIEL FERREIRA<b> Vs </b>MUNICIPAL CORPORATION OF GREATER MUMBAI (MCGM) THROUGH IS MUNICIPAL COMMISSIONER AND ORS.</td>
-</td>
-<td align="center">
-20/04/2018<br/>BOMBAY(Civil)</td>
-<td align="center">
-<a href="generatenewauth.php?auth=cGF0aD0uL2RhdGEvanVkZ2VtZW50cy8yMDE4LyZmbmFtZT1DV1AzMzA0MDE3LnBkZiZzbWZsYWc9TiZyanVkZGF0ZT0mdXBsb2FkZHQ9MDUvMDUvMjAxOCZzcGFzc3BocmFzZT0xNTA2MTgxMzA2Mjg=" style="text-decoration:none;color:red" target="_blank">
-WP/13315/2017</a>
-(8)<br>05/05/2018</br></td>
-<td align="center">
- JUSTICE  B.R. GAVAI<br/> JUSTICE B. H. DANGRE<td align="justified">RAJAPUR SHIKSHAN PRASARAK MANDAL THROUGH THEIR PRESIDENT<b> Vs </b>STATE OF MAHARASHTRA AND ORS</td>
-</td>
-<td align="center">
-18/04/2018<br/>BOMBAY(Civil)</td>
-<td align="center">
-<a href="generatenewauth.php?auth=cGF0aD0uL2RhdGEvanVkZ2VtZW50cy8yMDE4LyZmbmFtZT1DV1AxODI4MDE1LnBkZiZzbWZsYWc9TiZyanVkZGF0ZT0mdXBsb2FkZHQ9MDcvMDYvMjAxOCZzcGFzc3BocmFzZT0xNTA2MTgxMzA2Mjg=" style="text-decoration:none;color:red" target="_blank">
-WP/757/2016</a>
-(19)<br>07/06/2018</br></td>
-<td align="center">
- JUSTICE M.S. SANKLECHA<br/> JUSTICE A. K. MENON<td align="justified">MS. NAMAN VARMA<b> Vs </b>THE DIRECTOR, THE INDIAN INSTITUTE OF TECHNOLOGY, BOMBAY AND ANR</td>
-</td>
-<td align="center">
-17/04/2018<br/>BOMBAY(Civil)</td>
-<td align="center">
-<a href="generatenewauth.php?auth=cGF0aD0uL2RhdGEvanVkZ2VtZW50cy8yMDE4LyZmbmFtZT1DV1AyMDI5ODEzLnBkZiZzbWZsYWc9TiZyanVkZGF0ZT0mdXBsb2FkZHQ9MTgvMDQvMjAxOCZzcGFzc3BocmFzZT0xNTA2MTgxMzA2Mjg=" style="text-decoration:none;color:red" target="_blank">
-WP/6818/2013</a>
-(46)<br>18/04/2018</br></td>
-<td align="center">
- JUSTICE S.C. GUPTE<td align="justified">MRS. SEEMA NAVIN JAIN AND ANR<b> Vs </b>MRS. INDU RAKESH JAIN AND ANR</td>
-</td>
-<td align="center">
-17/04/2018<br/>BOMBAY(Civil)</td>
-<td align="center">
-<a href="generatenewauth.php?auth=cGF0aD0uL2RhdGEvanVkZ2VtZW50cy8yMDE4LyZmbmFtZT1DQU8xMDg4NzE3LnBkZiZzbWZsYWc9TiZyanVkZGF0ZT0mdXBsb2FkZHQ9MTgvMDQvMjAxOCZzcGFzc3BocmFzZT0xNTA2MTgxMzA2Mjg=" style="text-decoration:none;color:red" target="_blank">
-AOST/10887/2017</a>
-(12)<br>18/04/2018</br></td>
-<td align="center">
- JUSTICE DR. SHALINI PHANSALKAR-JOSHI<td align="justified">MINDA VAST ACCESS SYSTEM PRIVATE LTD.<b> Vs </b>M/S RAINBOW GARNISHERS PRIVATE LIMITED</td>
-</td>
-<td align="center">
-16/04/2018<br/>BOMBAY(Civil)</td>
-<td align="center">
-<a href="generatenewauth.php?auth=cGF0aD0uL2RhdGEvanVkZ2VtZW50cy8yMDE4LyZmbmFtZT1DV1AzOTYzMTcucGRmJnNtZmxhZz1OJnJqdWRkYXRlPSZ1cGxvYWRkdD0xOS8wNC8yMDE4JnNwYXNzcGhyYXNlPTE1MDYxODEzMDYyOA==" style="text-decoration:none;color:red" target="_blank">
-WP/2342/2017</a>
-(8)<br>19/04/2018</br></td>
-<td align="center">
- JUSTICE DR. SHALINI PHANSALKAR-JOSHI<td align="justified">VASANT RAMCHANDRA ALIAS CHANDER YELVANDE AND ORS<b> Vs </b>GURUDAS VASANTRAO YELVANDE AND ORS</td>
-</td>
-<td align="center">
-16/04/2018<br/>BOMBAY(Civil)</td>
-<td align="center">
-<a href="generatenewauth.php?auth=cGF0aD0uL2RhdGEvanVkZ2VtZW50cy8yMDE4LyZmbmFtZT1DQ1JBMjA4MTgxNC5wZGYmc21mbGFnPU4mcmp1ZGRhdGU9JnVwbG9hZGR0PTI1LzA0LzIwMTgmc3Bhc3NwaHJhc2U9MTUwNjE4MTMwNjI4" style="text-decoration:none;color:red" target="_blank">
-CRA/861/2014</a>
-(31)<br>25/04/2018</br></td>
-<td align="center">
-HON'BLE THE ACTING CHIEF JUSTICE<br/> JUSTICE M.S. SONAK<td align="justified">REEMA R. RELE AND ORS.<b> Vs </b>HEMANT R. MHATRE AND ORS.</td>
-</td>
-<td align="center">
-16/04/2018<br/>BOMBAY(Civil)</td>
-<td align="center">
-<a href="generatenewauth.php?auth=cGF0aD0uL2RhdGEvanVkZ2VtZW50cy8yMDE4LyZmbmFtZT1DV1AyNTI1NTA4LnBkZiZzbWZsYWc9TiZyanVkZGF0ZT0mdXBsb2FkZHQ9MTYvMDQvMjAxOCZzcGFzc3BocmFzZT0xNTA2MTgxMzA2Mjg=" style="text-decoration:none;color:red" target="_blank">
-WP/285/2009</a>
-(39)<br>16/04/2018</br></td>
-<td align="center">
-HON'BLE THE ACTING CHIEF JUSTICE<br/> JUSTICE M.S. SONAK<td align="justified">UNION OF INDIA AND ORS.<b> Vs </b>HEMANT RAMNATH MHATRE AND ORS.</td>
-</td>
-<td align="center">
-16/04/2018<br/>BOMBAY(Civil)</td>
-<td align="center">
-<a href="generatenewauth.php?auth=cGF0aD0uL2RhdGEvanVkZ2VtZW50cy8yMDE4LyZmbmFtZT1DV1AxNzMyMzA4LnBkZiZzbWZsYWc9TiZyanVkZGF0ZT0mdXBsb2FkZHQ9MTYvMDQvMjAxOCZzcGFzc3BocmFzZT0xNTA2MTgxMzA2Mjg=" style="text-decoration:none;color:red" target="_blank">
-WP/6473/2008</a>
-(39)<br>16/04/2018</br></td>
-<td align="center">
- JUSTICE B. H. DANGRE<td align="justified">SUMIT VIJAY KUMAR JAIN<b> Vs </b>SHRADDHA GUPTA JAIN</td>
-</td>
-<td align="center">
-13/04/2018<br/>BOMBAY(Civil)</td>
-<td align="center">
-<a href="generatenewauth.php?auth=cGF0aD0uL2RhdGEvanVkZ2VtZW50cy8yMDE4LyZmbmFtZT1DV1AxNjMzMzE3LnBkZiZzbWZsYWc9TiZyanVkZGF0ZT0mdXBsb2FkZHQ9MTYvMDQvMjAxOCZzcGFzc3BocmFzZT0xNTA2MTgxMzA2Mjg=" style="text-decoration:none;color:red" target="_blank">
-WP/7175/2017</a>
-(31)<br>16/04/2018</br></td>
-<td align="center">
- JUSTICE B. H. DANGRE<td align="justified">SHEHZAD HEMANI<b> Vs </b>NADIA RASHID</td>
-</td>
-<td align="center">
-13/04/2018<br/>BOMBAY(Civil)</td>
-<td align="center">
-<a href="generatenewauth.php?auth=cGF0aD0uL2RhdGEvanVkZ2VtZW50cy8yMDE4LyZmbmFtZT1DV1A3NTI1MTgucGRmJnNtZmxhZz1OJnJqdWRkYXRlPSZ1cGxvYWRkdD0xNi8wNC8yMDE4JnNwYXNzcGhyYXNlPTE1MDYxODEzMDYyOA==" style="text-decoration:none;color:red" target="_blank">
-WP/3367/2018</a>
-(55)<br>16/04/2018</br></td>
-<td align="center">
- JUSTICE  A.S. OKA<br/> JUSTICE  R. I. CHAGLA<td align="justified">MAHARASHTRA PLASTIC MANUFACTURERS ASSOCIATION THROUGH ITS PRESIDENT AND ORS.<b> Vs </b>STATE OF MAHARASTHRA AND ANR.</td>
-</td>
-<td align="center">
-13/04/2018<br/>BOMBAY(Civil)</td>
-<td align="center">
-<a href="generatenewauth.php?auth=cGF0aD0uL2RhdGEvY2l2aWwvMjAxOC8mZm5hbWU9MldQOTg4ODE4MTMwNDE4LnBkZiZzbWZsYWc9TiZyanVkZGF0ZT0mdXBsb2FkZHQ9MjcvMDQvMjAxOCZzcGFzc3BocmFzZT0xNTA2MTgxMzA2Mjg=" style="text-decoration:none;color:purple" target="_blank">
-WP/4033/2018</a>
-(35)<br>27/04/2018</br></td>
-<td align="center">
-HON'BLE THE ACTING CHIEF JUSTICE<br/> JUSTICE M.S. SONAK<td align="justified">THE STATE OF MAHARASHTRA<b> Vs </b>BHASKAR SHANKAR SALVI</td>
-</td>
-<td align="center">
-12/04/2018<br/>BOMBAY(Civil)</td>
-<td align="center">
-<a href="generatenewauth.php?auth=cGF0aD0uL2RhdGEvanVkZ2VtZW50cy8yMDE4LyZmbmFtZT1DV1A5NDMwNS5wZGYmc21mbGFnPU4mcmp1ZGRhdGU9JnVwbG9hZGR0PTE3LzA0LzIwMTgmc3Bhc3NwaHJhc2U9MTUwNjE4MTMwNjI4" style="text-decoration:none;color:red" target="_blank">
-WP/257/2005</a>
-(13)<br>17/04/2018</br></td>
-<td align="center">
- JUSTICE ANUJA PRABHUDESSAI<td align="justified">RELIANCE GENERAL INSURANCE CO. LTD. THROUGH ITS MANAGER MR. AMIT ASHWINI SHARMA<b> Vs </b>SMT. SUJATA SADANAND MULE AND ORS.</td>
-</td>
-<td align="center">
-12/04/2018<br/>BOMBAY(Civil)</td>
-<td align="center">
-<a href="generatenewauth.php?auth=cGF0aD0uL2RhdGEvanVkZ2VtZW50cy8yMDE4LyZmbmFtZT1DRkExMTE1MDE2LnBkZiZzbWZsYWc9TiZyanVkZGF0ZT0mdXBsb2FkZHQ9MjUvMDQvMjAxOCZzcGFzc3BocmFzZT0xNTA2MTgxMzA2Mjg=" style="text-decoration:none;color:red" target="_blank">
-FA/550/2018</a>
-(19)<br>25/04/2018</br></td>
-<td align="center">
- JUSTICE DR. SHALINI PHANSALKAR-JOSHI<td align="justified">DUDHADHARI@KATHADA@KAGZIPURA MASJID TRUST, NASHIK, THRU.TRUSTEE SAYED ABDUL SHAKOOR SAYEDAND ORS<b> Vs </b>UTTAM S/O NABHAJI MAHALE AND ORS</td>
-</td>
-<td align="center">
-11/04/2018<br/>BOMBAY(Civil)</td>
-<td align="center">
-<a href="generatenewauth.php?auth=cGF0aD0uL2RhdGEvanVkZ2VtZW50cy8yMDE4LyZmbmFtZT1DWEZFUjIxNzQzMTYucGRmJnNtZmxhZz1OJnJqdWRkYXRlPSZ1cGxvYWRkdD0xMS8wNC8yMDE4JnNwYXNzcGhyYXNlPTE1MDYxODEzMDYyOA==" style="text-decoration:none;color:red" target="_blank">
-CRA/548/2016</a>
-(26)<br>11/04/2018</br></td>
-<td align="center">
- JUSTICE R.D. DHANUKA<td align="justified">SUNIL BHASKAR KATKAR<b> Vs </b>RAOSAHEB RAMCHANDRA GAVHANE AND ORS.</td>
-</td>
-<td align="center">
-11/04/2018<br/>BOMBAY(Civil)</td>
-<td align="center">
-<a href="generatenewauth.php?auth=cGF0aD0uL2RhdGEvanVkZ2VtZW50cy8yMDE4LyZmbmFtZT1DV1AxMTA4NDE4LnBkZiZzbWZsYWc9TiZyanVkZGF0ZT0mdXBsb2FkZHQ9MjMvMDQvMjAxOCZzcGFzc3BocmFzZT0xNTA2MTgxMzA2Mjg=" style="text-decoration:none;color:red" target="_blank">
-WP/4494/2018</a>
-(17)<br>23/04/2018</br></td>
-<td align="center">
- JUSTICE G.S. PATEL<td align="justified">THE TRUSTEES OF THE N. M. PATIT CHARITY FUND AND ORS<b> Vs </b>HEIRS AND LEGAL REPRESENTATIVES IF ANY OF MR. JAL MINOCHER UNWALA</td>
-</td>
-<td align="center">
-11/04/2018<br/>BOMBAY(Civil)</td>
-<td align="center">
-<a href="generatenewauth.php?auth=cGF0aD0uL2RhdGEvanVkZ2VtZW50cy8yMDE4LyZmbmFtZT1DV1A2MzUxMTUucGRmJnNtZmxhZz1OJnJqdWRkYXRlPSZ1cGxvYWRkdD0yNC8wNC8yMDE4JnNwYXNzcGhyYXNlPTE1MDYxODEzMDYyOA==" style="text-decoration:none;color:red" target="_blank">
-WP/12449/2015</a>
-(23)<br>24/04/2018</br></td>
-<td align="center">
- JUSTICE DR. SHALINI PHANSALKAR-JOSHI<td align="justified">LINKER SHELTER PRIVATE LIMITED, THR. AUTH. SIGNATORY NARENDRA KESHAV WADNARE<b> Vs </b>DUDADHARI@KATHADA@KAGZIPURA MASJID TRUST, THR, TRUSTEE SAYED ABDUL SHAKOOR SAYED AND ORS</td>
-</td>
-<td align="center">
-11/04/2018<br/>BOMBAY(Civil)</td>
-<td align="center">
-<a href="generatenewauth.php?auth=cGF0aD0uL2RhdGEvanVkZ2VtZW50cy8yMDE4LyZmbmFtZT1DQ1JBMTgxNTQxNi5wZGYmc21mbGFnPU4mcmp1ZGRhdGU9JnVwbG9hZGR0PTExLzA0LzIwMTgmc3Bhc3NwaHJhc2U9MTUwNjE4MTMwNjI4" style="text-decoration:none;color:red" target="_blank">
-CRA/429/2016</a>
-(26)<br>11/04/2018</br></td>
-<td align="center">
- JUSTICE R.D. DHANUKA<td align="justified">ANGELINE RANDOLPH PEREIRA AND ORS.<b> Vs </b>SUYOG INDUSTRIAL ESTATE PREMISES CO-OP. SOC. LTD. AND ORS.</td>
-</td>
-<td align="center">
-11/04/2018<br/>BOMBAY(Civil)</td>
-<td align="center">
-<a href="generatenewauth.php?auth=cGF0aD0uL2RhdGEvanVkZ2VtZW50cy8yMDE4LyZmbmFtZT1DV1A4NDYzMTcucGRmJnNtZmxhZz1OJnJqdWRkYXRlPSZ1cGxvYWRkdD0xMS8wNC8yMDE4JnNwYXNzcGhyYXNlPTE1MDYxODEzMDYyOA==" style="text-decoration:none;color:red" target="_blank">
-WP/4373/2017</a>
-(28)<br>11/04/2018</br></td>
-<td align="center">
- JUSTICE  A.S. OKA<br/> JUSTICE  R. I. CHAGLA<td align="justified">GANESH PRAKASH WANKAR<b> Vs </b>THE DIVISIONAL COMMISSIONER, PUNE DIV. AND ORS.</td>
-</td>
-<td align="center">
-10/04/2018<br/>BOMBAY(Civil)</td>
-<td align="center">
-<a href="generatenewauth.php?auth=cGF0aD0uL2RhdGEvanVkZ2VtZW50cy8yMDE4LyZmbmFtZT1DV1A2ODUwMTgucGRmJnNtZmxhZz1OJnJqdWRkYXRlPSZ1cGxvYWRkdD0wNC8wNS8yMDE4JnNwYXNzcGhyYXNlPTE1MDYxODEzMDYyOA==" style="text-decoration:none;color:red" target="_blank">
-WP/2925/2018</a>
-(21)<br>04/05/2018</br></td>
-<td align="center">
- JUSTICE  A.S. OKA<br/> JUSTICE  R. I. CHAGLA<td align="justified">SUBHASH BHASKAR SHEJWAL<b> Vs </b>THE CHIEF EXECUTIVE OFFICER  AND ORS.</td>
-</td>
-<td align="center">
-10/04/2018<br/>BOMBAY(Civil)</td>
-<td align="center">
-<a href="generatenewauth.php?auth=cGF0aD0uL2RhdGEvanVkZ2VtZW50cy8yMDE4LyZmbmFtZT1DV1A3ODEzMTgucGRmJnNtZmxhZz1OJnJqdWRkYXRlPSZ1cGxvYWRkdD0wNC8wNS8yMDE4JnNwYXNzcGhyYXNlPTE1MDYxODEzMDYyOA==" style="text-decoration:none;color:red" target="_blank">
-WP/3346/2018</a>
-(21)<br>04/05/2018</br></td>
-<td align="center">
- JUSTICE  B.R. GAVAI<br/> JUSTICE B. H. DANGRE<td align="justified">THE GENERAL EDUCATION INSTITUTE AND ANR.<b> Vs </b>THE JOINT DIRECTOR (VOCATIONAL EDUCATION) AND ORS.</td>
-</td>
-<td align="center">
-10/04/2018<br/>BOMBAY(Civil)</td>
-<td align="center">
-<a href="generatenewauth.php?auth=cGF0aD0uL2RhdGEvanVkZ2VtZW50cy8yMDE4LyZmbmFtZT1DV1A2MjEwMTUucGRmJnNtZmxhZz1OJnJqdWRkYXRlPSZ1cGxvYWRkdD0yNy8wNC8yMDE4JnNwYXNzcGhyYXNlPTE1MDYxODEzMDYyOA==" style="text-decoration:none;color:red" target="_blank">
-WP/4086/2015</a>
-(9)<br>27/04/2018</br></td>
-<td align="center">
- JUSTICE DR. SHALINI PHANSALKAR-JOSHI<td align="justified">AMBARWADIKAR INDUSTRIES PVT. LTD.<b> Vs </b>KARMAVEER KAKASAHEB WAGH SAHAKARI SAKHAR KARKHANA LTD. THROUGH LIQUIDATOR AND ORS</td>
-</td>
-<td align="center">
-06/04/2018<br/>BOMBAY(Civil)</td>
-<td align="center">
-<a href="generatenewauth.php?auth=cGF0aD0uL2RhdGEvanVkZ2VtZW50cy8yMDE4LyZmbmFtZT1DV1AxODg3ODE2LnBkZiZzbWZsYWc9TiZyanVkZGF0ZT0mdXBsb2FkZHQ9MDYvMDQvMjAxOCZzcGFzc3BocmFzZT0xNTA2MTgxMzA2Mjg=" style="text-decoration:none;color:red" target="_blank">
-WP/12835/2016</a>
-(30)<br>06/04/2018</br></td>
-<td align="center">
- JUSTICE DR. SHALINI PHANSALKAR-JOSHI<td align="justified">NIPHAD SAKHAR KAMGAR SABHA SHAKHA KAKASAHEBNAGAR<b> Vs </b>KARMAVIR KAKASAHEB WAGH SAHAKARI SAKHAR KARKHANA LTD.</td>
-</td>
-<td align="center">
-06/04/2018<br/>BOMBAY(Civil)</td>
-<td align="center">
-<a href="generatenewauth.php?auth=cGF0aD0uL2RhdGEvanVkZ2VtZW50cy8yMDE4LyZmbmFtZT1DV1A0MjUxMTcucGRmJnNtZmxhZz1OJnJqdWRkYXRlPSZ1cGxvYWRkdD0wNi8wNC8yMDE4JnNwYXNzcGhyYXNlPTE1MDYxODEzMDYyOA==" style="text-decoration:none;color:red" target="_blank">
-WP/2093/2017</a>
-(30)<br>06/04/2018</br></td>
-<td align="center">
- JUSTICE B. H. DANGRE<td align="justified">HARSHADA BHARAT DESHMUKH , THROUGH P.A. HOLDER SHAMKANT LAXMAN PATIL<b> Vs </b>BHARAT APPASAHEB DESHMUKH</td>
-</td>
-<td align="center">
-06/04/2018<br/>BOMBAY(Civil)</td>
-<td align="center">
-<a href="generatenewauth.php?auth=cGF0aD0uL2RhdGEvanVkZ2VtZW50cy8yMDE4LyZmbmFtZT1DV1AxNzg4MTgucGRmJnNtZmxhZz1OJnJqdWRkYXRlPSZ1cGxvYWRkdD0wNi8wNC8yMDE4JnNwYXNzcGhyYXNlPTE1MDYxODEzMDYyOA==" style="text-decoration:none;color:red" target="_blank">
-WPST/1788/2018</a>
-(17)<br>06/04/2018</br></td>
-<td align="center">
- JUSTICE DR. SHALINI PHANSALKAR-JOSHI<td align="justified">DOMBIVALI NAGARI SAHAKARI BANK LTD.<b> Vs </b>M/S. AMBERWADIKAR INDUSTRIES PVT. LTD. AND ORS</td>
-</td>
-<td align="center">
-06/04/2018<br/>BOMBAY(Civil)</td>
-<td align="center">
-<a href="generatenewauth.php?auth=cGF0aD0uL2RhdGEvanVkZ2VtZW50cy8yMDE4LyZmbmFtZT1DV1AxOTYxOTE2LnBkZiZzbWZsYWc9TiZyanVkZGF0ZT0mdXBsb2FkZHQ9MDYvMDQvMjAxOCZzcGFzc3BocmFzZT0xNTA2MTgxMzA2Mjg=" style="text-decoration:none;color:red" target="_blank">
-WP/10658/2016</a>
-(30)<br>06/04/2018</br></td>
-<td align="center">
- JUSTICE B. H. DANGRE<td align="justified">SHRI. VIJAY JAGDISH CHHEDA<b> Vs </b>MS. DIMPLE VIJAY CHHEDA,</td>
-</td>
-<td align="center">
-06/04/2018<br/>BOMBAY(Civil)</td>
-<td align="center">
-<a href="generatenewauth.php?auth=cGF0aD0uL2RhdGEvanVkZ2VtZW50cy8yMDE4LyZmbmFtZT1DV1AzMTY4NDE3LnBkZiZzbWZsYWc9TiZyanVkZGF0ZT0mdXBsb2FkZHQ9MDYvMDQvMjAxOCZzcGFzc3BocmFzZT0xNTA2MTgxMzA2Mjg=" style="text-decoration:none;color:red" target="_blank">
-WP/13973/2017</a>
-(25)<br>06/04/2018</br></td>
-<td align="center">
- JUSTICE DR. SHALINI PHANSALKAR-JOSHI<td align="justified">BANK OF BARODA<b> Vs </b>M/S. AMBARWADIKAR INDUSTRIES PVT. LTD. AND ORS.</td>
-</td>
-<td align="center">
-06/04/2018<br/>BOMBAY(Civil)</td>
-<td align="center">
-<a href="generatenewauth.php?auth=cGF0aD0uL2RhdGEvanVkZ2VtZW50cy8yMDE4LyZmbmFtZT1DV1AyMjM1NjE2LnBkZiZzbWZsYWc9TiZyanVkZGF0ZT0mdXBsb2FkZHQ9MDYvMDQvMjAxOCZzcGFzc3BocmFzZT0xNTA2MTgxMzA2Mjg=" style="text-decoration:none;color:red" target="_blank">
-WP/10899/2016</a>
-(30)<br>06/04/2018</br></td>
-<td align="center">
- JUSTICE DR. SHALINI PHANSALKAR-JOSHI<td align="justified">STATE BANK OF INDIA<b> Vs </b>AMBARWADIKAR INDUSTRIES PVT. LTD.</td>
-</td>
-<td align="center">
-06/04/2018<br/>BOMBAY(Civil)</td>
-<td align="center">
-<a href="generatenewauth.php?auth=cGF0aD0uL2RhdGEvanVkZ2VtZW50cy8yMDE4LyZmbmFtZT1DQ0FXMjI2NzgxNy5wZGYmc21mbGFnPU4mcmp1ZGRhdGU9JnVwbG9hZGR0PTA2LzA0LzIwMTgmc3Bhc3NwaHJhc2U9MTUwNjE4MTMwNjI4" style="text-decoration:none;color:red" target="_blank">
-CAW/2994/2017</a>
-(30)<br>06/04/2018</br></td>
-<td align="center">
- JUSTICE DR. SHALINI PHANSALKAR-JOSHI<td align="justified">MRS. GULSHAN ROHINTON IRANI<b> Vs </b>RAYOMAND ROHINTON IRANI AND ORS.</td>
-</td>
-<td align="center">
-05/04/2018<br/>BOMBAY(Civil)</td>
-<td align="center">
-<a href="generatenewauth.php?auth=cGF0aD0uL2RhdGEvanVkZ2VtZW50cy8yMDE4LyZmbmFtZT1DV1A3NDcyMTgucGRmJnNtZmxhZz1OJnJqdWRkYXRlPSZ1cGxvYWRkdD0xMi8wNC8yMDE4JnNwYXNzcGhyYXNlPTE1MDYxODEzMDYyOA==" style="text-decoration:none;color:red" target="_blank">
-WP/3366/2018</a>
-(32)<br>12/04/2018</br></td>
-<td align="center">
- JUSTICE DR. SHALINI PHANSALKAR-JOSHI<td align="justified">M/S. D. M. CORPORATION PVT. LTD.  THROUGH ITS MANAGING DIRECTOR<b> Vs </b>THE STATE OF MAHARASHTRA THROUGH GOVERNMENT PLEADER AND ORS</td>
-</td>
-<td align="center">
-05/04/2018<br/>BOMBAY(Civil)</td>
-<td align="center">
-<a href="generatenewauth.php?auth=cGF0aD0uL2RhdGEvanVkZ2VtZW50cy8yMDE4LyZmbmFtZT1DV1A1NzE4MTgucGRmJnNtZmxhZz1OJnJqdWRkYXRlPSZ1cGxvYWRkdD0wNS8wNC8yMDE4JnNwYXNzcGhyYXNlPTE1MDYxODEzMDYyOA==" style="text-decoration:none;color:red" target="_blank">
-WP/3119/2018</a>
-(11)<br>05/04/2018</br></td>
-<td align="center">
- JUSTICE DR. SHALINI PHANSALKAR-JOSHI<td align="justified">MR KADIR ILAHI BAGWAN<b> Vs </b>MRS USHA ANANDRAO YADAD</td>
-</td>
-<td align="center">
-05/04/2018<br/>BOMBAY(Civil)</td>
-<td align="center">
-<a href="generatenewauth.php?auth=cGF0aD0uL2RhdGEvanVkZ2VtZW50cy8yMDE4LyZmbmFtZT1DQ1JBMjE0NjkxNi5wZGYmc21mbGFnPU4mcmp1ZGRhdGU9JnVwbG9hZGR0PTA1LzA0LzIwMTgmc3Bhc3NwaHJhc2U9MTUwNjE4MTMwNjI4" style="text-decoration:none;color:red" target="_blank">
-CRA/455/2016</a>
-(18)<br>05/04/2018</br></td>
-<td align="center">
- JUSTICE DR. SHALINI PHANSALKAR-JOSHI<td align="justified">M/S. SKYLINE CONSTRUCTION A PARTNERSHIP FIRM, THROUGH ITS PARTNERS AND ORS.<b> Vs </b>MR. JOMA CHAAHU MHATRE THROUGH ITS LEGAL HEIRS AND ORS.</td>
-</td>
-<td align="center">
-04/04/2018<br/>BOMBAY(Civil)</td>
-<td align="center">
-<a href="generatenewauth.php?auth=cGF0aD0uL2RhdGEvanVkZ2VtZW50cy8yMDE4LyZmbmFtZT1DV1AzMzE4NjE3LnBkZiZzbWZsYWc9TiZyanVkZGF0ZT0mdXBsb2FkZHQ9MDkvMDQvMjAxOCZzcGFzc3BocmFzZT0xNTA2MTgxMzA2Mjg=" style="text-decoration:none;color:red" target="_blank">
-WP/13214/2017</a>
-(8)<br>09/04/2018</br></td>
-<td align="center">
- JUSTICE DR. SHALINI PHANSALKAR-JOSHI<td align="justified">SHRI. SAMEER JANARDHAN SHEDGE<b> Vs </b>SHRI. SANTOSH SHANKAR POTPHODE AND ORS.</td>
-</td>
-<td align="center">
-04/04/2018<br/>BOMBAY(Civil)</td>
-<td align="center">
-<a href="generatenewauth.php?auth=cGF0aD0uL2RhdGEvanVkZ2VtZW50cy8yMDE4LyZmbmFtZT1DV1AxMjg3NTE3LnBkZiZzbWZsYWc9TiZyanVkZGF0ZT0mdXBsb2FkZHQ9MDkvMDQvMjAxOCZzcGFzc3BocmFzZT0xNTA2MTgxMzA2Mjg=" style="text-decoration:none;color:red" target="_blank">
-WP/5291/2017</a>
-(11)<br>09/04/2018</br></td>
-<td align="center">
- JUSTICE DR. SHALINI PHANSALKAR-JOSHI<td align="justified">M/S. SKYLINE CONSTRUCTION , THROUGH ITS PARTNERS AND ORS.<b> Vs </b>JOMA CHAAHU MHATRE (SINCE DECEASED THROUGH LRS.) AND ORS.</td>
-</td>
-<td align="center">
-04/04/2018<br/>BOMBAY(Civil)</td>
-<td align="center">
-<a href="generatenewauth.php?auth=cGF0aD0uL2RhdGEvanVkZ2VtZW50cy8yMDE4LyZmbmFtZT1DV1AzMzE4MzE3LnBkZiZzbWZsYWc9TiZyanVkZGF0ZT0mdXBsb2FkZHQ9MDkvMDQvMjAxOCZzcGFzc3BocmFzZT0xNTA2MTgxMzA2Mjg=" style="text-decoration:none;color:red" target="_blank">
-WP/13484/2017</a>
-(8)<br>09/04/2018</br></td>
-<td align="center">
-HON'BLE THE ACTING CHIEF JUSTICE<br/> JUSTICE M.S. SONAK<td align="justified">VINODKUMAR NARAYAN DIXIT<b> Vs </b>THE STATE OF MAHARASHTRA THROUGH PRINCIPAL SECRETARY</td>
-</td>
-<td align="center">
-03/04/2018<br/>BOMBAY(Civil)</td>
-<td align="center">
-<a href="generatenewauth.php?auth=cGF0aD0uL2RhdGEvanVkZ2VtZW50cy8yMDE4LyZmbmFtZT1DV1AyNDE4NDE2LnBkZiZzbWZsYWc9TiZyanVkZGF0ZT0mdXBsb2FkZHQ9MDUvMDQvMjAxOCZzcGFzc3BocmFzZT0xNTA2MTgxMzA2Mjg=" style="text-decoration:none;color:red" target="_blank">
-WP/12966/2017</a>
-(24)<br>05/04/2018</br></td>
-<td align="center">
-HON'BLE THE ACTING CHIEF JUSTICE<br/> JUSTICE M.S. SONAK<td align="justified">SHRI. VITTHAL BUDHO TAYADE<b> Vs </b>THE UNION OF INDIA, THROUGH SECRETARY, MINISTRY OF YOUTH AFFAIRS AND SPORTS AND ORS</td>
-</td>
-<td align="center">
-03/04/2018<br/>BOMBAY(Civil)</td>
-<td align="center">
-<a href="generatenewauth.php?auth=cGF0aD0uL2RhdGEvanVkZ2VtZW50cy8yMDE4LyZmbmFtZT1DV1A1MjU5MTMucGRmJnNtZmxhZz1OJnJqdWRkYXRlPSZ1cGxvYWRkdD0xOS8wNC8yMDE4JnNwYXNzcGhyYXNlPTE1MDYxODEzMDYyOA==" style="text-decoration:none;color:red" target="_blank">
-WP/2414/2013</a>
-(16)<br>19/04/2018</br></td>
-<td align="center">
- JUSTICE K.K. TATED<br/> JUSTICE B.P. COLABAWALLA<td align="justified">SHRI. RAJENDRA MAHADEO DEOKULE<b> Vs </b>SMT. SUVARNA MAHADEO DEOKULE</td>
-</td>
-<td align="center">
-03/04/2018<br/>BOMBAY(Civil)</td>
-<td align="center">
-<a href="generatenewauth.php?auth=cGF0aD0uL2RhdGEvanVkZ2VtZW50cy8yMDE4LyZmbmFtZT1DQ0FNNDgyMTcucGRmJnNtZmxhZz1OJnJqdWRkYXRlPSZ1cGxvYWRkdD0wOS8wNC8yMDE4JnNwYXNzcGhyYXNlPTE1MDYxODEzMDYyOA==" style="text-decoration:none;color:red" target="_blank">
-CAM/25/2017</a>
-(20)<br>09/04/2018</br></td>
-<td align="center">
- JUSTICE G. S. KULKARNI<td align="justified">M/S. UNIVERSAL CABLES LIMITED<b> Vs </b>M/S. LAXMI PROPERTIES LIMITED</td>
-</td>
-<td align="center">
-02/04/2018<br/>BOMBAY(Civil)</td>
-<td align="center">
-<a href="generatenewauth.php?auth=cGF0aD0uL2RhdGEvanVkZ2VtZW50cy8yMDE4LyZmbmFtZT1DQ1JBNDI1NTE4LnBkZiZzbWZsYWc9TiZyanVkZGF0ZT0mdXBsb2FkZHQ9MDMvMDQvMjAxOCZzcGFzc3BocmFzZT0xNTA2MTgxMzA2Mjg=" style="text-decoration:none;color:red" target="_blank">
-CRAST/4255/2018</a>
-(24)<br>03/04/2018</br></td>
-<td align="center">
- JUSTICE R.D. DHANUKA<td align="justified">RAVIRAJ SAMBHAJIRAO NIMBALKAR<b> Vs </b>THE TEHSILDAR , BHUDARGAD AND ORS.</td>
-</td>
-<td align="center">
-28/03/2018<br/>BOMBAY(Civil)</td>
-<td align="center">
-<a href="generatenewauth.php?auth=cGF0aD0uL2RhdGEvanVkZ2VtZW50cy8yMDE4LyZmbmFtZT1DV1A2MjgyMTgucGRmJnNtZmxhZz1OJnJqdWRkYXRlPSZ1cGxvYWRkdD0yOC8wMy8yMDE4JnNwYXNzcGhyYXNlPTE1MDYxODEzMDYyOA==" style="text-decoration:none;color:red" target="_blank">
-WP/2685/2018</a>
-(21)<br>28/03/2018</br></td>
-<td align="center">
- JUSTICE A. K. MENON<td align="justified">GODREJ &amp; BOYCE MANUFACTURING COMPANY LIMITED<b> Vs </b>RAVINDRA SHANTA SHARMA</td>
-</td>
-<td align="center">
-28/03/2018<br/>BOMBAY(Civil)</td>
-<td align="center">
-<a href="generatenewauth.php?auth=cGF0aD0uL2RhdGEvY2l2aWwvMjAxOC8mZm5hbWU9V1AxNDMzMDE3MjgwMzE4LnBkZiZzbWZsYWc9TiZyanVkZGF0ZT0mdXBsb2FkZHQ9MDcvMDQvMjAxOCZzcGFzc3BocmFzZT0xNTA2MTgxMzA2Mjg=" style="text-decoration:none;color:purple" target="_blank">
-WP/5680/2017</a>
-(23)<br>07/04/2018</br></td>
-<td align="center">
- JUSTICE S.C. DHARMADHIKARI<br/> JUSTICE PRAKASH DEU NAIK<td align="justified">BUILDERS ASSOCIATION OF NAVI MUMBAI AND ANR.<b> Vs </b>UNION OF INDIA THROUGH THE SECRETARY AND ORS.</td>
-</td>
-<td align="center">
-28/03/2018<br/>BOMBAY(Civil)</td>
-<td align="center">
-<a href="generatenewauth.php?auth=cGF0aD0uL2RhdGEvanVkZ2VtZW50cy8yMDE4LyZmbmFtZT1DV1AzMTAyNjE3LnBkZiZzbWZsYWc9TiZyanVkZGF0ZT0mdXBsb2FkZHQ9MTAvMDQvMjAxOCZzcGFzc3BocmFzZT0xNTA2MTgxMzA2Mjg=" style="text-decoration:none;color:red" target="_blank">
-WP/12194/2017</a>
-(23)<br>10/04/2018</br></td>
-<td align="center">
- JUSTICE A. K. MENON<td align="justified">GODREJ &amp; BOYCE MANUFACTURING COMPANY LIMITED<b> Vs </b>RAVINDRA SHANTA SHARMA</td>
-</td>
-<td align="center">
-28/03/2018<br/>BOMBAY(Civil)</td>
-<td align="center">
-<a href="generatenewauth.php?auth=cGF0aD0uL2RhdGEvanVkZ2VtZW50cy8yMDE4LyZmbmFtZT1DV1AxNDMzMDE3LnBkZiZzbWZsYWc9TiZyanVkZGF0ZT0mdXBsb2FkZHQ9MDcvMDQvMjAxOCZzcGFzc3BocmFzZT0xNTA2MTgxMzA2Mjg=" style="text-decoration:none;color:red" target="_blank">
-WP/5680/2017</a>
-(23)<br>07/04/2018</br></td>
-<td align="center">
- JUSTICE DR. SHALINI PHANSALKAR-JOSHI<td align="justified">OLIVE TREE TRADING PVT. LTD,.<b> Vs </b>F.LLI DE CECCO DI FILIPRO- FARA S. MARTINO S.P.A,</td>
-</td>
-<td align="center">
-23/03/2018<br/>BOMBAY(Civil)</td>
-<td align="center">
-<a href="generatenewauth.php?auth=cGF0aD0uL2RhdGEvanVkZ2VtZW50cy8yMDE4LyZmbmFtZT1DV1AxMzA2MTgucGRmJnNtZmxhZz1OJnJqdWRkYXRlPSZ1cGxvYWRkdD0yOC8wMy8yMDE4JnNwYXNzcGhyYXNlPTE1MDYxODEzMDYyOA==" style="text-decoration:none;color:red" target="_blank">
-WP/2694/2018</a>
-(12)<br>28/03/2018</br></td>
-<td align="center">
- JUSTICE DR. SHALINI PHANSALKAR-JOSHI<td align="justified">VASUDEV PANDHARINATH RAIKAR AND ORS.<b> Vs </b>MANOJ MOHAN DALVI AND ORS.</td>
-</td>
-<td align="center">
-23/03/2018<br/>BOMBAY(Civil)</td>
-<td align="center">
-<a href="generatenewauth.php?auth=cGF0aD0uL2RhdGEvanVkZ2VtZW50cy8yMDE4LyZmbmFtZT1DV1AzMjU5MjE3LnBkZiZzbWZsYWc9TiZyanVkZGF0ZT0mdXBsb2FkZHQ9MjMvMDMvMjAxOCZzcGFzc3BocmFzZT0xNTA2MTgxMzA2Mjg=" style="text-decoration:none;color:red" target="_blank">
-WP/1826/2018</a>
-(12)<br>23/03/2018</br></td>
-<td align="center">
- JUSTICE DR. SHALINI PHANSALKAR-JOSHI<td align="justified">MR. ASHOK RAJARAM RAUL<b> Vs </b>MR. MANDAR PRAMOD VICHARE AND ORS.</td>
-</td>
-<td align="center">
-22/03/2018<br/>BOMBAY(Civil)</td>
-<td align="center">
-<a href="generatenewauth.php?auth=cGF0aD0uL2RhdGEvanVkZ2VtZW50cy8yMDE4LyZmbmFtZT1DQ1JBMjkyMzE4LnBkZiZzbWZsYWc9TiZyanVkZGF0ZT0mdXBsb2FkZHQ9MjIvMDMvMjAxOCZzcGFzc3BocmFzZT0xNTA2MTgxMzA2Mjg=" style="text-decoration:none;color:red" target="_blank">
-CRA/100/2018</a>
-(24)<br>22/03/2018</br></td>
-<td align="center">
-HON'BLE THE ACTING CHIEF JUSTICE<br/> JUSTICE M.S. SONAK<td align="justified">THE STATE OF MAHARASHTRA AND ORS.<b> Vs </b>SHRI VASANT TRIMBAKRAO CHOBE AND ORS</td>
-</td>
-<td align="center">
-20/03/2018<br/>BOMBAY(Civil)</td>
-<td align="center">
-<a href="generatenewauth.php?auth=cGF0aD0uL2RhdGEvanVkZ2VtZW50cy8yMDE4LyZmbmFtZT1DV1AyODA1NjE0LnBkZiZzbWZsYWc9TiZyanVkZGF0ZT0mdXBsb2FkZHQ9MjEvMDMvMjAxOCZzcGFzc3BocmFzZT0xNTA2MTgxMzA2Mjg=" style="text-decoration:none;color:red" target="_blank">
-WP/11424/2014</a>
-(12)<br>21/03/2018</br></td>
-<td align="center">
- JUSTICE DR. SHALINI PHANSALKAR-JOSHI<td align="justified">SUMAN BABURAO THAPA<b> Vs </b>JIGAR K. MEHTA AND ORS.</td>
-</td>
-<td align="center">
-20/03/2018<br/>BOMBAY(Civil)</td>
-<td align="center">
-<a href="generatenewauth.php?auth=cGF0aD0uL2RhdGEvanVkZ2VtZW50cy8yMDE4LyZmbmFtZT1DV1AzNTIyMTE3LnBkZiZzbWZsYWc9TiZyanVkZGF0ZT0mdXBsb2FkZHQ9MjEvMDMvMjAxOCZzcGFzc3BocmFzZT0xNTA2MTgxMzA2Mjg=" style="text-decoration:none;color:red" target="_blank">
-WPST/35221/2017</a>
-(14)<br>21/03/2018</br></td>
-<td align="center">
- JUSTICE S.C. DHARMADHIKARI<br/> JUSTICE PRAKASH DEU NAIK<td align="justified">EVERGREEN SCAMLESS PIPES AND TUBES PVT. LTD.<b> Vs </b>UNION OF INDIA, THROUGH THE SECRETARY MINISTRY OF FINANCE DEPT AND ORS.</td>
-</td>
-<td align="center">
-20/03/2018<br/>BOMBAY(Civil)</td>
-<td align="center">
-<a href="generatenewauth.php?auth=cGF0aD0uL2RhdGEvanVkZ2VtZW50cy8yMDE4LyZmbmFtZT1DV1AyNTg1ODE3LnBkZiZzbWZsYWc9TiZyanVkZGF0ZT0mdXBsb2FkZHQ9MTAvMDQvMjAxOCZzcGFzc3BocmFzZT0xNTA2MTgxMzA2Mjg=" style="text-decoration:none;color:red" target="_blank">
-WP/12378/2017</a>
-(85)<br>10/04/2018</br></td>
-<td align="center">
-HON'BLE THE ACTING CHIEF JUSTICE<br/> JUSTICE M.S. SONAK<td align="justified">SATISH LAXMAN GAWTE<b> Vs </b>THE STATE OF MAHARASHTRA &amp; ORS.</td>
-</td>
-<td align="center">
-20/03/2018<br/>BOMBAY(Civil)</td>
-<td align="center">
-<a href="generatenewauth.php?auth=cGF0aD0uL2RhdGEvanVkZ2VtZW50cy8yMDE4LyZmbmFtZT1DV1A5NzAzMDEucGRmJnNtZmxhZz1OJnJqdWRkYXRlPSZ1cGxvYWRkdD0wMi8wNC8yMDE4JnNwYXNzcGhyYXNlPTE1MDYxODEzMDYyOA==" style="text-decoration:none;color:red" target="_blank">
-WP/2493/2006</a>
-(25)<br>02/04/2018</br></td>
-<td align="center">
- JUSTICE S.C. DHARMADHIKARI<br/> JUSTICE PRAKASH DEU NAIK<td align="justified">AVANTOR PERFORMANCE MATERIALS INDIA LIMITED<b> Vs </b>UNION OF INDIA, THROUGH SECRETARY  AND ANR.</td>
-</td>
-<td align="center">
-20/03/2018<br/>BOMBAY(Civil)</td>
-<td align="center">
-<a href="generatenewauth.php?auth=cGF0aD0uL2RhdGEvanVkZ2VtZW50cy8yMDE4LyZmbmFtZT1DV1AzNTk4MjE3LnBkZiZzbWZsYWc9TiZyanVkZGF0ZT0mdXBsb2FkZHQ9MTAvMDQvMjAxOCZzcGFzc3BocmFzZT0xNTA2MTgxMzA2Mjg=" style="text-decoration:none;color:red" target="_blank">
-WP/14245/2017</a>
-(85)<br>10/04/2018</br></td>
-<td align="center">
- JUSTICE DR. SHALINI PHANSALKAR-JOSHI<td align="justified">PRAKASH PREMNATH GAIKWAD<b> Vs </b>ROLF D'SOUZA AND ANR.</td>
-</td>
-<td align="center">
-19/03/2018<br/>BOMBAY(Civil)</td>
-<td align="center">
-<a href="generatenewauth.php?auth=cGF0aD0uL2RhdGEvanVkZ2VtZW50cy8yMDE4LyZmbmFtZT1DV1A5MzA0MTcucGRmJnNtZmxhZz1OJnJqdWRkYXRlPSZ1cGxvYWRkdD0yMy8wMy8yMDE4JnNwYXNzcGhyYXNlPTE1MDYxODEzMDYyOA==" style="text-decoration:none;color:red" target="_blank">
-WP/4339/2017</a>
-(10)<br>23/03/2018</br></td>
-<td align="center">
- JUSTICE MRIDULA BHATKAR<td align="justified">EMPLOYEES STATE INSURANCE CORPORATION<b> Vs </b>M/S EASTERN ENGINEERING CO.</td>
-</td>
-<td align="center">
-19/03/2018<font color="grey"><br/>This Judgement is modified/corrected by Speaking to Minutes  Order  dated 25/04/2018</font><br/>BOMBAY(Civil)</td>
-<td align="center">
-<a href="generatenewauth.php?auth=cGF0aD0uL2RhdGEvanVkZ2VtZW50cy8yMDE4LyZmbmFtZT1DRkE4MDA5Mjk0LnBkZiZzbWZsYWc9WSZyanVkZGF0ZT0yNS8wNC8yMDE4JnVwbG9hZGR0PTE5LzAzLzIwMTgmc3Bhc3NwaHJhc2U9MTUwNjE4MTMwNjI4" style="text-decoration:none;color:red" target="_blank">
-FA/92/1994</a>
-(24)<br>19/03/2018</br></td>
-<td align="center">
- JUSTICE  A.S. OKA<br/> JUSTICE  R. I. CHAGLA<td align="justified">MUNICIPAL CORPORATION OF CITY OF THANE THROUGH ITS COMMISSIONER AND ANR.<b> Vs </b>VINAY LAXMAN TATKE</td>
-</td>
-<td align="center">
-16/03/2018<br/>BOMBAY(Civil)</td>
-<td align="center">
-<a href="generatenewauth.php?auth=cGF0aD0uL2RhdGEvY2l2aWwvMjAxOC8mZm5hbWU9Q0FXODI1MDE4MTYwMzE4LnBkZiZzbWZsYWc9TiZyanVkZGF0ZT0yNS8wNC8yMDE4JnVwbG9hZGR0PTE4LzA0LzIwMTgmc3Bhc3NwaHJhc2U9MTUwNjE4MTMwNjI4" style="text-decoration:none;color:purple" target="_blank">
-CAWST/8250/2018</a>
-(8)<br>18/04/2018</br></td>
-<td align="center">
- JUSTICE DR. SHALINI PHANSALKAR-JOSHI<td align="justified">THE STATE OF MAHARASHTRA, THROUGH COLLECTOR, SANGLI<b> Vs </b>SHRI. SHANKAR MAYAPPA KAMBLE (SINCE DECD) THROUGH LRS AND ANR</td>
-</td>
-<td align="center">
-14/03/2018<br/>BOMBAY(Civil)</td>
-<td align="center">
-<a href="generatenewauth.php?auth=cGF0aD0uL2RhdGEvanVkZ2VtZW50cy8yMDE4LyZmbmFtZT1DV1AxNzgwNTEzLnBkZiZzbWZsYWc9TiZyanVkZGF0ZT0yNS8wNC8yMDE4JnVwbG9hZGR0PTE2LzAzLzIwMTgmc3Bhc3NwaHJhc2U9MTUwNjE4MTMwNjI4" style="text-decoration:none;color:red" target="_blank">
-WP/5854/2013</a>
-(9)<br>16/03/2018</br></td>
-<td align="center">
- JUSTICE R.D. DHANUKA<td align="justified">ARUN LAXMAN ASHAN<b> Vs </b>JEEVAN C. IDNANI AND ORS.</td>
-</td>
-<td align="center">
-14/03/2018<br/>BOMBAY(Civil)</td>
-<td align="center">
-<a href="generatenewauth.php?auth=cGF0aD0uL2RhdGEvanVkZ2VtZW50cy8yMDE4LyZmbmFtZT1DV1A5NjgyMTcucGRmJnNtZmxhZz1OJnJqdWRkYXRlPTI1LzA0LzIwMTgmdXBsb2FkZHQ9MjAvMDMvMjAxOCZzcGFzc3BocmFzZT0xNTA2MTgxMzA2Mjg=" style="text-decoration:none;color:red" target="_blank">
-WP/4005/2017</a>
-(7)<br>20/03/2018</br></td>
-<td align="center">
- JUSTICE DR. SHALINI PHANSALKAR-JOSHI<td align="justified">SHRI SARJERAO DHONDIBA SARODE AND ORS<b> Vs </b>SMT KAMAL KERUBHAU PACHANGE AND ORS</td>
-</td>
-<td align="center">
-14/03/2018<br/>BOMBAY(Civil)</td>
-<td align="center">
-<a href="generatenewauth.php?auth=cGF0aD0uL2RhdGEvanVkZ2VtZW50cy8yMDE4LyZmbmFtZT1DQ1JBMjc4MDUxNi5wZGYmc21mbGFnPU4mcmp1ZGRhdGU9MjUvMDQvMjAxOCZ1cGxvYWRkdD0xNC8wMy8yMDE4JnNwYXNzcGhyYXNlPTE1MDYxODEzMDYyOA==" style="text-decoration:none;color:red" target="_blank">
-CRA/637/2016</a>
-(26)<br>14/03/2018</br></td>
-<td align="center">
- JUSTICE DR. SHALINI PHANSALKAR-JOSHI<td align="justified">SITARAM LAXMAN JADHAV<b> Vs </b>THE MUNICIPAL CORPORATION OF GREATER MUMBAI</td>
-</td>
-<td align="center">
-13/03/2018<br/>BOMBAY(Civil)</td>
-<td align="center">
-<a href="generatenewauth.php?auth=cGF0aD0uL2RhdGEvanVkZ2VtZW50cy8yMDE4LyZmbmFtZT1DV1AyOTc0OTE3LnBkZiZzbWZsYWc9TiZyanVkZGF0ZT0yNS8wNC8yMDE4JnVwbG9hZGR0PTE3LzAzLzIwMTgmc3Bhc3NwaHJhc2U9MTUwNjE4MTMwNjI4" style="text-decoration:none;color:red" target="_blank">
-WP/3/2018</a>
-(16)<br>17/03/2018</br></td>
-<td align="center">
- JUSTICE DR. SHALINI PHANSALKAR-JOSHI<td align="justified">DAGDU BALU SAWANT<b> Vs </b>THE MUNICIPAL CORPORATION OF GREATER MUMBAI</td>
-</td>
-<td align="center">
-13/03/2018<br/>BOMBAY(Civil)</td>
-<td align="center">
-<a href="generatenewauth.php?auth=cGF0aD0uL2RhdGEvanVkZ2VtZW50cy8yMDE4LyZmbmFtZT1DV1AyOTc1MTE3LnBkZiZzbWZsYWc9TiZyanVkZGF0ZT0yNS8wNC8yMDE4JnVwbG9hZGR0PTE3LzAzLzIwMTgmc3Bhc3NwaHJhc2U9MTUwNjE4MTMwNjI4" style="text-decoration:none;color:red" target="_blank">
-WPST/29751/2017</a>
-(16)<br>17/03/2018</br></td>
-<td align="center">
- JUSTICE A. K. MENON<td align="justified">UDAY SHANTIKUMAR DIXIT<b> Vs </b>M/S. LARSEN &amp; TOUBRO LTD. AND ORS</td>
-</td>
-<td align="center">
-12/03/2018<br/>BOMBAY(Civil)</td>
-<td align="center">
-<a href="generatenewauth.php?auth=cGF0aD0uL2RhdGEvanVkZ2VtZW50cy8yMDE4LyZmbmFtZT1DV1A0NDYzMTcucGRmJnNtZmxhZz1OJnJqdWRkYXRlPTI1LzA0LzIwMTgmdXBsb2FkZHQ9MjYvMDMvMjAxOCZzcGFzc3BocmFzZT0xNTA2MTgxMzA2Mjg=" style="text-decoration:none;color:red" target="_blank">
-WP/4363/2017</a>
-(20)<br>26/03/2018</br></td>
-<td align="center">
- JUSTICE B.P. COLABAWALLA<td align="justified">COASTAL MARINE CONSTRUCTION AND ENGINEERING LIMITED<b> Vs </b>GARWARE-WALL ROPES LIMITED</td>
-</td>
-<td align="center">
-09/03/2018<br/>BOMBAY(Civil)</td>
-<td align="center">
-<a href="generatenewauth.php?auth=cGF0aD0uL2RhdGEvanVkZ2VtZW50cy8yMDE4LyZmbmFtZT1DQVJQNzY2NTE3LnBkZiZzbWZsYWc9TiZyanVkZGF0ZT0yNS8wNC8yMDE4JnVwbG9hZGR0PTA5LzAzLzIwMTgmc3Bhc3NwaHJhc2U9MTUwNjE4MTMwNjI4" style="text-decoration:none;color:red" target="_blank">
-ARP/24/2017</a>
-(31)<br>09/03/2018</br></td>
-<td align="center">
- JUSTICE DR. SHALINI PHANSALKAR-JOSHI<td align="justified">M/S. MULRAJ KHATAU &amp; SONS LTD.<b> Vs </b>NAGESH SAMAR BAHADUR SINGH AND ANR.</td>
-</td>
-<td align="center">
-07/03/2018<br/>BOMBAY(Civil)</td>
-<td align="center">
-<a href="generatenewauth.php?auth=cGF0aD0uL2RhdGEvanVkZ2VtZW50cy8yMDE4LyZmbmFtZT1DV1AyNjQ0NDE3LnBkZiZzbWZsYWc9TiZyanVkZGF0ZT0yNS8wNC8yMDE4JnVwbG9hZGR0PTEzLzAzLzIwMTgmc3Bhc3NwaHJhc2U9MTUwNjE4MTMwNjI4" style="text-decoration:none;color:red" target="_blank">
-WP/11524/2017</a>
-(12)<br>13/03/2018</br></td>
-<td align="center">
- JUSTICE DR. SHALINI PHANSALKAR-JOSHI<td align="justified">UNION OF INDIA AND OTHERS<b> Vs </b>BANDRA GAS SERVICE AND ANOTHER</td>
-</td>
-<td align="center">
-07/03/2018<font color="grey"><br/>This Judgement is modified/corrected by Speaking to Minutes  Order  dated 27/03/2018</font><br/>BOMBAY(Civil)</td>
-<td align="center">
-<a href="generatenewauth.php?auth=cGF0aD0uL2RhdGEvanVkZ2VtZW50cy8yMDE4LyZmbmFtZT1DQ1JBMTY3NjE0LnBkZiZzbWZsYWc9WSZyanVkZGF0ZT0yNy8wMy8yMDE4JnVwbG9hZGR0PTA3LzAzLzIwMTgmc3Bhc3NwaHJhc2U9MTUwNjE4MTMwNjI4" style="text-decoration:none;color:red" target="_blank">
-CRA/135/2014</a>
-(17)<br>07/03/2018</br></td>
-<td align="center">
- JUSTICE R.D. DHANUKA<td align="justified">MANISHA BIJAL SHAH<b> Vs </b>SHANKAR LAXMAN SUTAR AND ORS</td>
-</td>
-<td align="center">
-07/03/2018<br/>BOMBAY(Civil)</td>
-<td align="center">
-<a href="generatenewauth.php?auth=cGF0aD0uL2RhdGEvanVkZ2VtZW50cy8yMDE4LyZmbmFtZT1DV1AzMTcxMTMucGRmJnNtZmxhZz1OJnJqdWRkYXRlPTI3LzAzLzIwMTgmdXBsb2FkZHQ9MDcvMDMvMjAxOCZzcGFzc3BocmFzZT0xNTA2MTgxMzA2Mjg=" style="text-decoration:none;color:red" target="_blank">
-WP/1965/2013</a>
-(28)<br>07/03/2018</br></td>
-<td align="center">
- JUSTICE R.D. DHANUKA<td align="justified">MANISHA BIJAL SHAH<b> Vs </b>PUSHPADEVI RAMCHANDRA SUTAR AND ORS</td>
-</td>
-<td align="center">
-07/03/2018<br/>BOMBAY(Civil)</td>
-<td align="center">
-<a href="generatenewauth.php?auth=cGF0aD0uL2RhdGEvanVkZ2VtZW50cy8yMDE4LyZmbmFtZT1DV1AzMTc5MTMucGRmJnNtZmxhZz1OJnJqdWRkYXRlPTI3LzAzLzIwMTgmdXBsb2FkZHQ9MDcvMDMvMjAxOCZzcGFzc3BocmFzZT0xNTA2MTgxMzA2Mjg=" style="text-decoration:none;color:red" target="_blank">
-WP/2126/2013</a>
-(28)<br>07/03/2018</br></td>
-<td align="center">
- JUSTICE MRIDULA BHATKAR<td align="justified">BALCHAND JAIRAMDAS LALWANI<b> Vs </b>NAZNEEN KHALID QURESHI</td>
-</td>
-<td align="center">
-06/03/2018<br/>BOMBAY(Civil)</td>
-<td align="center">
-<a href="generatenewauth.php?auth=cGF0aD0uL2RhdGEvanVkZ2VtZW50cy8yMDE4LyZmbmFtZT1DQU8yOTI0MDE0LnBkZiZzbWZsYWc9TiZyanVkZGF0ZT0yNy8wMy8yMDE4JnVwbG9hZGR0PTA2LzAzLzIwMTgmc3Bhc3NwaHJhc2U9MTUwNjE4MTMwNjI4" style="text-decoration:none;color:red" target="_blank">
-AO/1175/2014</a>
-(18)<br>06/03/2018</br></td>
-<td align="center">
- JUSTICE DR. SHALINI PHANSALKAR-JOSHI<td align="justified">MRS. SANJIVANI KAILAS BORADE<b> Vs </b>SHRI. KASHINATH HUSENI (WAGHE) VALHER AND ANR</td>
-</td>
-<td align="center">
-05/03/2018<br/>BOMBAY(Civil)</td>
-<td align="center">
-<a href="generatenewauth.php?auth=cGF0aD0uL2RhdGEvanVkZ2VtZW50cy8yMDE4LyZmbmFtZT1DQ1JBMjY4MzgxNS5wZGYmc21mbGFnPU4mcmp1ZGRhdGU9MjcvMDMvMjAxOCZ1cGxvYWRkdD0wOS8wMy8yMDE4JnNwYXNzcGhyYXNlPTE1MDYxODEzMDYyOA==" style="text-decoration:none;color:red" target="_blank">
-CRA/44/2016</a>
-(12)<br>09/03/2018</br></td>
-<td align="center">
- JUSTICE S.C. DHARMADHIKARI<br/> JUSTICE B. H. DANGRE<td align="justified">KALPENA INDUSTRIES LIMITED<b> Vs </b>THE UNION OF INDIA AND ANR.</td>
-</td>
-<td align="center">
-01/03/2018<br/>BOMBAY(Civil)</td>
-<td align="center">
-<a href="generatenewauth.php?auth=cGF0aD0uL2RhdGEvanVkZ2VtZW50cy8yMDE4LyZmbmFtZT1DV1AzMTM4NTE2LnBkZiZzbWZsYWc9TiZyanVkZGF0ZT0yNy8wMy8yMDE4JnVwbG9hZGR0PTAzLzAzLzIwMTgmc3Bhc3NwaHJhc2U9MTUwNjE4MTMwNjI4" style="text-decoration:none;color:red" target="_blank">
-WP/12915/2016</a>
-(45)<br>03/03/2018</br></td>
-<td align="center">
- JUSTICE K.K. TATED<br/> JUSTICE  S. V. KOTWAL<td align="justified">MR.SHASHI SATYANAND EPPATURI<b> Vs </b>SMT JYOTI SHASHI EPPATURI</td>
-</td>
-<td align="center">
-01/03/2018<br/>BOMBAY(Civil)</td>
-<td align="center">
-<a href="generatenewauth.php?auth=cGF0aD0uL2RhdGEvanVkZ2VtZW50cy8yMDE4LyZmbmFtZT1DRkNBMjI2OTYxMi5wZGYmc21mbGFnPU4mcmp1ZGRhdGU9MjcvMDMvMjAxOCZ1cGxvYWRkdD0wMS8wMy8yMDE4JnNwYXNzcGhyYXNlPTE1MDYxODEzMDYyOA==" style="text-decoration:none;color:red" target="_blank">
-FCA/111/2012</a>
-(12)<br>01/03/2018</br></td>
-<td align="center">
- JUSTICE S.C. DHARMADHIKARI<br/> JUSTICE B. H. DANGRE<td align="justified">THYSSEN KRUPP INDUSTRIES INDIA PRIVATE LIMITED<b> Vs </b>SURESH MARUTI CHOUGULE</td>
-</td>
-<td align="center">
-01/03/2018<br/>BOMBAY(Civil)</td>
-<td align="center">
-<a href="generatenewauth.php?auth=cGF0aD0uL2RhdGEvanVkZ2VtZW50cy8yMDE4LyZmbmFtZT1DV1AxMTg0MzE3LnBkZiZzbWZsYWc9TiZyanVkZGF0ZT0yNy8wMy8yMDE4JnVwbG9hZGR0PTA1LzAzLzIwMTgmc3Bhc3NwaHJhc2U9MTUwNjE4MTMwNjI4" style="text-decoration:none;color:red" target="_blank">
-WP/7755/2017</a>
-(62)<br>05/03/2018</br></td>
-<td align="center">
- JUSTICE K.K. TATED<br/> JUSTICE  S. V. KOTWAL<td align="justified">SHRI. ASHWIN RAMANIKLAL GOSALIA-DEAD-THROUGH LEGAL HEIR.1-A)SMT.SHEELA ASHWIN GOSALIA AND ORS.<b> Vs </b>THE STATE OF MAHARASHTRA THROUGH THE COLLECTOR,AND ORS</td>
-</td>
-<td align="center">
-01/03/2018<font color="grey"><br/>This Judgement is modified/corrected by Speaking to Minutes  Order  dated 09/03/2018</font><br/>BOMBAY(Civil)</td>
-<td align="center">
-<a href="generatenewauth.php?auth=cGF0aD0uL2RhdGEvanVkZ2VtZW50cy8yMDE4LyZmbmFtZT1DRkEzNDA3MDEyLnBkZiZzbWZsYWc9WSZyanVkZGF0ZT0wOS8wMy8yMDE4JnVwbG9hZGR0PTAxLzAzLzIwMTgmc3Bhc3NwaHJhc2U9MTUwNjE4MTMwNjI4" style="text-decoration:none;color:red" target="_blank">
-FA/21/2013</a>
-(27)<br>01/03/2018</br></td>
-<td align="center">
- JUSTICE DR. SHALINI PHANSALKAR-JOSHI<td align="justified">SHRI. PRASHANT VINODKUMAR BANSAL<b> Vs </b>ESTATE OFFICER, AIR FORCE STATION, LOHAGAON AND ORS.</td>
-</td>
-<td align="center">
-01/03/2018<br/>BOMBAY(Civil)</td>
-<td align="center">
-<a href="generatenewauth.php?auth=cGF0aD0uL2RhdGEvanVkZ2VtZW50cy8yMDE4LyZmbmFtZT1DV1AzMTY2MTgucGRmJnNtZmxhZz1OJnJqdWRkYXRlPTA5LzAzLzIwMTgmdXBsb2FkZHQ9MDEvMDMvMjAxOCZzcGFzc3BocmFzZT0xNTA2MTgxMzA2Mjg=" style="text-decoration:none;color:red" target="_blank">
-WP/1631/2018</a>
-(19)<br>01/03/2018</br></td>
-<td align="center">
- JUSTICE  B.R. GAVAI<br/> JUSTICE K.R. SRIRAM<br/> JUSTICE B.P. COLABAWALLA<td align="justified">MR PRABODH K. MEHTA<b> Vs </b>SMT. CHARUBEN K. MEHTA</td>
-</td>
-<td align="center">
-01/03/2018<font color="grey"><br/>This Judgement is modified/corrected by Speaking to Minutes  Order  dated 12/04/2018</font><br/>BOMBAY(Civil)</td>
-<td align="center">
-<a href="generatenewauth.php?auth=cGF0aD0uL2RhdGEvanVkZ2VtZW50cy8yMDE4LyZmbmFtZT1DRkEyMDY2MjEzLnBkZiZzbWZsYWc9WSZyanVkZGF0ZT0xMi8wNC8yMDE4JnVwbG9hZGR0PTAxLzAzLzIwMTgmc3Bhc3NwaHJhc2U9MTUwNjE4MTMwNjI4" style="text-decoration:none;color:red" target="_blank">
-FA/922/2013</a>
-(40)<br>01/03/2018</br></td>
-<td align="center">
- JUSTICE DR. SHALINI PHANSALKAR-JOSHI<td align="justified">DR. MILIND ARVIND KILLEDAR<b> Vs </b>SHRI. PRASHANT MANE AND ORS.</td>
-</td>
-<td align="center">
-01/03/2018<br/>BOMBAY(Civil)</td>
-<td align="center">
-<a href="generatenewauth.php?auth=cGF0aD0uL2RhdGEvanVkZ2VtZW50cy8yMDE4LyZmbmFtZT1DV1A3OTU1MTcucGRmJnNtZmxhZz1OJnJqdWRkYXRlPTEyLzA0LzIwMTgmdXBsb2FkZHQ9MDcvMDMvMjAxOCZzcGFzc3BocmFzZT0xNTA2MTgxMzA2Mjg=" style="text-decoration:none;color:red" target="_blank">
-WP/10103/2017</a>
-(8)<br>07/03/2018</br></td>
-<td align="center">
- JUSTICE M.S. SONAK<td align="justified">KUM. ANIKET ANANT LALE AND ORS.<b> Vs </b>SHRI. PRAKASH BALU LALE AND ORS.</td>
-</td>
-<td align="center">
-01/03/2018<br/>BOMBAY(Civil)</td>
-<td align="center">
-<a href="generatenewauth.php?auth=cGF0aD0uL2RhdGEvanVkZ2VtZW50cy8yMDE4LyZmbmFtZT1DV1AyMjM0MjE3LnBkZiZzbWZsYWc9TiZyanVkZGF0ZT0xMi8wNC8yMDE4JnVwbG9hZGR0PTA5LzAzLzIwMTgmc3Bhc3NwaHJhc2U9MTUwNjE4MTMwNjI4" style="text-decoration:none;color:red" target="_blank">
-WP/9418/2017</a>
-(17)<br>09/03/2018</br></td>
-<td align="center">
- JUSTICE A.A. SAYED<br/> JUSTICE  MANISH PITALE<td align="justified">SHARAYU SARITA NAGARI II CO-OP. HSG. SOCIETY LTD.  AND ANR.<b> Vs </b>DIVISIONAL JOINT REGISTRAR CO-OP. SOCIETY PUNE DIVISION AND ORS.</td>
-</td>
-<td align="center">
-01/03/2018<br/>BOMBAY(Civil)</td>
-<td align="center">
-<a href="generatenewauth.php?auth=cGF0aD0uL2RhdGEvanVkZ2VtZW50cy8yMDE4LyZmbmFtZT1DV1AyMDE4MDUucGRmJnNtZmxhZz1OJnJqdWRkYXRlPTEyLzA0LzIwMTgmdXBsb2FkZHQ9MDgvMDMvMjAxOCZzcGFzc3BocmFzZT0xNTA2MTgxMzA2Mjg=" style="text-decoration:none;color:red" target="_blank">
-WP/414/2005</a>
-(58)<br>08/03/2018</br></td>
-<td align="center">
- JUSTICE A.A. SAYED<br/> JUSTICE  MANISH PITALE<td align="justified">SARITA NAGARI PHASE -2 CO-OP. HOUSING SOCIETY LTD. AND ANR.<b> Vs </b>THE STATE OF MAHARASHTRA</td>
-</td>
-<td align="center">
-01/03/2018<br/>BOMBAY(Civil)</td>
-<td align="center">
-<a href="generatenewauth.php?auth=cGF0aD0uL2RhdGEvanVkZ2VtZW50cy8yMDE4LyZmbmFtZT1DV1AxODQ0MDUucGRmJnNtZmxhZz1OJnJqdWRkYXRlPTEyLzA0LzIwMTgmdXBsb2FkZHQ9MDgvMDMvMjAxOCZzcGFzc3BocmFzZT0xNTA2MTgxMzA2Mjg=" style="text-decoration:none;color:red" target="_blank">
-WP/798/2005</a>
-(58)<br>08/03/2018</br></td>
-<td align="center">
- JUSTICE DR. SHALINI PHANSALKAR-JOSHI<td align="justified">SULTAN MUBIN KHAN AND ANR<b> Vs </b>VIMMI SHAIKH, D/O OF ZAHRUNISHA</td>
-</td>
-<td align="center">
-28/02/2018<br/>BOMBAY(Civil)</td>
-<td align="center">
-<a href="generatenewauth.php?auth=cGF0aD0uL2RhdGEvanVkZ2VtZW50cy8yMDE4LyZmbmFtZT1DQ1JBMjYxNzgxNy5wZGYmc21mbGFnPU4mcmp1ZGRhdGU9MTIvMDQvMjAxOCZ1cGxvYWRkdD0wNS8wMy8yMDE4JnNwYXNzcGhyYXNlPTE1MDYxODEzMDYyOA==" style="text-decoration:none;color:red" target="_blank">
-CRA/40/2018</a>
-(6)<br>05/03/2018</br></td>
-<td align="center">
- JUSTICE DR. SHALINI PHANSALKAR-JOSHI<td align="justified">SAHEBRAO RAMCHANDRA HANDE<b> Vs </b>SHRI. JAGANNATH ABAJI NIRBHAVANE</td>
-</td>
-<td align="center">
-28/02/2018<br/>BOMBAY(Civil)</td>
-<td align="center">
-<a href="generatenewauth.php?auth=cGF0aD0uL2RhdGEvanVkZ2VtZW50cy8yMDE4LyZmbmFtZT1DV1A1OTU2MTcucGRmJnNtZmxhZz1OJnJqdWRkYXRlPTEyLzA0LzIwMTgmdXBsb2FkZHQ9MDUvMDMvMjAxOCZzcGFzc3BocmFzZT0xNTA2MTgxMzA2Mjg=" style="text-decoration:none;color:red" target="_blank">
-WP/10855/2017</a>
-(7)<br>05/03/2018</br></td>
-<td align="center">
- JUSTICE DR. SHALINI PHANSALKAR-JOSHI<td align="justified">KARUR VYASHA BANK LTD.<b> Vs </b>SMT. HIRABAI BABURAO EKATPURE AND ORS.</td>
-</td>
-<td align="center">
-28/02/2018<br/>BOMBAY(Civil)</td>
-<td align="center">
-<a href="generatenewauth.php?auth=cGF0aD0uL2RhdGEvanVkZ2VtZW50cy8yMDE4LyZmbmFtZT1DV1AzMjcxMDE3LnBkZiZzbWZsYWc9TiZyanVkZGF0ZT0xMi8wNC8yMDE4JnVwbG9hZGR0PTA1LzAzLzIwMTgmc3Bhc3NwaHJhc2U9MTUwNjE4MTMwNjI4" style="text-decoration:none;color:red" target="_blank">
-WP/180/2018</a>
-(5)<br>05/03/2018</br></td>
-<td align="center">
- JUSTICE DR. SHALINI PHANSALKAR-JOSHI<td align="justified">MR. RAJNISH KUMAR JAIN AND ANR.<b> Vs </b>THANE MUNICIPAL CORPORATION AND ORS.</td>
-</td>
-<td align="center">
-28/02/2018<br/>BOMBAY(Civil)</td>
-<td align="center">
-<a href="generatenewauth.php?auth=cGF0aD0uL2RhdGEvanVkZ2VtZW50cy8yMDE4LyZmbmFtZT1DV1AyOTI5NjE3LnBkZiZzbWZsYWc9TiZyanVkZGF0ZT0xMi8wNC8yMDE4JnVwbG9hZGR0PTA1LzAzLzIwMTgmc3Bhc3NwaHJhc2U9MTUwNjE4MTMwNjI4" style="text-decoration:none;color:red" target="_blank">
-WP/11678/2017</a>
-(11)<br>05/03/2018</br></td>
-<td align="center">
- JUSTICE DR. SHALINI PHANSALKAR-JOSHI<td align="justified">SMT. ANURADHA VASANTRAO GHORPADE<b> Vs </b>SHRI. SAYAJIRAO TATYASAHEB GHORPADE AND ORS</td>
-</td>
-<td align="center">
-28/02/2018<br/>BOMBAY(Civil)</td>
-<td align="center">
-<a href="generatenewauth.php?auth=cGF0aD0uL2RhdGEvanVkZ2VtZW50cy8yMDE4LyZmbmFtZT1DQ1JBNzkzMTYucGRmJnNtZmxhZz1OJnJqdWRkYXRlPTEyLzA0LzIwMTgmdXBsb2FkZHQ9MDUvMDMvMjAxOCZzcGFzc3BocmFzZT0xNTA2MTgxMzA2Mjg=" style="text-decoration:none;color:red" target="_blank">
-CRA/57/2016</a>
-(7)<br>05/03/2018</br></td>
-<td align="center">
-HON'BLE THE ACTING CHIEF JUSTICE<br/> JUSTICE MAKARAND SUBHASH KARNIK<td align="justified">THE STATE OF MAHARASHTRA, THROUGH ADDITIONAL CHIEF SECRETARY, HOME DEPT AND ORS<b> Vs </b>SHRI. DEEPAK NAMDEV JAGTAP AND ORS</td>
-</td>
-<td align="center">
-27/02/2018<br/>BOMBAY(Civil)</td>
-<td align="center">
-<a href="generatenewauth.php?auth=cGF0aD0uL2RhdGEvanVkZ2VtZW50cy8yMDE4LyZmbmFtZT1DV1A5NzYxMi5wZGYmc21mbGFnPU4mcmp1ZGRhdGU9MTIvMDQvMjAxOCZ1cGxvYWRkdD0yNy8wMi8yMDE4JnNwYXNzcGhyYXNlPTE1MDYxODEzMDYyOA==" style="text-decoration:none;color:red" target="_blank">
-WP/1203/2012</a>
-(21)<br>27/02/2018</br></td>
-<td align="center">
- JUSTICE DR. SHALINI PHANSALKAR-JOSHI<td align="justified">ABDUL HAMEED ABDUL GANI SHAIKH<b> Vs </b>AMJAD ALI SHAFI KHAN</td>
-</td>
-<td align="center">
-27/02/2018<br/>BOMBAY(Civil)</td>
-<td align="center">
-<a href="generatenewauth.php?auth=cGF0aD0uL2RhdGEvanVkZ2VtZW50cy8yMDE4LyZmbmFtZT1DQ1JBMzUwMzAxNy5wZGYmc21mbGFnPU4mcmp1ZGRhdGU9MTIvMDQvMjAxOCZ1cGxvYWRkdD0wNi8wMy8yMDE4JnNwYXNzcGhyYXNlPTE1MDYxODEzMDYyOA==" style="text-decoration:none;color:red" target="_blank">
-CRA/12/2018</a>
-(13)<br>06/03/2018</br></td>
-<td align="center">
-HON'BLE THE ACTING CHIEF JUSTICE<br/> JUSTICE M.S. SONAK<td align="justified">MR. RAJESH PUNLIK WARDE<b> Vs </b>UNION OF INDIA, THROUGH GENERAL MANAGER</td>
-</td>
-<td align="center">
-27/02/2018<br/>BOMBAY(Civil)</td>
-<td align="center">
-<a href="generatenewauth.php?auth=cGF0aD0uL2RhdGEvY2l2aWwvMjAxOC8mZm5hbWU9V1AyODY2NjEyMjcwMjE4LnBkZiZzbWZsYWc9TiZyanVkZGF0ZT0xMi8wNC8yMDE4JnVwbG9hZGR0PTA3LzAzLzIwMTgmc3Bhc3NwaHJhc2U9MTUwNjE4MTMwNjI4" style="text-decoration:none;color:purple" target="_blank">
-WP/8764/2015</a>
-(18)<br>07/03/2018</br></td>
-<td align="center">
- JUSTICE DR. SHALINI PHANSALKAR-JOSHI<td align="justified">HARI SHIVA PATIL<b> Vs </b>SADASHIV KRISHNAJI KULKARNI AND ORS</td>
-</td>
-<td align="center">
-26/02/2018<br/>BOMBAY(Civil)</td>
-<td align="center">
-<a href="generatenewauth.php?auth=cGF0aD0uL2RhdGEvanVkZ2VtZW50cy8yMDE4LyZmbmFtZT1DQ1JBNjExODE3LnBkZiZzbWZsYWc9TiZyanVkZGF0ZT0xMi8wNC8yMDE4JnVwbG9hZGR0PTI2LzAyLzIwMTgmc3Bhc3NwaHJhc2U9MTUwNjE4MTMwNjI4" style="text-decoration:none;color:red" target="_blank">
-CRA/154/2017</a>
-(13)<br>26/02/2018</br></td>
-<td align="center">
-HON'BLE THE ACTING CHIEF JUSTICE<br/> JUSTICE M.S. SONAK<td align="justified">UNION OF INDIA , THROUGH THE SECRETARY<b> Vs </b>DR. KIRAN JADHAV , IPS AND ORS.</td>
-</td>
-<td align="center">
-26/02/2018<br/>BOMBAY(Civil)</td>
-<td align="center">
-<a href="generatenewauth.php?auth=cGF0aD0uL2RhdGEvY2l2aWwvMjAxOC8mZm5hbWU9V1AyOTE4MDE3MjYwMjE4LnBkZiZzbWZsYWc9TiZyanVkZGF0ZT0xMi8wNC8yMDE4JnVwbG9hZGR0PTEyLzAzLzIwMTgmc3Bhc3NwaHJhc2U9MTUwNjE4MTMwNjI4" style="text-decoration:none;color:purple" target="_blank">
-WP/12203/2017</a>
-(28)<br>12/03/2018</br></td>
-<td align="center">
- JUSTICE MRIDULA BHATKAR<td align="justified">BAJAJ ALLIANZ GENERAL INSURANCE CO. LTD.<b> Vs </b>SMT. PRABHAVATI HIRAMAN BABAR AND ANR.</td>
-</td>
-<td align="center">
-24/02/2018<br/>BOMBAY(Civil)</td>
-<td align="center">
-<a href="generatenewauth.php?auth=cGF0aD0uL2RhdGEvanVkZ2VtZW50cy8yMDE4LyZmbmFtZT1DQ0FGMjU3MjExMy5wZGYmc21mbGFnPU4mcmp1ZGRhdGU9MTIvMDQvMjAxOCZ1cGxvYWRkdD0yNC8wMi8yMDE4JnNwYXNzcGhyYXNlPTE1MDYxODEzMDYyOA==" style="text-decoration:none;color:red" target="_blank">
-CAF/3597/2013</a>
-(10)<br>24/02/2018</br></td>
-<td align="center">
- JUSTICE MRIDULA BHATKAR<td align="justified">BAJAJ ALLIANZ GENERAL INSURANCE CO. LTD.<b> Vs </b>SMT. PRABHAVATI HIRAMAN BABAR AND ANR.</td>
-</td>
-<td align="center">
-24/02/2018<br/>BOMBAY(Civil)</td>
-<td align="center">
-<a href="generatenewauth.php?auth=cGF0aD0uL2RhdGEvanVkZ2VtZW50cy8yMDE4LyZmbmFtZT1DRkEyNTcxNzEzLnBkZiZzbWZsYWc9TiZyanVkZGF0ZT0xMi8wNC8yMDE4JnVwbG9hZGR0PTI0LzAyLzIwMTgmc3Bhc3NwaHJhc2U9MTUwNjE4MTMwNjI4" style="text-decoration:none;color:red" target="_blank">
-FA/630/2014</a>
-(10)<br>24/02/2018</br></td>
-<td align="center">
- JUSTICE A. K. MENON<td align="justified">HINDUSTAN LEVER EMPLOYEES UNION<b> Vs </b>HINDUSTAN UNILEVER LTD.</td>
-</td>
-<td align="center">
-24/02/2018<br/>BOMBAY(Civil)</td>
-<td align="center">
-<a href="generatenewauth.php?auth=cGF0aD0uL2RhdGEvanVkZ2VtZW50cy8yMDE4LyZmbmFtZT1DV1AxMjA0MTE2LnBkZiZzbWZsYWc9TiZyanVkZGF0ZT0xMi8wNC8yMDE4JnVwbG9hZGR0PTA2LzAzLzIwMTgmc3Bhc3NwaHJhc2U9MTUwNjE4MTMwNjI4" style="text-decoration:none;color:red" target="_blank">
-WP/8122/2016</a>
-(37)<br>06/03/2018</br></td>
-<td align="center">
- JUSTICE R.D. DHANUKA<td align="justified">SAU. SHOBHA PRADEEP PATIL (GAIKWAD) AND ORS.<b> Vs </b>THE ADDITIONAL DIVISIONAL COMMISSIONER, PUNE DIV. AND ORS.</td>
-</td>
-<td align="center">
-24/02/2018<br/>BOMBAY(Civil)</td>
-<td align="center">
-<a href="generatenewauth.php?auth=cGF0aD0uL2RhdGEvanVkZ2VtZW50cy8yMDE4LyZmbmFtZT1DV1AyNDY1MDE3LnBkZiZzbWZsYWc9TiZyanVkZGF0ZT0xMi8wNC8yMDE4JnVwbG9hZGR0PTA1LzAzLzIwMTgmc3Bhc3NwaHJhc2U9MTUwNjE4MTMwNjI4" style="text-decoration:none;color:red" target="_blank">
-WP/14073/2017</a>
-(38)<br>05/03/2018</br></td>
-<td align="center">
- JUSTICE A. K. MENON<td align="justified">HINDUSTAN UNILEVER LTD.<b> Vs </b>HINDUSTAN LEVER EMPLOYEES UNION</td>
-</td>
-<td align="center">
-24/02/2018<br/>BOMBAY(Civil)</td>
-<td align="center">
-<a href="generatenewauth.php?auth=cGF0aD0uL2RhdGEvanVkZ2VtZW50cy8yMDE4LyZmbmFtZT1DV1AxMTEyNjE2LnBkZiZzbWZsYWc9TiZyanVkZGF0ZT0xMi8wNC8yMDE4JnVwbG9hZGR0PTA2LzAzLzIwMTgmc3Bhc3NwaHJhc2U9MTUwNjE4MTMwNjI4" style="text-decoration:none;color:red" target="_blank">
-WP/11595/2016</a>
-(37)<br>06/03/2018</br></td>
-<td align="center">
- JUSTICE S.C. DHARMADHIKARI<br/> JUSTICE B. H. DANGRE<td align="justified">THAKSEN WAMAN DAVALE<b> Vs </b>SHRI. SUBHAS O. SONAWANE</td>
-</td>
-<td align="center">
-23/02/2018<br/>BOMBAY(Civil)</td>
-<td align="center">
-<a href="generatenewauth.php?auth=cGF0aD0uL2RhdGEvanVkZ2VtZW50cy8yMDE4LyZmbmFtZT1DQ1A1MzIyMTEucGRmJnNtZmxhZz1OJnJqdWRkYXRlPTEyLzA0LzIwMTgmdXBsb2FkZHQ9MDkvMDMvMjAxOCZzcGFzc3BocmFzZT0xNTA2MTgxMzA2Mjg=" style="text-decoration:none;color:red" target="_blank">
-CP/204/2011</a>
-(31)<br>09/03/2018</br></td>
-<td align="center">
- JUSTICE DR. SHALINI PHANSALKAR-JOSHI<td align="justified">AMIT MOHAN BHATIA THROUGH CONSTITUTED ATTORNEY<b> Vs </b>MARATHA SAHKARI BANK LTD. THROUGH ITS RECOVERY OFFICER AND ORS.</td>
-</td>
-<td align="center">
-22/02/2018<br/>BOMBAY(Civil)</td>
-<td align="center">
-<a href="generatenewauth.php?auth=cGF0aD0uL2RhdGEvanVkZ2VtZW50cy8yMDE4LyZmbmFtZT1DV1A1NDEzMTgucGRmJnNtZmxhZz1OJnJqdWRkYXRlPTEyLzA0LzIwMTgmdXBsb2FkZHQ9MjYvMDIvMjAxOCZzcGFzc3BocmFzZT0xNTA2MTgxMzA2Mjg=" style="text-decoration:none;color:red" target="_blank">
-WP/2298/2018</a>
-(10)<br>26/02/2018</br></td>
-<td align="center">
- JUSTICE DR. SHALINI PHANSALKAR-JOSHI<td align="justified">AMIT MOHAN BHATIA THROUGH CONSTITUTED ATTORNEY<b> Vs </b>MARATHA SAHKARI BANK LTD. THROUGH ITS RECOVERY OFFICER AND ORS.</td>
-</td>
-<td align="center">
-22/02/2018<br/>BOMBAY(Civil)</td>
-<td align="center">
-<a href="generatenewauth.php?auth=cGF0aD0uL2RhdGEvanVkZ2VtZW50cy8yMDE4LyZmbmFtZT1DV1A1NDE2MTgucGRmJnNtZmxhZz1OJnJqdWRkYXRlPTEyLzA0LzIwMTgmdXBsb2FkZHQ9MjYvMDIvMjAxOCZzcGFzc3BocmFzZT0xNTA2MTgxMzA2Mjg=" style="text-decoration:none;color:red" target="_blank">
-WP/2300/2018</a>
-(10)<br>26/02/2018</br></td>
-<td align="center">
- JUSTICE DR. SHALINI PHANSALKAR-JOSHI<td align="justified">AMIT MOHAN BHATIA THROUGH CONSTITUTED ATTORNEY<b> Vs </b>MARATHA SAHKARI BANK LTD. THROUGH ITS RECOVERY OFFICER AND ORS.</td>
-</td>
-<td align="center">
-22/02/2018<br/>BOMBAY(Civil)</td>
-<td align="center">
-<a href="generatenewauth.php?auth=cGF0aD0uL2RhdGEvanVkZ2VtZW50cy8yMDE4LyZmbmFtZT1DV1A1NDE0MTgucGRmJnNtZmxhZz1OJnJqdWRkYXRlPTEyLzA0LzIwMTgmdXBsb2FkZHQ9MjYvMDIvMjAxOCZzcGFzc3BocmFzZT0xNTA2MTgxMzA2Mjg=" style="text-decoration:none;color:red" target="_blank">
-WP/2299/2018</a>
-(10)<br>26/02/2018</br></td>
-<td align="center">
- JUSTICE G. S. KULKARNI<td align="justified">JULIE JAYESH SHAH<b> Vs </b>JAYESH TRILOK KUMAR SHAH</td>
-</td>
-<td align="center">
-22/02/2018<br/>BOMBAY(Civil)</td>
-<td align="center">
-<a href="generatenewauth.php?auth=cGF0aD0uL2RhdGEvanVkZ2VtZW50cy8yMDE4LyZmbmFtZT1DV1AyMTQyODE3LnBkZiZzbWZsYWc9TiZyanVkZGF0ZT0xMi8wNC8yMDE4JnVwbG9hZGR0PTAxLzAzLzIwMTgmc3Bhc3NwaHJhc2U9MTUwNjE4MTMwNjI4" style="text-decoration:none;color:red" target="_blank">
-WP/8808/2017</a>
-(10)<br>01/03/2018</br></td>
-<td align="center">
- JUSTICE DR. SHALINI PHANSALKAR-JOSHI<td align="justified">RUPCHAND RAJMALJI JAIN (SANCHETI)<b> Vs </b>JAYANTILAL KALYANJI GADA AND ORS</td>
-</td>
-<td align="center">
-22/02/2018<br/>BOMBAY(Civil)</td>
-<td align="center">
-<a href="generatenewauth.php?auth=cGF0aD0uL2RhdGEvanVkZ2VtZW50cy8yMDE4LyZmbmFtZT1DV1AxMjgzOTE1LnBkZiZzbWZsYWc9TiZyanVkZGF0ZT0xMi8wNC8yMDE4JnVwbG9hZGR0PTI3LzAyLzIwMTgmc3Bhc3NwaHJhc2U9MTUwNjE4MTMwNjI4" style="text-decoration:none;color:red" target="_blank">
-WP/5056/2015</a>
-(18)<br>27/02/2018</br></td>
-<td align="center">
- JUSTICE  A.S. OKA<br/> JUSTICE P.N. DESHMUKH<td align="justified">SHRI. YOGESH MANGALSEN BAHAL<b> Vs </b>THE COMMISSIONER OF PIMPRI CHINCHWAD MUNICIPAL CORPORATION AND ORS.</td>
-</td>
-<td align="center">
-21/02/2018<br/>BOMBAY(Civil)</td>
-<td align="center">
-<a href="generatenewauth.php?auth=cGF0aD0uL2RhdGEvanVkZ2VtZW50cy8yMDE4LyZmbmFtZT1DV1AyNDUzMTE3LnBkZiZzbWZsYWc9TiZyanVkZGF0ZT0xMi8wNC8yMDE4JnVwbG9hZGR0PTExLzA0LzIwMTgmc3Bhc3NwaHJhc2U9MTUwNjE4MTMwNjI4" style="text-decoration:none;color:red" target="_blank">
-WP/9829/2017</a>
-(16)<br>11/04/2018</br></td>
-<td align="center">
- JUSTICE  B.R. GAVAI<br/> JUSTICE B.P. COLABAWALLA<td align="justified">THANE ZILLA MADHYAMIK SHIKSHAK SANGH AND ORS.<b> Vs </b>THE STATE OF MAHARASHTRA THROUGH THE GOVERNMENT PLEADER AND ORS.</td>
-</td>
-<td align="center">
-21/02/2018<br/>BOMBAY(Civil)</td>
-<td align="center">
-<a href="generatenewauth.php?auth=cGF0aD0uL2RhdGEvanVkZ2VtZW50cy8yMDE4LyZmbmFtZT1DV1AxNzU0MDE3LnBkZiZzbWZsYWc9TiZyanVkZGF0ZT0xMi8wNC8yMDE4JnVwbG9hZGR0PTI2LzAyLzIwMTgmc3Bhc3NwaHJhc2U9MTUwNjE4MTMwNjI4" style="text-decoration:none;color:red" target="_blank">
-WP/8136/2017</a>
-(37)<br>26/02/2018</br></td>
-<td align="center">
- JUSTICE  B.R. GAVAI<br/> JUSTICE B.P. COLABAWALLA<td align="justified">THE THANE DISTRICT CENTRAL CO-OP. BANK LTD.<b> Vs </b>THE STATE OF MAHARASHTRA AND ORS.</td>
-</td>
-<td align="center">
-21/02/2018<br/>BOMBAY(Civil)</td>
-<td align="center">
-<a href="generatenewauth.php?auth=cGF0aD0uL2RhdGEvanVkZ2VtZW50cy8yMDE4LyZmbmFtZT1DV1AxOTk1NTE3LnBkZiZzbWZsYWc9TiZyanVkZGF0ZT0xMi8wNC8yMDE4JnVwbG9hZGR0PTI2LzAyLzIwMTgmc3Bhc3NwaHJhc2U9MTUwNjE4MTMwNjI4" style="text-decoration:none;color:red" target="_blank">
-WP/8139/2017</a>
-(37)<br>26/02/2018</br></td>
-<td align="center">
- JUSTICE R.D. DHANUKA<td align="justified">SHRI. KONDU THAKU CHAVAN (SINCE DECD) THROUGH LRS<b> Vs </b>SHRI. ASHOK SHANKAR CHAVAN AND ORS</td>
-</td>
-<td align="center">
-21/02/2018<br/>BOMBAY(Civil)</td>
-<td align="center">
-<a href="generatenewauth.php?auth=cGF0aD0uL2RhdGEvanVkZ2VtZW50cy8yMDE4LyZmbmFtZT1DV1AzMjY0MzEzLnBkZiZzbWZsYWc9TiZyanVkZGF0ZT0xMi8wNC8yMDE4JnVwbG9hZGR0PTIxLzAyLzIwMTgmc3Bhc3NwaHJhc2U9MTUwNjE4MTMwNjI4" style="text-decoration:none;color:red" target="_blank">
-WP/11631/2013</a>
-(21)<br>21/02/2018</br></td>
-<td align="center">
- JUSTICE DR. SHALINI PHANSALKAR-JOSHI<td align="justified">TUKARAM DHONDI SUTAR SINCE DIED THR. LRS.<b> Vs </b>SHRI. NANA BHAU TIBILE AND ORS.</td>
-</td>
-<td align="center">
-21/02/2018<br/>BOMBAY(Civil)</td>
-<td align="center">
-<a href="generatenewauth.php?auth=cGF0aD0uL2RhdGEvanVkZ2VtZW50cy8yMDE4LyZmbmFtZT1DQ1JBMjcwNTYxNy5wZGYmc21mbGFnPU4mcmp1ZGRhdGU9MTIvMDQvMjAxOCZ1cGxvYWRkdD0yMS8wMi8yMDE4JnNwYXNzcGhyYXNlPTE1MDYxODEzMDYyOA==" style="text-decoration:none;color:red" target="_blank">
-CRA/533/2017</a>
-(19)<br>21/02/2018</br></td>
-<td align="center">
- JUSTICE S.C. GUPTE<td align="justified">JAYANT MANIKLAL LUNAWAT<b> Vs </b>KAMAL ARJAN HINGORANI AND ANR</td>
-</td>
-<td align="center">
-20/02/2018<font color="grey"><br/>This Judgement is modified/corrected by Speaking to Minutes  Order  dated 16/03/2017</font><br/>BOMBAY(Civil)</td>
-<td align="center">
-<a href="generatenewauth.php?auth=cGF0aD0uL2RhdGEvanVkZ2VtZW50cy8yMDE4LyZmbmFtZT1DRkE1MTE4MTIucGRmJnNtZmxhZz1ZJnJqdWRkYXRlPTE2LzAzLzIwMTcmdXBsb2FkZHQ9MTkvMDMvMjAxOCZzcGFzc3BocmFzZT0xNTA2MTgxMzA2Mjg=" style="text-decoration:none;color:red" target="_blank">
-FA/381/2012</a>
-(42)<br>19/03/2018</br></td>
-<td align="center">
- JUSTICE G. S. KULKARNI<td align="justified">SHRI KHURSHED NADIRSHAH SATERWALA<b> Vs </b>SHRI KOHIYAR P. SATERWALA</td>
-</td>
-<td align="center">
-20/02/2018<br/>BOMBAY(Civil)</td>
-<td align="center">
-<a href="generatenewauth.php?auth=cGF0aD0uL2RhdGEvanVkZ2VtZW50cy8yMDE4LyZmbmFtZT1DV1A4MTc0ODkyLnBkZiZzbWZsYWc9TiZyanVkZGF0ZT0xNi8wMy8yMDE3JnVwbG9hZGR0PTIwLzAyLzIwMTgmc3Bhc3NwaHJhc2U9MTUwNjE4MTMwNjI4" style="text-decoration:none;color:red" target="_blank">
-WP/1748/1992</a>
-(45)<br>20/02/2018</br></td>
-<td align="center">
- JUSTICE R.M. BORDE<br/> JUSTICE A.S. GADKARI<td align="justified">GRAMPANCHAYAT, THROUGH THE SARPANCH, DATTATRAY M. MARNE<b> Vs </b>STATE OF MAHARASHTRA AND ORS</td>
-</td>
-<td align="center">
-16/02/2018<br/>BOMBAY(Civil)</td>
-<td align="center">
-<a href="generatenewauth.php?auth=cGF0aD0uL2RhdGEvanVkZ2VtZW50cy8yMDE4LyZmbmFtZT1DV1A1MjIzMTUucGRmJnNtZmxhZz1OJnJqdWRkYXRlPTE2LzAzLzIwMTcmdXBsb2FkZHQ9MDgvMDMvMjAxOCZzcGFzc3BocmFzZT0xNTA2MTgxMzA2Mjg=" style="text-decoration:none;color:red" target="_blank">
-WP/2736/2015</a>
-(24)<br>08/03/2018</br></td>
-<td align="center">
- JUSTICE RANJIT MORE<br/> JUSTICE ANUJA PRABHUDESSAI<td align="justified">SHRI. SHEETALKUMAR SADASHIV ZAMBARE<b> Vs </b>THE STATE OF MAHARASHTRA THROGH THE SECRETARY AND ORS</td>
-</td>
-<td align="center">
-15/02/2018<br/>BOMBAY(Civil)</td>
-<td align="center">
-<a href="generatenewauth.php?auth=cGF0aD0uL2RhdGEvanVkZ2VtZW50cy8yMDE4LyZmbmFtZT1DV1AzMDgwNzE0LnBkZiZzbWZsYWc9TiZyanVkZGF0ZT0xNi8wMy8yMDE3JnVwbG9hZGR0PTIwLzAyLzIwMTgmc3Bhc3NwaHJhc2U9MTUwNjE4MTMwNjI4" style="text-decoration:none;color:red" target="_blank">
-WP/10852/2014</a>
-(6)<br>20/02/2018</br></td>
-<td align="center">
- JUSTICE K.K. TATED<br/> JUSTICE  S. V. KOTWAL<td align="justified">NISAR AHMED RAMZAN-MOMIN<b> Vs </b>THE SPECIAL LAND ACQUISITION OFFICER AND ORS</td>
-</td>
-<td align="center">
-14/02/2018<br/>BOMBAY(Civil)</td>
-<td align="center">
-<a href="generatenewauth.php?auth=cGF0aD0uL2RhdGEvanVkZ2VtZW50cy8yMDE4LyZmbmFtZT1DRkExMzM5OTEyLnBkZiZzbWZsYWc9TiZyanVkZGF0ZT0xNi8wMy8yMDE3JnVwbG9hZGR0PTE2LzAyLzIwMTgmc3Bhc3NwaHJhc2U9MTUwNjE4MTMwNjI4" style="text-decoration:none;color:red" target="_blank">
-FA/846/2012</a>
-(18)<br>16/02/2018</br></td>
-<td align="center">
- JUSTICE R.M. BORDE<br/> JUSTICE RAJESH G. KETKAR<td align="justified">SHRI PAWAR GANESH BALKRISHNA<b> Vs </b>STATE OF MAHARASHTRA AND ORS</td>
-</td>
-<td align="center">
-13/02/2018<br/>BOMBAY(Civil)</td>
-<td align="center">
-<a href="generatenewauth.php?auth=cGF0aD0uL2RhdGEvanVkZ2VtZW50cy8yMDE4LyZmbmFtZT1DV1AyNTAwNzE0LnBkZiZzbWZsYWc9TiZyanVkZGF0ZT0xNi8wMy8yMDE3JnVwbG9hZGR0PTE2LzAyLzIwMTgmc3Bhc3NwaHJhc2U9MTUwNjE4MTMwNjI4" style="text-decoration:none;color:red" target="_blank">
-WP/8865/2014</a>
-(5)<br>16/02/2018</br></td>
-<td align="center">
- JUSTICE R.D. DHANUKA<td align="justified">T.J.S.B. SAHAKARI BANK LTD, THROUGH RECOVERY MANAGER, SHRI. PRADEEP LALCHAND SONAWANE<b> Vs </b>M/S. VASUDEV KHACHERMAL AND CO, THROUGH PROP. SHRI. VASUDEV K. AGARWAL AND ORS</td>
-</td>
-<td align="center">
-12/02/2018<br/>BOMBAY(Civil)</td>
-<td align="center">
-<a href="generatenewauth.php?auth=cGF0aD0uL2RhdGEvanVkZ2VtZW50cy8yMDE4LyZmbmFtZT1DV1AxOTc5NTE0LnBkZiZzbWZsYWc9TiZyanVkZGF0ZT0xNi8wMy8yMDE3JnVwbG9hZGR0PTE1LzAyLzIwMTgmc3Bhc3NwaHJhc2U9MTUwNjE4MTMwNjI4" style="text-decoration:none;color:red" target="_blank">
-WP/8657/2014</a>
-(9)<br>15/02/2018</br></td>
-<td align="center">
- JUSTICE MRIDULA BHATKAR<td align="justified">SHIVAJI SHANKAR JADHAV AND ANR<b> Vs </b>LAXMAN GAJANAN GODBOLE THR. HIS PAO.NIKHIL DINKAR PAWAR</td>
-</td>
-<td align="center">
-08/02/2018<br/>BOMBAY(Civil)</td>
-<td align="center">
-<a href="generatenewauth.php?auth=cGF0aD0uL2RhdGEvY2l2aWwvMjAxOC8mZm5hbWU9QU8zNjUyMzE3MDgwMjE4LnBkZiZzbWZsYWc9TiZyanVkZGF0ZT0xNi8wMy8yMDE3JnVwbG9hZGR0PTEyLzAyLzIwMTgmc3Bhc3NwaHJhc2U9MTUwNjE4MTMwNjI4" style="text-decoration:none;color:purple" target="_blank">
-AOST/36523/2017</a>
-(2)<br>12/02/2018</br></td>
-<td align="center">
-HON'BLE THE ACTING CHIEF JUSTICE<br/> JUSTICE MAKARAND SUBHASH KARNIK<td align="justified">THE STATE OF MAHARASHTRA THROUGH THE  SECRETARY, REVENUE AND FOREST DEPT. AND ORS.<b> Vs </b>MR. SHRIRANG L. DAVARE AND ORS.</td>
-</td>
-<td align="center">
-07/02/2018<br/>BOMBAY(Civil)</td>
-<td align="center">
-<a href="generatenewauth.php?auth=cGF0aD0uL2RhdGEvanVkZ2VtZW50cy8yMDE4LyZmbmFtZT1DV1AxMjQ3MTgucGRmJnNtZmxhZz1OJnJqdWRkYXRlPTE2LzAzLzIwMTcmdXBsb2FkZHQ9MDEvMDMvMjAxOCZzcGFzc3BocmFzZT0xNTA2MTgxMzA2Mjg=" style="text-decoration:none;color:red" target="_blank">
-WP/822/2018</a>
-(24)<br>01/03/2018</br></td>
-<td align="center">
-HON'BLE THE ACTING CHIEF JUSTICE<br/> JUSTICE MAKARAND SUBHASH KARNIK<td align="justified">A.S.MAHAJAN AND ORS.<b> Vs </b>UNION OF INDIA AND ORS.</td>
-</td>
-<td align="center">
-06/02/2018<br/>BOMBAY(Civil)</td>
-<td align="center">
-<a href="generatenewauth.php?auth=cGF0aD0uL2RhdGEvanVkZ2VtZW50cy8yMDE4LyZmbmFtZT1DV1AzMjg2NTAzLnBkZiZzbWZsYWc9TiZyanVkZGF0ZT0xNi8wMy8yMDE3JnVwbG9hZGR0PTA2LzAyLzIwMTgmc3Bhc3NwaHJhc2U9MTUwNjE4MTMwNjI4" style="text-decoration:none;color:red" target="_blank">
-WP/7501/2003</a>
-(58)<br>06/02/2018</br></td>
-<td align="center">
-HON'BLE THE ACTING CHIEF JUSTICE<br/> JUSTICE MAKARAND SUBHASH KARNIK<td align="justified">C.H.SATAM &amp; ORS.<b> Vs </b>UNION OF INDIA &amp; ORS.</td>
-</td>
-<td align="center">
-06/02/2018<br/>BOMBAY(Civil)</td>
-<td align="center">
-<a href="generatenewauth.php?auth=cGF0aD0uL2RhdGEvanVkZ2VtZW50cy8yMDE4LyZmbmFtZT1DV1AzMzEwNjAzLnBkZiZzbWZsYWc9TiZyanVkZGF0ZT0xNi8wMy8yMDE3JnVwbG9hZGR0PTA2LzAyLzIwMTgmc3Bhc3NwaHJhc2U9MTUwNjE4MTMwNjI4" style="text-decoration:none;color:red" target="_blank">
-WP/7381/2003</a>
-(58)<br>06/02/2018</br></td>
-<td align="center">
-HON'BLE THE ACTING CHIEF JUSTICE<br/> JUSTICE MAKARAND SUBHASH KARNIK<td align="justified">ASHOK ARJUN SALKAR<b> Vs </b>UNION OF INDIA &amp; ORS.</td>
-</td>
-<td align="center">
-06/02/2018<br/>BOMBAY(Civil)</td>
-<td align="center">
-<a href="generatenewauth.php?auth=cGF0aD0uL2RhdGEvanVkZ2VtZW50cy8yMDE4LyZmbmFtZT1DV1AzNTI2MTAzLnBkZiZzbWZsYWc9TiZyanVkZGF0ZT0xNi8wMy8yMDE3JnVwbG9hZGR0PTA2LzAyLzIwMTgmc3Bhc3NwaHJhc2U9MTUwNjE4MTMwNjI4" style="text-decoration:none;color:red" target="_blank">
-WP/6355/2003</a>
-(58)<br>06/02/2018</br></td>
-<td align="center">
-HON'BLE THE ACTING CHIEF JUSTICE<br/> JUSTICE MAKARAND SUBHASH KARNIK<td align="justified">HEMANT ATMARAM SHINDE &amp; ORS.<b> Vs </b>UNION OF INDIA &amp; ORS.</td>
-</td>
-<td align="center">
-06/02/2018<br/>BOMBAY(Civil)</td>
-<td align="center">
-<a href="generatenewauth.php?auth=cGF0aD0uL2RhdGEvanVkZ2VtZW50cy8yMDE4LyZmbmFtZT1DV1AzNTI1OTAzLnBkZiZzbWZsYWc9TiZyanVkZGF0ZT0xNi8wMy8yMDE3JnVwbG9hZGR0PTA2LzAyLzIwMTgmc3Bhc3NwaHJhc2U9MTUwNjE4MTMwNjI4" style="text-decoration:none;color:red" target="_blank">
-WP/6354/2003</a>
-(58)<br>06/02/2018</br></td>
-<td align="center">
-HON'BLE THE ACTING CHIEF JUSTICE<br/> JUSTICE MAKARAND SUBHASH KARNIK<td align="justified">M.A.MENON AND ORS.<b> Vs </b>UNION OF INDIA AND ORS.</td>
-</td>
-<td align="center">
-06/02/2018<br/>BOMBAY(Civil)</td>
-<td align="center">
-<a href="generatenewauth.php?auth=cGF0aD0uL2RhdGEvanVkZ2VtZW50cy8yMDE4LyZmbmFtZT1DV1AzNDYzMTAzLnBkZiZzbWZsYWc9TiZyanVkZGF0ZT0xNi8wMy8yMDE3JnVwbG9hZGR0PTA2LzAyLzIwMTgmc3Bhc3NwaHJhc2U9MTUwNjE4MTMwNjI4" style="text-decoration:none;color:red" target="_blank">
-WP/6350/2003</a>
-(58)<br>06/02/2018</br></td>
-<td align="center">
-HON'BLE THE ACTING CHIEF JUSTICE<br/> JUSTICE MAKARAND SUBHASH KARNIK<td align="justified">KRISHNAKUMAR SITARAM DHURI &amp; ORS.<b> Vs </b>UNION OF INDIA &amp; ORS.</td>
-</td>
-<td align="center">
-06/02/2018<br/>BOMBAY(Civil)</td>
-<td align="center">
-<a href="generatenewauth.php?auth=cGF0aD0uL2RhdGEvanVkZ2VtZW50cy8yMDE4LyZmbmFtZT1DV1AzMjEzMzAzLnBkZiZzbWZsYWc9TiZyanVkZGF0ZT0xNi8wMy8yMDE3JnVwbG9hZGR0PTA2LzAyLzIwMTgmc3Bhc3NwaHJhc2U9MTUwNjE4MTMwNjI4" style="text-decoration:none;color:red" target="_blank">
-WP/5890/2003</a>
-(58)<br>06/02/2018</br></td>
-<td align="center">
-HON'BLE THE ACTING CHIEF JUSTICE<br/> JUSTICE MAKARAND SUBHASH KARNIK<td align="justified">HEMANT ATMARAM SHINDE AND ORS.<b> Vs </b>UNION OF INDIA THROUGH SECRETARY, MINISTRY OF FINANCE, DEPT OF REVENUE AND ORS.</td>
-</td>
-<td align="center">
-06/02/2018<br/>BOMBAY(Civil)</td>
-<td align="center">
-<a href="generatenewauth.php?auth=cGF0aD0uL2RhdGEvanVkZ2VtZW50cy8yMDE4LyZmbmFtZT1DQ0FXMjQ5NzMxMS5wZGYmc21mbGFnPU4mcmp1ZGRhdGU9MTYvMDMvMjAxNyZ1cGxvYWRkdD0wNi8wMi8yMDE4JnNwYXNzcGhyYXNlPTE1MDYxODEzMDYyOA==" style="text-decoration:none;color:red" target="_blank">
-CAW/2316/2011</a>
-(58)<br>06/02/2018</br></td>
-<td align="center">
-HON'BLE THE ACTING CHIEF JUSTICE<br/> JUSTICE MAKARAND SUBHASH KARNIK<td align="justified">HEMANT ATMARAM SHINDE AND ORS.<b> Vs </b>UNION OF INDIA AND ORS.</td>
-</td>
-<td align="center">
-06/02/2018<br/>BOMBAY(Civil)</td>
-<td align="center">
-<a href="generatenewauth.php?auth=cGF0aD0uL2RhdGEvanVkZ2VtZW50cy8yMDE4LyZmbmFtZT1DQ0FXMTQwMjYwNi5wZGYmc21mbGFnPU4mcmp1ZGRhdGU9MTYvMDMvMjAxNyZ1cGxvYWRkdD0wNi8wMi8yMDE4JnNwYXNzcGhyYXNlPTE1MDYxODEzMDYyOA==" style="text-decoration:none;color:red" target="_blank">
-CAW/1633/2006</a>
-(58)<br>06/02/2018</br></td>
-<td align="center">
-HON'BLE THE ACTING CHIEF JUSTICE<br/> JUSTICE MAKARAND SUBHASH KARNIK<td align="justified">HEMANT ATMARAM SHINDE &amp; ORS.<b> Vs </b>UNION OF INDIA &amp; ORS.</td>
-</td>
-<td align="center">
-06/02/2018<br/>BOMBAY(Civil)</td>
-<td align="center">
-<a href="generatenewauth.php?auth=cGF0aD0uL2RhdGEvanVkZ2VtZW50cy8yMDE4LyZmbmFtZT1DV1AxMDIwMjA0LnBkZiZzbWZsYWc9TiZyanVkZGF0ZT0xNi8wMy8yMDE3JnVwbG9hZGR0PTA2LzAyLzIwMTgmc3Bhc3NwaHJhc2U9MTUwNjE4MTMwNjI4" style="text-decoration:none;color:red" target="_blank">
-WP/3806/2004</a>
-(58)<br>06/02/2018</br></td>
-<td align="center">
-HON'BLE THE ACTING CHIEF JUSTICE<br/> JUSTICE MAKARAND SUBHASH KARNIK<td align="justified">Y.S.GANU &amp; ORS.<b> Vs </b>UNION OF INDIA &amp; ORS.</td>
-</td>
-<td align="center">
-06/02/2018<br/>BOMBAY(Civil)</td>
-<td align="center">
-<a href="generatenewauth.php?auth=cGF0aD0uL2RhdGEvanVkZ2VtZW50cy8yMDE4LyZmbmFtZT1DV1AyNTgyMTA0LnBkZiZzbWZsYWc9TiZyanVkZGF0ZT0xNi8wMy8yMDE3JnVwbG9hZGR0PTA2LzAyLzIwMTgmc3Bhc3NwaHJhc2U9MTUwNjE4MTMwNjI4" style="text-decoration:none;color:red" target="_blank">
-WP/8404/2004</a>
-(58)<br>06/02/2018</br></td>
-<td align="center">
-HON'BLE THE ACTING CHIEF JUSTICE<br/> JUSTICE MAKARAND SUBHASH KARNIK<td align="justified">Y.S.GANU &amp; ORS.<b> Vs </b>UNION OF INDIA &amp; ORS.</td>
-</td>
-<td align="center">
-06/02/2018<br/>BOMBAY(Civil)</td>
-<td align="center">
-<a href="generatenewauth.php?auth=cGF0aD0uL2RhdGEvanVkZ2VtZW50cy8yMDE4LyZmbmFtZT1DQ0FXMTUzMTA1LnBkZiZzbWZsYWc9TiZyanVkZGF0ZT0xNi8wMy8yMDE3JnVwbG9hZGR0PTA2LzAyLzIwMTgmc3Bhc3NwaHJhc2U9MTUwNjE4MTMwNjI4" style="text-decoration:none;color:red" target="_blank">
-CAW/226/2005</a>
-(58)<br>06/02/2018</br></td>
-<td align="center">
- JUSTICE MRIDULA BHATKAR<td align="justified">SHIVAJI SHANKAR JADHAV AND ANR<b> Vs </b>LAXMAN GAJANAN GODBOLE THR. HIS PAO.NIKHIL DINKAR PAWAR</td>
-</td>
-<td align="center">
-06/02/2018<font color="grey"><br/>This Judgement is modified/corrected by Speaking to Minutes  Order  dated 08/02/2018</font><br/>BOMBAY(Civil)</td>
-<td align="center">
-<a href="generatenewauth.php?auth=cGF0aD0uL2RhdGEvanVkZ2VtZW50cy8yMDE4LyZmbmFtZT1DQU8zNjUyMzE3LnBkZiZzbWZsYWc9WSZyanVkZGF0ZT0wOC8wMi8yMDE4JnVwbG9hZGR0PTA2LzAyLzIwMTgmc3Bhc3NwaHJhc2U9MTUwNjE4MTMwNjI4" style="text-decoration:none;color:red" target="_blank">
-AOST/36523/2017</a>
-(17)<br>06/02/2018</br></td>
-<td align="center">
- JUSTICE R.M. BORDE<br/> JUSTICE RAJESH G. KETKAR<td align="justified">DIPAK LOGISTICS AND FORWARDERS KHARGHAR THROUGH ITS PARTNER AND ANR.<b> Vs </b>THE STATE OF MAHARSHTRA AND ORS.</td>
-</td>
-<td align="center">
-06/02/2018<br/>BOMBAY(Civil)</td>
-<td align="center">
-<a href="generatenewauth.php?auth=cGF0aD0uL2RhdGEvanVkZ2VtZW50cy8yMDE4LyZmbmFtZT1DV1AyNjg5MTgucGRmJnNtZmxhZz1OJnJqdWRkYXRlPTA4LzAyLzIwMTgmdXBsb2FkZHQ9MTUvMDIvMjAxOCZzcGFzc3BocmFzZT0xNTA2MTgxMzA2Mjg=" style="text-decoration:none;color:red" target="_blank">
-WP/1274/2018</a>
-(11)<br>15/02/2018</br></td>
-<td align="center">
- JUSTICE DR. SHALINI PHANSALKAR-JOSHI<td align="justified">SANJAY KNIT PVT.  LTD.<b> Vs </b>PUNE MAHANAGAR PARIVAHAN MAHAMANDAL LIMITED</td>
-</td>
-<td align="center">
-06/02/2018<br/>BOMBAY(Civil)</td>
-<td align="center">
-<a href="generatenewauth.php?auth=cGF0aD0uL2RhdGEvanVkZ2VtZW50cy8yMDE4LyZmbmFtZT1DV1AxNzIyMTgucGRmJnNtZmxhZz1OJnJqdWRkYXRlPTA4LzAyLzIwMTgmdXBsb2FkZHQ9MDgvMDIvMjAxOCZzcGFzc3BocmFzZT0xNTA2MTgxMzA2Mjg=" style="text-decoration:none;color:red" target="_blank">
-WP/1124/2018</a>
-(9)<br>08/02/2018</br></td>
-<td align="center">
- JUSTICE R.M. BORDE<br/> JUSTICE RAJESH G. KETKAR<td align="justified">DIPAK LOGISTICS AND FORWARDERS KHARGHAR THROUGH ITS PARTNER AND ANR.<b> Vs </b>THE STATE OF MAHARSHTRA AND ORS.</td>
-</td>
-<td align="center">
-06/02/2018<br/>BOMBAY(Civil)</td>
-<td align="center">
-<a href="generatenewauth.php?auth=cGF0aD0uL2RhdGEvanVkZ2VtZW50cy8yMDE4LyZmbmFtZT1DV1AyNjg2MTgucGRmJnNtZmxhZz1OJnJqdWRkYXRlPTA4LzAyLzIwMTgmdXBsb2FkZHQ9MTUvMDIvMjAxOCZzcGFzc3BocmFzZT0xNTA2MTgxMzA2Mjg=" style="text-decoration:none;color:red" target="_blank">
-WP/1273/2018</a>
-(11)<br>15/02/2018</br></td>
-<td align="center">
- JUSTICE DR. SHALINI PHANSALKAR-JOSHI<td align="justified">BRITISH AIRWAYS<b> Vs </b>M/S. BHAGWANDAS B. RAMCHANDANI</td>
-</td>
-<td align="center">
-02/02/2018<br/>BOMBAY(Civil)</td>
-<td align="center">
-<a href="generatenewauth.php?auth=cGF0aD0uL2RhdGEvanVkZ2VtZW50cy8yMDE4LyZmbmFtZT1DV1A3OTE4MTQucGRmJnNtZmxhZz1OJnJqdWRkYXRlPTA4LzAyLzIwMTgmdXBsb2FkZHQ9MDcvMDIvMjAxOCZzcGFzc3BocmFzZT0xNTA2MTgxMzA2Mjg=" style="text-decoration:none;color:red" target="_blank">
-WP/6647/2014</a>
-(19)<br>07/02/2018</br></td>
-<td align="center">
- JUSTICE DR. SHALINI PHANSALKAR-JOSHI<td align="justified">DR. SHUBHADA MITHILESH AND ANR<b> Vs </b>MR. PRABHAKAR DEOLANKAR AND ORS</td>
-</td>
-<td align="center">
-02/02/2018<br/>BOMBAY(Civil)</td>
-<td align="center">
-<a href="generatenewauth.php?auth=cGF0aD0uL2RhdGEvanVkZ2VtZW50cy8yMDE4LyZmbmFtZT1DV1AyMDc0NjE0LnBkZiZzbWZsYWc9TiZyanVkZGF0ZT0wOC8wMi8yMDE4JnVwbG9hZGR0PTA1LzAyLzIwMTgmc3Bhc3NwaHJhc2U9MTUwNjE4MTMwNjI4" style="text-decoration:none;color:red" target="_blank">
-WP/7222/2015</a>
-(28)<br>05/02/2018</br></td>
-<td align="center">
- JUSTICE DR. SHALINI PHANSALKAR-JOSHI<td align="justified">QUAID JOHAR MAQBUL HUSSAIN MIYAJIWALA AND ORS.<b> Vs </b>BISMILLA ALI ASGAR BHANPURWALA AND ORS.</td>
-</td>
-<td align="center">
-31/01/2018<br/>BOMBAY(Civil)</td>
-<td align="center">
-<a href="generatenewauth.php?auth=cGF0aD0uL2RhdGEvanVkZ2VtZW50cy8yMDE4LyZmbmFtZT1DV1AzMjI5NTE3LnBkZiZzbWZsYWc9TiZyanVkZGF0ZT0wOC8wMi8yMDE4JnVwbG9hZGR0PTA1LzAyLzIwMTgmc3Bhc3NwaHJhc2U9MTUwNjE4MTMwNjI4" style="text-decoration:none;color:red" target="_blank">
-WP/12952/2017</a>
-(13)<br>05/02/2018</br></td>
-<td align="center">
- JUSTICE DR. SHALINI PHANSALKAR-JOSHI<td align="justified">VISHAL BHAGWAN CHANDANSHIVE AND ANR.<b> Vs </b>SANGLI MIRAJ AND KUPWAD CITY MUNICIPAL CORPORATION , SANGLI</td>
-</td>
-<td align="center">
-31/01/2018<br/>BOMBAY(Civil)</td>
-<td align="center">
-<a href="generatenewauth.php?auth=cGF0aD0uL2RhdGEvanVkZ2VtZW50cy8yMDE4LyZmbmFtZT1DV1AyMDkwNjE3LnBkZiZzbWZsYWc9TiZyanVkZGF0ZT0wOC8wMi8yMDE4JnVwbG9hZGR0PTA4LzAyLzIwMTgmc3Bhc3NwaHJhc2U9MTUwNjE4MTMwNjI4" style="text-decoration:none;color:red" target="_blank">
-WP/8909/2017</a>
-(15)<br>08/02/2018</br></td>
-<td align="center">
- JUSTICE G. S. KULKARNI<td align="justified">ASHOK LALTA PANDEY AND ANR.<b> Vs </b>ZARINA ABDULLAH JANAI AND ORS.</td>
-</td>
-<td align="center">
-30/01/2018<br/>BOMBAY(Civil)</td>
-<td align="center">
-<a href="generatenewauth.php?auth=cGF0aD0uL2RhdGEvanVkZ2VtZW50cy8yMDE4LyZmbmFtZT1DV1AyMzk2MDE1LnBkZiZzbWZsYWc9TiZyanVkZGF0ZT0wOC8wMi8yMDE4JnVwbG9hZGR0PTE1LzAyLzIwMTgmc3Bhc3NwaHJhc2U9MTUwNjE4MTMwNjI4" style="text-decoration:none;color:red" target="_blank">
-WP/8808/2015</a>
-(20)<br>15/02/2018</br></td>
-<td align="center">
- JUSTICE DR. SHALINI PHANSALKAR-JOSHI<td align="justified">THE SENA VIKAS CO-OP. BANK LTD.<b> Vs </b>MR. HARESH SHIVALDAS BODANI AND ORS.</td>
-</td>
-<td align="center">
-30/01/2018<br/>BOMBAY(Civil)</td>
-<td align="center">
-<a href="generatenewauth.php?auth=cGF0aD0uL2RhdGEvanVkZ2VtZW50cy8yMDE4LyZmbmFtZT1DV1AyNjg0OTE3LnBkZiZzbWZsYWc9TiZyanVkZGF0ZT0wOC8wMi8yMDE4JnVwbG9hZGR0PTMwLzAxLzIwMTgmc3Bhc3NwaHJhc2U9MTUwNjE4MTMwNjI4" style="text-decoration:none;color:red" target="_blank">
-WP/10918/2017</a>
-(16)<br>30/01/2018</br></td>
-<td align="center">
- JUSTICE R.M. BORDE<br/> JUSTICE RAJESH G. KETKAR<td align="justified">MR. SHRIDHAR MAHADEO PAKHARE<b> Vs </b>UNION OF INDIA THROUGH SECRETARY AND ORS.</td>
-</td>
-<td align="center">
-30/01/2018<br/>BOMBAY(Civil)</td>
-<td align="center">
-<a href="generatenewauth.php?auth=cGF0aD0uL2RhdGEvanVkZ2VtZW50cy8yMDE4LyZmbmFtZT1DV1AyMzkyNzE3LnBkZiZzbWZsYWc9TiZyanVkZGF0ZT0wOC8wMi8yMDE4JnVwbG9hZGR0PTAxLzAyLzIwMTgmc3Bhc3NwaHJhc2U9MTUwNjE4MTMwNjI4" style="text-decoration:none;color:red" target="_blank">
-WP/10026/2017</a>
-(5)<br>01/02/2018</br></td>
-<td align="center">
-HON'BLE THE ACTING CHIEF JUSTICE<br/> JUSTICE MAKARAND SUBHASH KARNIK<td align="justified">SHRI MADHU S.SADLAPURKAR<b> Vs </b>UNION OF INAID AND ORS.</td>
-</td>
-<td align="center">
-30/01/2018<br/>BOMBAY(Civil)</td>
-<td align="center">
-<a href="generatenewauth.php?auth=cGF0aD0uL2RhdGEvanVkZ2VtZW50cy8yMDE4LyZmbmFtZT1DV1AyNzU1NjAwLnBkZiZzbWZsYWc9TiZyanVkZGF0ZT0wOC8wMi8yMDE4JnVwbG9hZGR0PTE2LzAyLzIwMTgmc3Bhc3NwaHJhc2U9MTUwNjE4MTMwNjI4" style="text-decoration:none;color:red" target="_blank">
-WP/6638/2000</a>
-(13)<br>16/02/2018</br></td>
-<td align="center">
- JUSTICE DR. SHALINI PHANSALKAR-JOSHI<td align="justified">M/S. SIDDHI PROMOTERS, THROUGH PARNTER, SHRI. ASHOK SHANTILAL JAIN<b> Vs </b>MISS. ANITA KRISHNARAO SHIROLKAR alias MRS. JANAKI VIKAS MOREY AND ORS</td>
-</td>
-<td align="center">
-30/01/2018<br/>BOMBAY(Civil)</td>
-<td align="center">
-<a href="generatenewauth.php?auth=cGF0aD0uL2RhdGEvanVkZ2VtZW50cy8yMDE4LyZmbmFtZT1DV1AxNjY1MTE0LnBkZiZzbWZsYWc9TiZyanVkZGF0ZT0wOC8wMi8yMDE4JnVwbG9hZGR0PTAxLzAyLzIwMTgmc3Bhc3NwaHJhc2U9MTUwNjE4MTMwNjI4" style="text-decoration:none;color:red" target="_blank">
-WP/687/2015</a>
-(10)<br>01/02/2018</br></td>
-<td align="center">
- JUSTICE DR. SHALINI PHANSALKAR-JOSHI<td align="justified">MANJULABEN SHAH AND ORS<b> Vs </b>MADHURIBEN MEGHJI SHAH</td>
-</td>
-<td align="center">
-30/01/2018<br/>BOMBAY(Civil)</td>
-<td align="center">
-<a href="generatenewauth.php?auth=cGF0aD0uL2RhdGEvanVkZ2VtZW50cy8yMDE4LyZmbmFtZT1DQ1JBMTEwMjQxNy5wZGYmc21mbGFnPU4mcmp1ZGRhdGU9MDgvMDIvMjAxOCZ1cGxvYWRkdD0wMi8wMi8yMDE4JnNwYXNzcGhyYXNlPTE1MDYxODEzMDYyOA==" style="text-decoration:none;color:red" target="_blank">
-CRA/316/2017</a>
-(7)<br>02/02/2018</br></td>
-<td align="center">
- JUSTICE DR. SHALINI PHANSALKAR-JOSHI<td align="justified">UJWAL CHANDRASHEKHAR BELAPURKAR<b> Vs </b>SMT. KALPANA VIJAY SAINDANE (NANDEDKAR) AND ORS.</td>
-</td>
-<td align="center">
-30/01/2018<br/>BOMBAY(Civil)</td>
-<td align="center">
-<a href="generatenewauth.php?auth=cGF0aD0uL2RhdGEvanVkZ2VtZW50cy8yMDE4LyZmbmFtZT1DV1AzMjA1ODE3LnBkZiZzbWZsYWc9TiZyanVkZGF0ZT0wOC8wMi8yMDE4JnVwbG9hZGR0PTAyLzAyLzIwMTgmc3Bhc3NwaHJhc2U9MTUwNjE4MTMwNjI4" style="text-decoration:none;color:red" target="_blank">
-WP/14205/2017</a>
-(8)<br>02/02/2018</br></td>
-<td align="center">
- JUSTICE DR. SHALINI PHANSALKAR-JOSHI<td align="justified">MR. YOGESH BABANRAO VEDPATHAK<b> Vs </b>MR. RANJEET SINGH PYARA SINGH KAURA</td>
-</td>
-<td align="center">
-30/01/2018<br/>BOMBAY(Civil)</td>
-<td align="center">
-<a href="generatenewauth.php?auth=cGF0aD0uL2RhdGEvanVkZ2VtZW50cy8yMDE4LyZmbmFtZT1DV1AzMTgwNjE3LnBkZiZzbWZsYWc9TiZyanVkZGF0ZT0wOC8wMi8yMDE4JnVwbG9hZGR0PTA4LzAyLzIwMTgmc3Bhc3NwaHJhc2U9MTUwNjE4MTMwNjI4" style="text-decoration:none;color:red" target="_blank">
-WP/13607/2017</a>
-(12)<br>08/02/2018</br></td>
-<td align="center">
-HON'BLE THE ACTING CHIEF JUSTICE<br/> JUSTICE MAKARAND SUBHASH KARNIK<td align="justified">UNION OF INDIA<b> Vs </b>MANOJ KUMAR V. KUMARE</td>
-</td>
-<td align="center">
-30/01/2018<br/>BOMBAY(Civil)</td>
-<td align="center">
-<a href="generatenewauth.php?auth=cGF0aD0uL2RhdGEvanVkZ2VtZW50cy8yMDE4LyZmbmFtZT1DV1AxMzMwNjA1LnBkZiZzbWZsYWc9TiZyanVkZGF0ZT0wOC8wMi8yMDE4JnVwbG9hZGR0PTA5LzAyLzIwMTgmc3Bhc3NwaHJhc2U9MTUwNjE4MTMwNjI4" style="text-decoration:none;color:red" target="_blank">
-WP/4072/2005</a>
-(7)<br>09/02/2018</br></td>
-<td align="center">
- JUSTICE DR. SHALINI PHANSALKAR-JOSHI<td align="justified">MR. MULCHANDANI AMAR SADHURAM<b> Vs </b>MR. HARESH SHIVALDAS BODANI AND ORS.</td>
-</td>
-<td align="center">
-30/01/2018<br/>BOMBAY(Civil)</td>
-<td align="center">
-<a href="generatenewauth.php?auth=cGF0aD0uL2RhdGEvanVkZ2VtZW50cy8yMDE4LyZmbmFtZT1DV1AyNjg1MDE3LnBkZiZzbWZsYWc9TiZyanVkZGF0ZT0wOC8wMi8yMDE4JnVwbG9hZGR0PTMwLzAxLzIwMTgmc3Bhc3NwaHJhc2U9MTUwNjE4MTMwNjI4" style="text-decoration:none;color:red" target="_blank">
-WP/10917/2017</a>
-(16)<br>30/01/2018</br></td>
-<td align="center">
- JUSTICE R.M. SAVANT<br/> JUSTICE S. K. SHINDE<td align="justified">PHULMALA AJAY SINGH<b> Vs </b>AJAY KUMAR SINGH</td>
-</td>
-<td align="center">
-25/01/2018<br/>BOMBAY(Civil)</td>
-<td align="center">
-<a href="generatenewauth.php?auth=cGF0aD0uL2RhdGEvanVkZ2VtZW50cy8yMDE4LyZmbmFtZT1DRkNBMTc0OTAwOS5wZGYmc21mbGFnPU4mcmp1ZGRhdGU9MDgvMDIvMjAxOCZ1cGxvYWRkdD0yNS8wMS8yMDE4JnNwYXNzcGhyYXNlPTE1MDYxODEzMDYyOA==" style="text-decoration:none;color:red" target="_blank">
-FCA/128/2009</a>
-(27)<br>25/01/2018</br></td>
-<td align="center">
- JUSTICE R.M. SAVANT<br/> JUSTICE S. K. SHINDE<td align="justified">MRS. VIRA CHATUR KRIPALANI<b> Vs </b>MR. CHATUR TAHILRAM KRIPALANI</td>
-</td>
-<td align="center">
-25/01/2018<br/>BOMBAY(Civil)</td>
-<td align="center">
-<a href="generatenewauth.php?auth=cGF0aD0uL2RhdGEvanVkZ2VtZW50cy8yMDE4LyZmbmFtZT1DRkNBMTU4OTYxNS5wZGYmc21mbGFnPU4mcmp1ZGRhdGU9MDgvMDIvMjAxOCZ1cGxvYWRkdD0wMS8wMi8yMDE4JnNwYXNzcGhyYXNlPTE1MDYxODEzMDYyOA==" style="text-decoration:none;color:red" target="_blank">
-FCA/143/2015</a>
-(11)<br>01/02/2018</br></td>
-<td align="center">
- JUSTICE R.M. SAVANT<br/> JUSTICE S. K. SHINDE<td align="justified">MRS. VIRA CHATUR KRIPALANI<b> Vs </b>MR. CHATUR TAHILRAM KRIPALANI</td>
-</td>
-<td align="center">
-25/01/2018<br/>BOMBAY(Civil)</td>
-<td align="center">
-<a href="generatenewauth.php?auth=cGF0aD0uL2RhdGEvanVkZ2VtZW50cy8yMDE4LyZmbmFtZT1DQ0FNMjY5MzIxNS5wZGYmc21mbGFnPU4mcmp1ZGRhdGU9MDgvMDIvMjAxOCZ1cGxvYWRkdD0wMS8wMi8yMDE4JnNwYXNzcGhyYXNlPTE1MDYxODEzMDYyOA==" style="text-decoration:none;color:red" target="_blank">
-CAM/258/2016</a>
-(11)<br>01/02/2018</br></td>
-<td align="center">
- JUSTICE DR. SHALINI PHANSALKAR-JOSHI<td align="justified">HANUMANT GANGARAM KHAMKAR (SINCE DECEASED THROUGH LRS.)<b> Vs </b>SHRI. SATISH PARBATI GAIKWAD AND ORS.</td>
-</td>
-<td align="center">
-24/01/2018<br/>BOMBAY(Civil)</td>
-<td align="center">
-<a href="generatenewauth.php?auth=cGF0aD0uL2RhdGEvanVkZ2VtZW50cy8yMDE4LyZmbmFtZT1DV1AxMDQ5ODE3LnBkZiZzbWZsYWc9TiZyanVkZGF0ZT0wOC8wMi8yMDE4JnVwbG9hZGR0PTMwLzAxLzIwMTgmc3Bhc3NwaHJhc2U9MTUwNjE4MTMwNjI4" style="text-decoration:none;color:red" target="_blank">
-WP/4486/2017</a>
-(11)<br>30/01/2018</br></td>
-<td align="center">
- JUSTICE DR. SHALINI PHANSALKAR-JOSHI<td align="justified">HARESH CHETAN THADANI,<b> Vs </b>CHETAN BULCHAND THADHANI (SINCE DECEASED) AND ORS.</td>
-</td>
-<td align="center">
-24/01/2018<font color="grey"><br/>This Judgement is modified/corrected by Speaking to Minutes  Order  dated 31/01/2018</font><br/>BOMBAY(Civil)</td>
-<td align="center">
-<a href="generatenewauth.php?auth=cGF0aD0uL2RhdGEvanVkZ2VtZW50cy8yMDE4LyZmbmFtZT1DV1AzMzQyOTE3LnBkZiZzbWZsYWc9WSZyanVkZGF0ZT0zMS8wMS8yMDE4JnVwbG9hZGR0PTI0LzAxLzIwMTgmc3Bhc3NwaHJhc2U9MTUwNjE4MTMwNjI4" style="text-decoration:none;color:red" target="_blank">
-WP/13710/2017</a>
-(22)<br>24/01/2018</br></td>
-<td align="center">
- JUSTICE DR. SHALINI PHANSALKAR-JOSHI<td align="justified">SUNIL CHETAN THADANI<b> Vs </b>CHETAN BULCHAND THADHANI (SINCE DECEASED THROUGH LRS.) AND ORS.</td>
-</td>
-<td align="center">
-24/01/2018<font color="grey"><br/>This Judgement is modified/corrected by Speaking to Minutes  Order  dated 31/01/2018</font><br/>BOMBAY(Civil)</td>
-<td align="center">
-<a href="generatenewauth.php?auth=cGF0aD0uL2RhdGEvanVkZ2VtZW50cy8yMDE4LyZmbmFtZT1DV1AzMzQ2MDE3LnBkZiZzbWZsYWc9WSZyanVkZGF0ZT0zMS8wMS8yMDE4JnVwbG9hZGR0PTI0LzAxLzIwMTgmc3Bhc3NwaHJhc2U9MTUwNjE4MTMwNjI4" style="text-decoration:none;color:red" target="_blank">
-WP/296/2018</a>
-(22)<br>24/01/2018</br></td>
-<td align="center">
- JUSTICE DR. SHALINI PHANSALKAR-JOSHI<td align="justified">DHONIRAM RAJARAM SALUNKHE THROUGH POA<b> Vs </b>DINKAR PARSHURAM SALUNKHE AND ORS.</td>
-</td>
-<td align="center">
-24/01/2018<font color="grey"><br/>This Judgement is modified/corrected by Speaking to Minutes  Order  dated 05/02/2018</font><br/>BOMBAY(Civil)</td>
-<td align="center">
-<a href="generatenewauth.php?auth=cGF0aD0uL2RhdGEvanVkZ2VtZW50cy8yMDE4LyZmbmFtZT1DV1AxMjMzMTE3LnBkZiZzbWZsYWc9WSZyanVkZGF0ZT0wNS8wMi8yMDE4JnVwbG9hZGR0PTI0LzAxLzIwMTgmc3Bhc3NwaHJhc2U9MTUwNjE4MTMwNjI4" style="text-decoration:none;color:red" target="_blank">
-WP/5377/2017</a>
-(14)<br>24/01/2018</br></td>
-<td align="center">
- JUSTICE R.D. DHANUKA<td align="justified">RAMCHANDRA SITARAM MULIK AND ANR<b> Vs </b>JANATA NAGARI SAHAKARI PATSANSTHA LTD, HUPARI AND ORS</td>
-</td>
-<td align="center">
-24/01/2018<br/>BOMBAY(Civil)</td>
-<td align="center">
-<a href="generatenewauth.php?auth=cGF0aD0uL2RhdGEvY2l2aWwvMjAxOC8mZm5hbWU9V1AxODMyNzEzMjQwMTE4LnBkZiZzbWZsYWc9TiZyanVkZGF0ZT0wNS8wMi8yMDE4JnVwbG9hZGR0PTI1LzAxLzIwMTgmc3Bhc3NwaHJhc2U9MTUwNjE4MTMwNjI4" style="text-decoration:none;color:purple" target="_blank">
-WP/6584/2013</a>
-(1)<br>25/01/2018</br></td>
-<td align="center">
- JUSTICE DR. SHALINI PHANSALKAR-JOSHI<td align="justified">SANJAY KISAN THORAT AND ORS.<b> Vs </b>RAMCHANDRA PARSU THORAT AND ANR.</td>
-</td>
-<td align="center">
-23/01/2018<br/>BOMBAY(Civil)</td>
-<td align="center">
-<a href="generatenewauth.php?auth=cGF0aD0uL2RhdGEvanVkZ2VtZW50cy8yMDE4LyZmbmFtZT1DV1AzNTI2OTE3LnBkZiZzbWZsYWc9TiZyanVkZGF0ZT0wNS8wMi8yMDE4JnVwbG9hZGR0PTI1LzAxLzIwMTgmc3Bhc3NwaHJhc2U9MTUwNjE4MTMwNjI4" style="text-decoration:none;color:red" target="_blank">
-WPST/35269/2017</a>
-(6)<br>25/01/2018</br></td>
-<td align="center">
- JUSTICE DR. SHALINI PHANSALKAR-JOSHI<td align="justified">DHONDIRAM NIVRUTTI PAWAR (SINCE DECD.) THROUGH LRS. AND ORS.<b> Vs </b>LAXMAN KHASHABA PAWAR AND ORS.</td>
-</td>
-<td align="center">
-23/01/2018<br/>BOMBAY(Civil)</td>
-<td align="center">
-<a href="generatenewauth.php?auth=cGF0aD0uL2RhdGEvanVkZ2VtZW50cy8yMDE4LyZmbmFtZT1DV1AyMzI5MTcucGRmJnNtZmxhZz1OJnJqdWRkYXRlPTA1LzAyLzIwMTgmdXBsb2FkZHQ9MjUvMDEvMjAxOCZzcGFzc3BocmFzZT0xNTA2MTgxMzA2Mjg=" style="text-decoration:none;color:red" target="_blank">
-WP/1196/2017</a>
-(6)<br>25/01/2018</br></td>
-<td align="center">
- JUSTICE DR. SHALINI PHANSALKAR-JOSHI<td align="justified">M/S. YUVRAJ DEVELOPERS THROUGH ITS PARTNERS<b> Vs </b>MR. GAVTYA DHONDU MHATRE AND ORS.</td>
-</td>
-<td align="center">
-23/01/2018<br/>BOMBAY(Civil)</td>
-<td align="center">
-<a href="generatenewauth.php?auth=cGF0aD0uL2RhdGEvanVkZ2VtZW50cy8yMDE4LyZmbmFtZT1DV1AyNTM4MzE3LnBkZiZzbWZsYWc9TiZyanVkZGF0ZT0wNS8wMi8yMDE4JnVwbG9hZGR0PTI1LzAxLzIwMTgmc3Bhc3NwaHJhc2U9MTUwNjE4MTMwNjI4" style="text-decoration:none;color:red" target="_blank">
-WP/13502/2017</a>
-(12)<br>25/01/2018</br></td>
-<td align="center">
- JUSTICE DR. SHALINI PHANSALKAR-JOSHI<td align="justified">MR. GANESH KESHAV PATOLE<b> Vs </b>SMT. SHITAL SIKANDAR DARNE AND ANR.</td>
-</td>
-<td align="center">
-22/01/2018<br/>BOMBAY(Civil)</td>
-<td align="center">
-<a href="generatenewauth.php?auth=cGF0aD0uL2RhdGEvanVkZ2VtZW50cy8yMDE4LyZmbmFtZT1DV1AxNjI2NzE2LnBkZiZzbWZsYWc9TiZyanVkZGF0ZT0wNS8wMi8yMDE4JnVwbG9hZGR0PTA4LzAyLzIwMTgmc3Bhc3NwaHJhc2U9MTUwNjE4MTMwNjI4" style="text-decoration:none;color:red" target="_blank">
-WP/7707/2016</a>
-(9)<br>08/02/2018</br></td>
-<td align="center">
- JUSTICE G. S. KULKARNI<td align="justified">M/S. INDIAN SCIENTIFIC GLASS INDUSTRIES<b> Vs </b>M.K. MAHIPALSINGH</td>
-</td>
-<td align="center">
-22/01/2018<br/>BOMBAY(Civil)</td>
-<td align="center">
-<a href="generatenewauth.php?auth=cGF0aD0uL2RhdGEvanVkZ2VtZW50cy8yMDE4LyZmbmFtZT1DV1AzNTcxOTk4LnBkZiZzbWZsYWc9TiZyanVkZGF0ZT0wNS8wMi8yMDE4JnVwbG9hZGR0PTIyLzAxLzIwMTgmc3Bhc3NwaHJhc2U9MTUwNjE4MTMwNjI4" style="text-decoration:none;color:red" target="_blank">
-WP/5865/1998</a>
-(50)<br>22/01/2018</br></td>
-<td align="center">
- JUSTICE DR. SHALINI PHANSALKAR-JOSHI<td align="justified">SHRI. RAJENDRA JAYANT DEVALEKAR<b> Vs </b>KALYAN BOMBIVILI MUNICIPAL CORPORATION, THROUGH ITS MUNICIPAL COMMISSIONER, AND ORS.</td>
-</td>
-<td align="center">
-22/01/2018<br/>BOMBAY(Civil)</td>
-<td align="center">
-<a href="generatenewauth.php?auth=cGF0aD0uL2RhdGEvanVkZ2VtZW50cy8yMDE4LyZmbmFtZT1DV1AzNTAzOTE3LnBkZiZzbWZsYWc9TiZyanVkZGF0ZT0wNS8wMi8yMDE4JnVwbG9hZGR0PTIyLzAxLzIwMTgmc3Bhc3NwaHJhc2U9MTUwNjE4MTMwNjI4" style="text-decoration:none;color:red" target="_blank">
-WP/13888/2017</a>
-(34)<br>22/01/2018</br></td>
-<td align="center">
- JUSTICE G. S. KULKARNI<td align="justified">VISHAL NITINKUMAR KONDHIA<b> Vs </b>JAHNVI VISHAL KONDHIA</td>
-</td>
-<td align="center">
-22/01/2018<br/>BOMBAY(Civil)</td>
-<td align="center">
-<a href="generatenewauth.php?auth=cGF0aD0uL2RhdGEvanVkZ2VtZW50cy8yMDE4LyZmbmFtZT1DV1AzMjAwNDE3LnBkZiZzbWZsYWc9TiZyanVkZGF0ZT0wNS8wMi8yMDE4JnVwbG9hZGR0PTI0LzAxLzIwMTgmc3Bhc3NwaHJhc2U9MTUwNjE4MTMwNjI4" style="text-decoration:none;color:red" target="_blank">
-WP/12862/2017</a>
-(33)<br>24/01/2018</br></td>
-<td align="center">
- JUSTICE G. S. KULKARNI<td align="justified">VISHAL NITINKUMAR KONDHIA<b> Vs </b>JAHNVI VISHAL KONDHIA</td>
-</td>
-<td align="center">
-22/01/2018<br/>BOMBAY(Civil)</td>
-<td align="center">
-<a href="generatenewauth.php?auth=cGF0aD0uL2RhdGEvanVkZ2VtZW50cy8yMDE4LyZmbmFtZT1DV1AzMjAwNzE3LnBkZiZzbWZsYWc9TiZyanVkZGF0ZT0wNS8wMi8yMDE4JnVwbG9hZGR0PTI0LzAxLzIwMTgmc3Bhc3NwaHJhc2U9MTUwNjE4MTMwNjI4" style="text-decoration:none;color:red" target="_blank">
-WP/12863/2017</a>
-(33)<br>24/01/2018</br></td>
-<td align="center">
- JUSTICE R.D. DHANUKA<td align="justified">RAMCHANDRA SITARAM MULIK AND ANR<b> Vs </b>JANATA NAGARI SAHAKARI PATSANSTHA LTD, HUPARI AND ORS</td>
-</td>
-<td align="center">
-15/01/2018<font color="grey"><br/>This Judgement is modified/corrected by Speaking to Minutes  Order  dated 24/01/2018</font><br/>BOMBAY(Civil)</td>
-<td align="center">
-<a href="generatenewauth.php?auth=cGF0aD0uL2RhdGEvanVkZ2VtZW50cy8yMDE4LyZmbmFtZT1DV1AxODMyNzEzLnBkZiZzbWZsYWc9WSZyanVkZGF0ZT0yNC8wMS8yMDE4JnVwbG9hZGR0PTIyLzAxLzIwMTgmc3Bhc3NwaHJhc2U9MTUwNjE4MTMwNjI4" style="text-decoration:none;color:red" target="_blank">
-WP/6584/2013</a>
-(20)<br>22/01/2018</br></td>
-<td align="center">
- JUSTICE DR. SHALINI PHANSALKAR-JOSHI<td align="justified">VINAYAK VISHNU KHANSIS AND ORS.<b> Vs </b>SHASHIKANT VENKTESH KHASNIS (DECD) THROUGH LRS. AND ORS.</td>
-</td>
-<td align="center">
-15/01/2018<br/>BOMBAY(Civil)</td>
-<td align="center">
-<a href="generatenewauth.php?auth=cGF0aD0uL2RhdGEvanVkZ2VtZW50cy8yMDE4LyZmbmFtZT1DV1AyOTQ5NTE2LnBkZiZzbWZsYWc9TiZyanVkZGF0ZT0yNC8wMS8yMDE4JnVwbG9hZGR0PTE2LzAxLzIwMTgmc3Bhc3NwaHJhc2U9MTUwNjE4MTMwNjI4" style="text-decoration:none;color:red" target="_blank">
-WP/15/2017</a>
-(16)<br>16/01/2018</br></td>
-<td align="center">
- JUSTICE DR. SHALINI PHANSALKAR-JOSHI<td align="justified">BHIMRAO LAXMAN KAMBLE (SINCE DECD.) THROUGH LRS.<b> Vs </b>AANNASO DHONDIRAM MANOLE AND ANR.</td>
-</td>
-<td align="center">
-15/01/2018<br/>BOMBAY(Civil)</td>
-<td align="center">
-<a href="generatenewauth.php?auth=cGF0aD0uL2RhdGEvanVkZ2VtZW50cy8yMDE4LyZmbmFtZT1DV1AyNzcwNDE3LnBkZiZzbWZsYWc9TiZyanVkZGF0ZT0yNC8wMS8yMDE4JnVwbG9hZGR0PTIwLzAxLzIwMTgmc3Bhc3NwaHJhc2U9MTUwNjE4MTMwNjI4" style="text-decoration:none;color:red" target="_blank">
-WP/11141/2017</a>
-(14)<br>20/01/2018</br></td>
-<td align="center">
- JUSTICE DR. SHALINI PHANSALKAR-JOSHI<td align="justified">TARABAI DAGDU NITANWARE AND ORS.<b> Vs </b>SHRI. NARAYAN KERU NITANWARE</td>
-</td>
-<td align="center">
-15/01/2018<br/>BOMBAY(Civil)</td>
-<td align="center">
-<a href="generatenewauth.php?auth=cGF0aD0uL2RhdGEvanVkZ2VtZW50cy8yMDE4LyZmbmFtZT1DV1AzNTc4OTE3LnBkZiZzbWZsYWc9TiZyanVkZGF0ZT0yNC8wMS8yMDE4JnVwbG9hZGR0PTE4LzAxLzIwMTgmc3Bhc3NwaHJhc2U9MTUwNjE4MTMwNjI4" style="text-decoration:none;color:red" target="_blank">
-WP/14090/2017</a>
-(8)<br>18/01/2018</br></td>
-<td align="center">
- JUSTICE NARESH H. PATIL<br/> JUSTICE RAJESH G. KETKAR<td align="justified">THE STATE OF MAHARASHTRA THROUGH ITS ADDITIONAL CHIEF SECRETARY, PUBLIC HEALTH DEPARTMENT AND ANR.<b> Vs </b>THE CIVIL SURGEON CADRE GROUP A (DOCTORS)  ASSOCIATION, HEALTH SERVICES AND ANR.</td>
-</td>
-<td align="center">
-12/01/2018<br/>BOMBAY(Civil)</td>
-<td align="center">
-<a href="generatenewauth.php?auth=cGF0aD0uL2RhdGEvanVkZ2VtZW50cy8yMDE4LyZmbmFtZT1DV1AxMTU3NjE3LnBkZiZzbWZsYWc9TiZyanVkZGF0ZT0yNC8wMS8yMDE4JnVwbG9hZGR0PTEyLzAxLzIwMTgmc3Bhc3NwaHJhc2U9MTUwNjE4MTMwNjI4" style="text-decoration:none;color:red" target="_blank">
-WP/7272/2017</a>
-(24)<br>12/01/2018</br></td>
-<td align="center">
- JUSTICE NARESH H. PATIL<br/> JUSTICE RAJESH G. KETKAR<td align="justified">THE STATE OF MAHARASHTRA THROUGH THE PUBLIC HEALTH DEPARTMENT AND ANR.<b> Vs </b>DR. MOHAN APPARAO JADHAV AND ANR.</td>
-</td>
-<td align="center">
-12/01/2018<br/>BOMBAY(Civil)</td>
-<td align="center">
-<a href="generatenewauth.php?auth=cGF0aD0uL2RhdGEvanVkZ2VtZW50cy8yMDE4LyZmbmFtZT1DV1AxMTU2MTE3LnBkZiZzbWZsYWc9TiZyanVkZGF0ZT0yNC8wMS8yMDE4JnVwbG9hZGR0PTEyLzAxLzIwMTgmc3Bhc3NwaHJhc2U9MTUwNjE4MTMwNjI4" style="text-decoration:none;color:red" target="_blank">
-WP/8278/2017</a>
-(24)<br>12/01/2018</br></td>
-<td align="center">
- JUSTICE NARESH H. PATIL<br/> JUSTICE RAJESH G. KETKAR<td align="justified">THE STATE OF MAHARASHTRA<b> Vs </b>DR. MOHAN APPARAO JADHAV AND ORS.</td>
-</td>
-<td align="center">
-12/01/2018<br/>BOMBAY(Civil)</td>
-<td align="center">
-<a href="generatenewauth.php?auth=cGF0aD0uL2RhdGEvanVkZ2VtZW50cy8yMDE4LyZmbmFtZT1DV1AyOTQ5MDE2LnBkZiZzbWZsYWc9TiZyanVkZGF0ZT0yNC8wMS8yMDE4JnVwbG9hZGR0PTEyLzAxLzIwMTgmc3Bhc3NwaHJhc2U9MTUwNjE4MTMwNjI4" style="text-decoration:none;color:red" target="_blank">
-WP/20/2017</a>
-(24)<br>12/01/2018</br></td>
-<td align="center">
- JUSTICE NARESH H. PATIL<br/> JUSTICE RAJESH G. KETKAR<td align="justified">MAHARASHTRA PUBLIC SERVICE COMMISSION<b> Vs </b>DR. RATNA W/O DINKAR RAOKHANDE AND ORS.</td>
-</td>
-<td align="center">
-12/01/2018<br/>BOMBAY(Civil)</td>
-<td align="center">
-<a href="generatenewauth.php?auth=cGF0aD0uL2RhdGEvanVkZ2VtZW50cy8yMDE4LyZmbmFtZT1DV1AzNTU0OTE2LnBkZiZzbWZsYWc9TiZyanVkZGF0ZT0yNC8wMS8yMDE4JnVwbG9hZGR0PTEyLzAxLzIwMTgmc3Bhc3NwaHJhc2U9MTUwNjE4MTMwNjI4" style="text-decoration:none;color:red" target="_blank">
-WP/203/2017</a>
-(24)<br>12/01/2018</br></td>
-<td align="center">
- JUSTICE NARESH H. PATIL<br/> JUSTICE RAJESH G. KETKAR<td align="justified">MAHARASHTRA PUBLIC SERVICE COMMISSION<b> Vs </b>THE CIVIL SURGEON CADRE GROUP A (DOCTOR) ASSOCIATION, HEALTH SERVICES AND ORS.</td>
-</td>
-<td align="center">
-12/01/2018<br/>BOMBAY(Civil)</td>
-<td align="center">
-<a href="generatenewauth.php?auth=cGF0aD0uL2RhdGEvanVkZ2VtZW50cy8yMDE4LyZmbmFtZT1DV1AzNTU0NjE2LnBkZiZzbWZsYWc9TiZyanVkZGF0ZT0yNC8wMS8yMDE4JnVwbG9hZGR0PTEyLzAxLzIwMTgmc3Bhc3NwaHJhc2U9MTUwNjE4MTMwNjI4" style="text-decoration:none;color:red" target="_blank">
-WP/202/2017</a>
-(24)<br>12/01/2018</br></td>
-<td align="center">
- JUSTICE NARESH H. PATIL<br/> JUSTICE RAJESH G. KETKAR<td align="justified">MAHARASHTRA PUBLIC SERVICE COMMISSION<b> Vs </b>DR. MOHAN APPARAO JADHAV AND ORS.</td>
-</td>
-<td align="center">
-12/01/2018<br/>BOMBAY(Civil)</td>
-<td align="center">
-<a href="generatenewauth.php?auth=cGF0aD0uL2RhdGEvanVkZ2VtZW50cy8yMDE4LyZmbmFtZT1DV1AzNTQ5OTE2LnBkZiZzbWZsYWc9TiZyanVkZGF0ZT0yNC8wMS8yMDE4JnVwbG9hZGR0PTEyLzAxLzIwMTgmc3Bhc3NwaHJhc2U9MTUwNjE4MTMwNjI4" style="text-decoration:none;color:red" target="_blank">
-WP/12059/2017</a>
-(24)<br>12/01/2018</br></td>
-<td align="center">
- JUSTICE DR. SHALINI PHANSALKAR-JOSHI<td align="justified">PRAMILA BALASAHEB BHINTADE AND ORS.<b> Vs </b>ANUSAYA SARJERAO GUJAR AND ORS.</td>
-</td>
-<td align="center">
-11/01/2018<br/>BOMBAY(Civil)</td>
-<td align="center">
-<a href="generatenewauth.php?auth=cGF0aD0uL2RhdGEvanVkZ2VtZW50cy8yMDE4LyZmbmFtZT1DV1AyODk2MDE3LnBkZiZzbWZsYWc9TiZyanVkZGF0ZT0yNC8wMS8yMDE4JnVwbG9hZGR0PTE2LzAxLzIwMTgmc3Bhc3NwaHJhc2U9MTUwNjE4MTMwNjI4" style="text-decoration:none;color:red" target="_blank">
-WP/11550/2017</a>
-(16)<br>16/01/2018</br></td>
-<td align="center">
- JUSTICE R.D. DHANUKA<td align="justified">MR. VIJAY CHANDRAN MENON<b> Vs </b>SMT. PADMINI CHANDRAN MENON</td>
-</td>
-<td align="center">
-10/01/2018<br/>BOMBAY(Civil)</td>
-<td align="center">
-<a href="generatenewauth.php?auth=cGF0aD0uL2RhdGEvanVkZ2VtZW50cy8yMDE4LyZmbmFtZT1DQ0FQMTU1MzE3LnBkZiZzbWZsYWc9TiZyanVkZGF0ZT0yNC8wMS8yMDE4JnVwbG9hZGR0PTEwLzAxLzIwMTgmc3Bhc3NwaHJhc2U9MTUwNjE4MTMwNjI4" style="text-decoration:none;color:red" target="_blank">
-CAP/7/2017</a>
-(41)<br>10/01/2018</br></td>
-<td align="center">
- JUSTICE R.D. DHANUKA<td align="justified">MRS. PADMINI CHANDRAN MENON<b> Vs </b>VIJAY CHANDRAN MENON AND ORS</td>
-</td>
-<td align="center">
-10/01/2018<br/>BOMBAY(Civil)</td>
-<td align="center">
-<a href="generatenewauth.php?auth=cGF0aD0uL2RhdGEvanVkZ2VtZW50cy8yMDE4LyZmbmFtZT1DQVJQMTEwMDE1LnBkZiZzbWZsYWc9TiZyanVkZGF0ZT0yNC8wMS8yMDE4JnVwbG9hZGR0PTEwLzAxLzIwMTgmc3Bhc3NwaHJhc2U9MTUwNjE4MTMwNjI4" style="text-decoration:none;color:red" target="_blank">
-ARP/9/2015</a>
-(41)<br>10/01/2018</br></td>
-<td align="center">
- JUSTICE R.M. BORDE<br/> JUSTICE RAJESH G. KETKAR<td align="justified">SHAIKH AYESHA KHATOON<b> Vs </b>UNION OF INDIA  THROUGH THE SECRETARY AND ORS.</td>
-</td>
-<td align="center">
-09/01/2018<br/>BOMBAY(Civil)</td>
-<td align="center">
-<a href="generatenewauth.php?auth=cGF0aD0uL2RhdGEvanVkZ2VtZW50cy8yMDE4LyZmbmFtZT1DV1AzNjcyNzE3LnBkZiZzbWZsYWc9TiZyanVkZGF0ZT0yNC8wMS8yMDE4JnVwbG9hZGR0PTEyLzAxLzIwMTgmc3Bhc3NwaHJhc2U9MTUwNjE4MTMwNjI4" style="text-decoration:none;color:red" target="_blank">
-WPST/36727/2017</a>
-(25)<br>12/01/2018</br></td>
-<td align="center">
- JUSTICE DR. SHALINI PHANSALKAR-JOSHI<td align="justified">MR. KIRAN SURESH BHAGIA<b> Vs </b>M/S. KAKADE CONSTRUCITON CO PRIVATE LIMITED AND ANR</td>
-</td>
-<td align="center">
-09/01/2018<br/>BOMBAY(Civil)</td>
-<td align="center">
-<a href="generatenewauth.php?auth=cGF0aD0uL2RhdGEvanVkZ2VtZW50cy8yMDE4LyZmbmFtZT1DQ1JBMjQ5NzkxNy5wZGYmc21mbGFnPU4mcmp1ZGRhdGU9MjQvMDEvMjAxOCZ1cGxvYWRkdD0xNS8wMS8yMDE4JnNwYXNzcGhyYXNlPTE1MDYxODEzMDYyOA==" style="text-decoration:none;color:red" target="_blank">
-CRA/483/2017</a>
-(11)<br>15/01/2018</br></td>
-<td align="center">
- JUSTICE DR. SHALINI PHANSALKAR-JOSHI<td align="justified">JAYPRAKASH SITARAM GOSI<b> Vs </b>SMT. SARUBAI NARAYAN MULIK, THROUGH DECEASED THROUGH LRS.)  AND ORS.</td>
-</td>
-<td align="center">
-08/01/2018<br/>BOMBAY(Civil)</td>
-<td align="center">
-<a href="generatenewauth.php?auth=cGF0aD0uL2RhdGEvanVkZ2VtZW50cy8yMDE4LyZmbmFtZT1DV1AxOTUxNDE3LnBkZiZzbWZsYWc9TiZyanVkZGF0ZT0yNC8wMS8yMDE4JnVwbG9hZGR0PTExLzAxLzIwMTgmc3Bhc3NwaHJhc2U9MTUwNjE4MTMwNjI4" style="text-decoration:none;color:red" target="_blank">
-WP/8397/2017</a>
-(24)<br>11/01/2018</br></td>
-<td align="center">
- JUSTICE DR. SHALINI PHANSALKAR-JOSHI<td align="justified">SUBHASH SITARAM GOEL<b> Vs </b>SMT.SARUBAI NARAYAN MULIK (SINCE DECEASED THROUGH LRS.)  AND ORS.</td>
-</td>
-<td align="center">
-08/01/2018<br/>BOMBAY(Civil)</td>
-<td align="center">
-<a href="generatenewauth.php?auth=cGF0aD0uL2RhdGEvanVkZ2VtZW50cy8yMDE4LyZmbmFtZT1DV1AxOTI0MTE3LnBkZiZzbWZsYWc9TiZyanVkZGF0ZT0yNC8wMS8yMDE4JnVwbG9hZGR0PTExLzAxLzIwMTgmc3Bhc3NwaHJhc2U9MTUwNjE4MTMwNjI4" style="text-decoration:none;color:red" target="_blank">
-WP/8398/2017</a>
-(24)<br>11/01/2018</br></td>
-<td align="center">
- JUSTICE G. S. KULKARNI<td align="justified">MESSRS AUTO HIRERS AND ANR<b> Vs </b>COMMERCE CENTRE CO-OPERATIVE SOCIETY LIMITED</td>
-</td>
-<td align="center">
-08/01/2018<br/>BOMBAY(Civil)</td>
-<td align="center">
-<a href="generatenewauth.php?auth=cGF0aD0uL2RhdGEvanVkZ2VtZW50cy8yMDE4LyZmbmFtZT1DQ1JBMTg0MDkxNS5wZGYmc21mbGFnPU4mcmp1ZGRhdGU9MjQvMDEvMjAxOCZ1cGxvYWRkdD0yMC8wMi8yMDE4JnNwYXNzcGhyYXNlPTE1MDYxODEzMDYyOA==" style="text-decoration:none;color:red" target="_blank">
-CRA/358/2015</a>
-(15)<br>20/02/2018</br></td>
-<td align="center">
- JUSTICE DR. SHALINI PHANSALKAR-JOSHI<td align="justified">SUMMER PALACE LAND DEVELOPERS PRIVATE LIMITED<b> Vs </b>SMT. SARUBAI NARAYAN MULIK, THROUGH DECEASED THROUGH LRS.)  AND ORS.</td>
-</td>
-<td align="center">
-08/01/2018<br/>BOMBAY(Civil)</td>
-<td align="center">
-<a href="generatenewauth.php?auth=cGF0aD0uL2RhdGEvanVkZ2VtZW50cy8yMDE4LyZmbmFtZT1DV1AxOTUwOTE3LnBkZiZzbWZsYWc9TiZyanVkZGF0ZT0yNC8wMS8yMDE4JnVwbG9hZGR0PTExLzAxLzIwMTgmc3Bhc3NwaHJhc2U9MTUwNjE4MTMwNjI4" style="text-decoration:none;color:red" target="_blank">
-WP/8739/2017</a>
-(24)<br>11/01/2018</br></td>
-<td align="center">
- JUSTICE DR. SHALINI PHANSALKAR-JOSHI<td align="justified">POONAM AUNDH LAND DEVELOPERS PRIVATE LIMITED<b> Vs </b>SMT. SARUBAI NARAYAN MULIK, THROUGH DECEASED THROUGH LRS.)  AND ORS.</td>
-</td>
-<td align="center">
-08/01/2018<br/>BOMBAY(Civil)</td>
-<td align="center">
-<a href="generatenewauth.php?auth=cGF0aD0uL2RhdGEvanVkZ2VtZW50cy8yMDE4LyZmbmFtZT1DV1AxOTUxMDE3LnBkZiZzbWZsYWc9TiZyanVkZGF0ZT0yNC8wMS8yMDE4JnVwbG9hZGR0PTExLzAxLzIwMTgmc3Bhc3NwaHJhc2U9MTUwNjE4MTMwNjI4" style="text-decoration:none;color:red" target="_blank">
-WP/8740/2017</a>
-(24)<br>11/01/2018</br></td>
-<td align="center">
- JUSTICE DR. SHALINI PHANSALKAR-JOSHI<td align="justified">ROHINTON JAMSHEDJI MEHTA<b> Vs </b>SMT. SARUBAI NARAYAN MULIK, THROUGH DECEASED THROUGH LRS.)  AND ORS.</td>
-</td>
-<td align="center">
-08/01/2018<br/>BOMBAY(Civil)</td>
-<td align="center">
-<a href="generatenewauth.php?auth=cGF0aD0uL2RhdGEvanVkZ2VtZW50cy8yMDE4LyZmbmFtZT1DV1AxOTUxMjE3LnBkZiZzbWZsYWc9TiZyanVkZGF0ZT0yNC8wMS8yMDE4JnVwbG9hZGR0PTExLzAxLzIwMTgmc3Bhc3NwaHJhc2U9MTUwNjE4MTMwNjI4" style="text-decoration:none;color:red" target="_blank">
-WP/8741/2017</a>
-(24)<br>11/01/2018</br></td>
-<td align="center">
- JUSTICE DR. SHALINI PHANSALKAR-JOSHI<td align="justified">NITIN DWARKADAS NYATI<b> Vs </b>SMT. SARUBAI NARAYAN MULIK, THROUGH DECEASED THROUGH LRS.)  AND ORS.</td>
-</td>
-<td align="center">
-08/01/2018<br/>BOMBAY(Civil)</td>
-<td align="center">
-<a href="generatenewauth.php?auth=cGF0aD0uL2RhdGEvanVkZ2VtZW50cy8yMDE4LyZmbmFtZT1DV1AxOTUwODE3LnBkZiZzbWZsYWc9TiZyanVkZGF0ZT0yNC8wMS8yMDE4JnVwbG9hZGR0PTExLzAxLzIwMTgmc3Bhc3NwaHJhc2U9MTUwNjE4MTMwNjI4" style="text-decoration:none;color:red" target="_blank">
-WP/8399/2017</a>
-(24)<br>11/01/2018</br></td>
-<td align="center">
- JUSTICE DR. SHALINI PHANSALKAR-JOSHI<td align="justified">SMT. NIKITA MANOHAR MORE AND ANR<b> Vs </b>SHRI. NITESH PUNDLIK PATIL</td>
-</td>
-<td align="center">
-08/01/2018<br/>BOMBAY(Civil)</td>
-<td align="center">
-<a href="generatenewauth.php?auth=cGF0aD0uL2RhdGEvanVkZ2VtZW50cy8yMDE4LyZmbmFtZT1DV1AyNzEzNDE2LnBkZiZzbWZsYWc9TiZyanVkZGF0ZT0yNC8wMS8yMDE4JnVwbG9hZGR0PTEyLzAxLzIwMTgmc3Bhc3NwaHJhc2U9MTUwNjE4MTMwNjI4" style="text-decoration:none;color:red" target="_blank">
-WP/13138/2016</a>
-(6)<br>12/01/2018</br></td>
-<td align="center">
- JUSTICE R.M. BORDE<br/> JUSTICE RAJESH G. KETKAR<td align="justified">DEEPAK VALJI KARIA AND ORS<b> Vs </b>THE STATE OF MAHARASHTRA AND ORS</td>
-</td>
-<td align="center">
-08/01/2018<br/>BOMBAY(Civil)</td>
-<td align="center">
-<a href="generatenewauth.php?auth=cGF0aD0uL2RhdGEvanVkZ2VtZW50cy8yMDE4LyZmbmFtZT1DV1AzODMzMTcucGRmJnNtZmxhZz1OJnJqdWRkYXRlPTI0LzAxLzIwMTgmdXBsb2FkZHQ9MTIvMDEvMjAxOCZzcGFzc3BocmFzZT0xNTA2MTgxMzA2Mjg=" style="text-decoration:none;color:red" target="_blank">
-WP/5961/2017</a>
-(4)<br>12/01/2018</br></td>
-<td align="center">
- JUSTICE DR. SHALINI PHANSALKAR-JOSHI<td align="justified">SHRI. RAMDAS TRIMBAK SANAP AND ORS.<b> Vs </b>BAJIRAO TRIMBAK SANAP</td>
-</td>
-<td align="center">
-05/01/2018<br/>BOMBAY(Civil)</td>
-<td align="center">
-<a href="generatenewauth.php?auth=cGF0aD0uL2RhdGEvanVkZ2VtZW50cy8yMDE4LyZmbmFtZT1DV1AxMzU5NTE3LnBkZiZzbWZsYWc9TiZyanVkZGF0ZT0yNC8wMS8yMDE4JnVwbG9hZGR0PTExLzAxLzIwMTgmc3Bhc3NwaHJhc2U9MTUwNjE4MTMwNjI4" style="text-decoration:none;color:red" target="_blank">
-WP/5913/2017</a>
-(11)<br>11/01/2018</br></td>
-<td align="center">
- JUSTICE DR. SHALINI PHANSALKAR-JOSHI<td align="justified">SHRI. RAJENDRA MAHADEV TODKAR<b> Vs </b>M/S. PARANJPE SCHEMES (CONSTRUCTION) COMPANY LIMITED AND ORS.</td>
-</td>
-<td align="center">
-05/01/2018<br/>BOMBAY(Civil)</td>
-<td align="center">
-<a href="generatenewauth.php?auth=cGF0aD0uL2RhdGEvanVkZ2VtZW50cy8yMDE4LyZmbmFtZT1DV1AyOTI5MzE2LnBkZiZzbWZsYWc9TiZyanVkZGF0ZT0yNC8wMS8yMDE4JnVwbG9hZGR0PTEyLzAxLzIwMTgmc3Bhc3NwaHJhc2U9MTUwNjE4MTMwNjI4" style="text-decoration:none;color:red" target="_blank">
-WP/1385/2017</a>
-(7)<br>12/01/2018</br></td>
-<td align="center" colspan="4"><font color="blue">LBR  : Larger Benches Referred Matter</font></td>
+
+WP/572/2014
+
+WP/6778/2017
+
+WP/2068/2013
+
+WP/2177/2013
+
+WP/2175/2013
+
+WP/2173/2013
+
+WP/2172/2013
+
+WP/2067/2013
+
+WP/2063/2013
+
+WP/2070/2013
+
+WP/2078/2013
+
+SA/37/1993
+
+WP/5117/2018
+
+WP/3376/2017
+
+WP/2170/2015
+
+WP/4011/2017
+
+WP/5503/2018
+
+WP/3553/2018
+
+WP/5396/2018
+
+WP/114/2018
+
+WP/11259/2016
+
+WPST/1375/2018
+
+WP/768/2018
+
+WP/767/2018
+
+WP/1718/2016
+
+WP/2470/2014
+
+WP/1719/2016
+
+WP/11258/2016
+
+WP/11260/2016
+
+WPST/1610/2018
+
+WP/1714/2016
+
+WPST/1701/2018
+
+WP/12240/2017
+
+WP/568/2018
+
+WP/818/2017
+
+WP/5678/2015
+
+WP/1435/2018
+
+PIL/72/2018
+
+WP/1057/2018
+
+CAM/325/2012
+
+FCA/154/2012
+
+SA/851/2015
+
+WP/5047/2018
+
+WP/4905/2009
+
+WP/2888/2011
+
+WP/10221/2017
+
+WP/4910/2018
+
+WP/10774/2017
+
+WP/347/2018
+
+WP/13084/2017
+
+WP/956/2017
+
+CAW/59/2018
+
+PIL/119/2017
+
+CAW/1232/2016
+
+WPST/7520/2018
+
+WP/4319/2018
+
+WP/13144/2017
+
+WP/3588/2018
+
+WP/13315/2017
+
+WP/757/2016
+
+WP/6818/2013
+
+AOST/10887/2017
+
+WP/2342/2017
+
+CRA/861/2014
+
+WP/285/2009
+
+WP/6473/2008
+
+WP/7175/2017
+
+WP/3367/2018
+
+WP/4033/2018
+
+WP/257/2005
+
+FA/550/2018
+
+CRA/548/2016
+
+WP/4494/2018
+
+WP/12449/2015
+
+CRA/429/2016
+
+WP/4373/2017
+
+WP/2925/2018
+
+WP/3346/2018
+
+WP/4086/2015
+
+WP/12835/2016
+
+WP/2093/2017
+
+WPST/1788/2018
+
+WP/10658/2016
+
+WP/13973/2017
+
+WP/10899/2016
+
+CAW/2994/2017
+
+WP/3366/2018
+
+WP/3119/2018
+
+CRA/455/2016
+
+WP/13214/2017
+
+WP/5291/2017
+
+WP/13484/2017
+
+WP/12966/2017
+
+WP/2414/2013
+
+CAM/25/2017
+
+CRAST/4255/2018
+
+WP/2685/2018
+
+WP/5680/2017
+
+WP/12194/2017
+
+WP/5680/2017
+
+WP/2694/2018
+
+WP/1826/2018
+
+CRA/100/2018
+
+WP/11424/2014
+
+WPST/35221/2017
+
+WP/12378/2017
+
+WP/2493/2006
+
+WP/14245/2017
+
+WP/4339/2017
+
+FA/92/1994
+
+CAWST/8250/2018
+
+WP/5854/2013
+
+WP/4005/2017
+
+CRA/637/2016
+
+WP/3/2018
+
+WPST/29751/2017
+
+WP/4363/2017
+
+ARP/24/2017
+
+WP/11524/2017
+
+CRA/135/2014
+
+WP/1965/2013
+
+WP/2126/2013
+
+AO/1175/2014
+
+CRA/44/2016
+
+WP/12915/2016
+
+FCA/111/2012
+
+WP/7755/2017
+
+FA/21/2013
+
+WP/1631/2018
+
+FA/922/2013
+
+WP/10103/2017
+
+WP/9418/2017
+
+WP/414/2005
+
+WP/798/2005
+
+CRA/40/2018
+
+WP/10855/2017
+
+WP/180/2018
+
+WP/11678/2017
+
+CRA/57/2016
+
+WP/1203/2012
+
+CRA/12/2018
+
+WP/8764/2015
+
+CRA/154/2017
+
+WP/12203/2017
+
+CAF/3597/2013
+
+FA/630/2014
+
+WP/8122/2016
+
+WP/14073/2017
+
+WP/11595/2016
+
+CP/204/2011
+
+WP/2298/2018
+
+WP/2300/2018
+
+WP/2299/2018
+
+WP/8808/2017
+
+WP/5056/2015
+
+WP/9829/2017
+
+WP/8136/2017
+
+WP/8139/2017
+
+WP/11631/2013
+
+CRA/533/2017
+
+FA/381/2012
+
+WP/1748/1992
+
+WP/2736/2015
+
+WP/10852/2014
+
+FA/846/2012
+
+WP/8865/2014
+
+WP/8657/2014
+
+AOST/36523/2017
+
+WP/822/2018
+
+WP/7501/2003
+
+WP/7381/2003
+
+WP/6355/2003
+
+WP/6354/2003
+
+WP/6350/2003
+
+WP/5890/2003
+
+CAW/2316/2011
+
+CAW/1633/2006
+
+WP/3806/2004
+
+WP/8404/2004
+
+CAW/226/2005
+
+AOST/36523/2017
+
+WP/1274/2018
+
+WP/1124/2018
+
+WP/1273/2018
+
+WP/6647/2014
+
+WP/7222/2015
+
+WP/12952/2017
+
+WP/8909/2017
+
+WP/8808/2015
+
+WP/10918/2017
+
+WP/10026/2017
+
+WP/6638/2000
+
+WP/687/2015
+
+CRA/316/2017
+
+WP/14205/2017
+
+WP/13607/2017
+
+WP/4072/2005
+
+WP/10917/2017
+
+FCA/128/2009
+
+FCA/143/2015
+
+CAM/258/2016
+
+WP/4486/2017
+
+WP/13710/2017
+
+WP/296/2018
+
+WP/5377/2017
+
+WP/6584/2013
+
+WPST/35269/2017
+
+WP/1196/2017
+
+WP/13502/2017
+
+WP/7707/2016
+
+WP/5865/1998
+
+WP/13888/2017
+
+WP/12862/2017
+
+WP/12863/2017
+
+WP/6584/2013
+
+WP/15/2017
+
+WP/11141/2017
+
+WP/14090/2017
+
+WP/7272/2017
+
+WP/8278/2017
+
+WP/20/2017
+
+WP/203/2017
+
+WP/202/2017
+
+WP/12059/2017
+
+WP/11550/2017
+
+CAP/7/2017
+
+ARP/9/2015
+
+WPST/36727/2017
+
+CRA/483/2017
+
+WP/8397/2017
+
+WP/8398/2017
+
+CRA/358/2015
+
+WP/8739/2017
+
+WP/8740/2017
+
+WP/8741/2017
+
+WP/8399/2017
+
+WP/13138/2016
+
+WP/5961/2017
+
+WP/5913/2017
+
+WP/1385/2017
