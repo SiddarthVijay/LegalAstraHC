@@ -13,7 +13,7 @@ today_date = today_date.strftime("%d-%m-%Y")
 
 # Filling form for to and from dates
 bombayhc_URL = "http://www.bombayhighcourt.nic.in/ordqryrepact_action.php"
-payload = {'pageno': '1', 'frmaction': '', 'm_sideflg': 'C', 'actcode': '0', 'frmdate': '01-01-2005', 'todate': today_date, 'submit1': 'Submit'}
+payload = {'pageno': '1', 'frmaction': '', 'm_sideflg': 'OS', 'actcode': '0', 'frmdate': '01-01-2005', 'todate': today_date, 'submit1': 'Submit'}
 
 bombayhc_page = requests.post(bombayhc_URL, payload)
 
